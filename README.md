@@ -2,21 +2,27 @@
 
 Anthony Fan 的个人 second-brain / working wiki。
 
-## Featured facts
-- This repo is a living personal second-brain rather than a traditional software project.
-- It captures ongoing knowledge management, learning, work materials, and fitness/nutrition tracking in one long-lived system.
-- It separates current state from historical versions so plans can evolve without losing past context.
-- It is organized for long-term retrieval and reuse, not just short-term note dumping.
-- If you want to understand how Anthony thinks and organizes ongoing work, this repo is the best entry point.
+## 日历与近况
 
-Anthony Fan 的个人 second-brain / working wiki。
+### Fitness · 2026-04-18
+- 游泳 500m（25m 池，425m 蛙泳 + 75m 自由泳）
+- 总时长 26:40，有效训练 23:09，平均配速 4'37"/100m
+- 平均心率 150 bpm，估算总消耗 180 kcal / 活动消耗 143 kcal
+- 相比 2026-04-14，这次配速更快且距离更长
 
-这个仓库用来沉淀 Anthony 的：
-- 日常知识管理与长期笔记
-- 健身与营养记录
-- 学习记录与研究线索
-- 工作相关的持续资料与流程
-- 项目想法、阶段性计划与版本化历史
+### Food · 2026-04-18
+- 晚餐：牛腱子 + 额外牛肉
+- 总肉量约 1.5 斤（约 750g）
+- 这顿基本已经覆盖，甚至可能超过当天蛋白目标
+
+### Planning · Week of 2026-04-20
+- 当前训练方向是游泳 + 力量训练的混合结构
+- 下周计划包含 swim / aerobic，以及 push / pull 阻力训练
+- 目标是以减脂导向的稳定执行，而不是单次练很猛
+
+### Work / system note · current
+- 这个 wiki 现在更像一个公开的“近期状态面板 + 长期 second-brain 入口”
+- 首页优先展示近况与时间线，而不是只说明仓库结构怎么用
 
 ## 这是什么
 这不是一个传统软件项目仓库，而是一个持续演化的个人知识系统（personal wiki / second brain）。
@@ -26,24 +32,11 @@ Anthony Fan 的个人 second-brain / working wiki。
 - 保留“当前状态”与“历史版本”两层信息
 - 让训练计划、饮食方案、学习记录、工作笔记都能被长期复用
 
-## 仓库内容概览
-- `areas/`：长期持续维护的生活/工作领域
-- `projects/`：有明确目标和阶段的项目
-- `resources/`：知识沉淀、参考资料、灵感与研究素材
-- `archive/`：归档内容
-- `templates/`：可复用模板
-- `inbox/`：临时收集、待整理信息
-
-## 当前重点区域
-- `areas/fitness/`：训练计划、版本记录、周报、饮食策略
-- `areas/learning/`：学习主题与记录
-- `areas/work/`：工作事项与长期职责
-
-## 使用方式
-这个 wiki 采用“当前计划 + 历史归档 + 周期复盘”的思路维护：
-- 当前有效内容保存在对应 area 的主文件里
-- 历史版本和旧方案单独归档
-- 日常变化通过 check-in / weekly review 逐步沉淀
+## 结构入口
+- `index.md`：总导航
+- `areas/fitness/`：训练、饮食、周计划、check-ins
+- `resources/`：知识沉淀与参考资料
+- `archive/`：历史归档
 
 ## 说明
-如果你是第一次来到这个仓库，可以先从 `index.md` 开始了解整体结构。
+如果你是第一次来到这个仓库，可以先看上面的“日历与近况”，再按需要进入具体 area 或 index。

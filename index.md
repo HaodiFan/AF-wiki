@@ -3,6 +3,11 @@
 > Second-brain master navigation
 > Last updated: 2026-04-18
 
+## 日历与近况
+- `2026-04-18`：游泳 500m，配速提升，距离也高于 2026-04-14
+- `2026-04-18`：晚餐牛腱子 + 牛肉，总量约 1.5 斤
+- `2026-04-20 week`：进入游泳 + 力量混合安排，目标偏减脂稳定执行
+
 ## Top-level
 - [[SCHEMA]] — overall second-brain architecture and operating rules
 - [[index]] — this navigation page
