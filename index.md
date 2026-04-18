@@ -22,6 +22,7 @@
 
 ## Resources
 - `resources/knowledge/` — evergreen knowledge and reference notes
+- `resources/knowledge/wechat-public-account-articles.md` — 微信聊天中沉淀的公众号文章线索库，便于后续研究和选题
 - `resources/ideas/` — ideas, concept seeds, and developed inspirations
 
 ## Archive
