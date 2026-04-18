@@ -2,6 +2,15 @@
 
 Anthony Fan 的个人 second-brain / working wiki。
 
+## Featured facts
+- This repo is a living personal second-brain rather than a traditional software project.
+- It captures ongoing knowledge management, learning, work materials, and fitness/nutrition tracking in one long-lived system.
+- It separates current state from historical versions so plans can evolve without losing past context.
+- It is organized for long-term retrieval and reuse, not just short-term note dumping.
+- If you want to understand how Anthony thinks and organizes ongoing work, this repo is the best entry point.
+
+Anthony Fan 的个人 second-brain / working wiki。
+
 这个仓库用来沉淀 Anthony 的：
 - 日常知识管理与长期笔记
 - 健身与营养记录
