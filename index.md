@@ -9,7 +9,7 @@
 - `2026-04-20 week`：进入游泳 + 力量混合安排，目标偏减脂稳定执行
 
 ## Top-level
-- [[SCHEMA]] — overall second-brain architecture and operating rules
+- [[SCHEMA]] — overall LeadFlow architecture and operating rules
 - [[index]] — this navigation page
 - [[log]] — major structural changes and system evolution log
 

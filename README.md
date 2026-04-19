@@ -4,7 +4,7 @@
 
 **一个持续演化的个人知识系统 —— 把分散的信息收拢成可检索、可回顾、可持续更新的结构。**
 
-<sub>PARA 架构 · Agent 辅助维护 · 公开运行中</sub>
+<sub>LeadFlow 架构 · Agent 辅助维护 · 公开运行中</sub>
 
 </div>
 
@@ -14,13 +14,14 @@
 
 | 日期 | 领域 | 动态 |
 |:-----|:-----|:-----|
+| 04-19 | 🔧 System | LeadFlow 架构正式命名，并统一仓库与主页文案 — [详情](log.md) |
 | 04-18 | 📋 Planning | W17 训练计划改为下肢、游泳、推拉混合，并匹配营养节奏 — [详情](areas/fitness/20-weeks/2026-W17-plan.md) |
 | 04-18 | 🏊 Fitness | 游泳 500m，配速 4'37/100m，平均心率 150 bpm — [详情](areas/fitness/10-checkins/2026-04.md) |
 | 04-18 | 🥩 Nutrition | 晚餐牛腱子加牛肉约 750g，当日蛋白基本已覆盖 — [详情](areas/fitness/10-checkins/2026-04.md) |
 | 04-18 | 📋 Planning | 当前减脂主计划固定为 3 次游泳加 3 次力量代谢训练 — [详情](areas/fitness/02-current-plan.md) |
 | 04-18 | 📚 Reading | 收录 7 篇公众号技术文章线索，并建立统一入口页 — [详情](resources/knowledge/wechat-public-account-articles.md) |
-| 04-18 | 🔧 System | Wiki 正式收敛为 PARA second-brain 架构 — [详情](SCHEMA.md) |
 | 04-18 | 🔧 System | 首页与总导航改成近期状态优先展示，突出时间线入口 — [详情](log.md) |
+| 04-18 | 🔧 System | Wiki 正式收敛为 LeadFlow 架构，并明确七层分工 — [详情](SCHEMA.md) |
 | 04-18 | 📚 Reading | 为 7 篇微信文章建扩展笔记，正文受限先保留研究线索 — [详情](log.md) |
 | 04-10 | 🥩 Nutrition | 归档三文鱼或牛腱晚餐模板，日蛋白投射约 157 克 — [详情](areas/fitness/30-nutrition/meal-history/2026-04-10-salmon-or-beef-dinner-plan.md) |
 | 03-24 | 📚 Reading | 记录 Flutter HTTPS 抓包线索，聚焦新版网络栈与 AI 辅助 — [详情](resources/knowledge/wechat-articles/2026-03-24-flutter-https-capture.md) |
@@ -41,7 +42,7 @@ AF-wiki/
 │   └── knowledge/       公众号文章线索与扩展笔记
 ├── wiki/            ← 结构化知识页框架，实体页筹建中
 ├── index.md         ← 总导航入口
-├── SCHEMA.md        ← second brain 结构约定
+├── SCHEMA.md        ← LeadFlow 结构约定
 ├── log.md           ← 系统级变更日志
 ├── README.md        ← 自动生成的仓库首页
 └── skill.zip        ← 相关技能压缩包

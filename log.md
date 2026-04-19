@@ -1,5 +1,11 @@
 # AF Wiki Log
 
+## [2026-04-19] rename | LeadFlow architecture named
+- Named AF's `PARA + Lead` variant as `LeadFlow`
+- Updated `/home/AF-wiki/SCHEMA.md`, `/home/AF-wiki/README.md`, `dashboards/recent.json`, and profile-feed wording to use `LeadFlow` instead of generic `PARA`
+- Clarified that dashboards, templates, archive, and agent refresh are first-class parts of the system rather than add-ons
+---
+
 ## [2026-04-18] update | Homepage and wiki index reframed around recent-status display
 - Reworked the GitHub profile README to show recent updates by area instead of mainly describing repository usage
 - Reworked `/home/AF-wiki/README.md` to lead with `日历与近况` instead of a repo-introduction-heavy structure

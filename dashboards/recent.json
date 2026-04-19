@@ -1,5 +1,12 @@
 [
   {
+    "date": "04-19",
+    "emoji": "🔧",
+    "area": "System",
+    "summary": "LeadFlow 架构正式命名，并统一仓库与主页文案",
+    "link": "https://github.com/HaodiFan/AF-wiki/blob/main/log.md"
+  },
+  {
     "date": "04-18",
     "emoji": "📋",
     "area": "Planning",
@@ -33,12 +40,5 @@
     "area": "Reading",
     "summary": "收录 7 篇公众号技术文章线索，并建立统一入口页",
     "link": "https://github.com/HaodiFan/AF-wiki/blob/main/resources/knowledge/wechat-public-account-articles.md"
-  },
-  {
-    "date": "04-18",
-    "emoji": "🔧",
-    "area": "System",
-    "summary": "Wiki 正式收敛为 PARA second-brain 架构",
-    "link": "https://github.com/HaodiFan/AF-wiki/blob/main/SCHEMA.md"
   }
 ]

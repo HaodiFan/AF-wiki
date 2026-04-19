@@ -1,11 +1,22 @@
-# AF Second Brain Schema
+# AF LeadFlow Schema
 
-> Purpose: build a durable, evolvable second-brain system that can store knowledge, active plans, learning records, ideas, personal operating context, and focused domains like fitness without mixing everything together.
-> Last updated: 2026-04-18
+> Purpose: define LeadFlow, AF's lead-driven evolution of PARA, as a durable second-brain system that can store knowledge, active plans, learning records, ideas, personal operating context, and focused domains like fitness without mixing everything together.
+> Last updated: 2026-04-19
 
 ## Core design decision
 The wiki should follow a **second-brain architecture**, not a single-topic archive.
 Fitness is one domain inside the system, not the system itself.
+
+## Framework identity
+This system is called **LeadFlow**.
+
+LeadFlow is not plain PARA.
+It is AF's own `PARA + Lead` operating model:
+- lead-first capture through inbox and dashboards
+- stable separation of areas, projects, resources, and archive
+- dashboards as a first-class control layer
+- templates as a first-class consistency layer
+- agent-assisted maintenance as a default operating assumption
 
 ## Top-level structure
 
@@ -25,7 +36,7 @@ AF-wiki/
 ├── SCHEMA.md              # this file
 └── log.md                 # major structural and knowledge-management changes
 
-This is close to a PARA-style second brain, but adapted for agent-assisted maintenance.
+This top-level shape inherits PARA's separation logic, but LeadFlow extends it into a lead-driven, agent-maintained operating system.
 
 ---
 
@@ -113,7 +124,7 @@ Examples:
 
 ---
 
-## Final chosen decision structure
+## LeadFlow layers
 The final structure for this second brain is:
 
 1. **Capture layer** — inbox
@@ -124,9 +135,10 @@ The final structure for this second brain is:
 6. **Control layer** — dashboards
 7. **Consistency layer** — templates
 
-This is the final decision because it supports both:
+LeadFlow is the chosen model because it supports both:
 - broad life knowledge management
 - domain-specific systems like fitness
+- lead-driven discovery and intake
 - future agent-assisted planning and retrieval
 
 ---
@@ -158,7 +170,7 @@ areas/fitness/
 ├── training/
 └── change-log.md
 
-This keeps the fitness memory system intact while placing it inside the broader second-brain architecture.
+This keeps the fitness memory system intact while placing it inside the broader LeadFlow architecture.
 
 ---
 
@@ -227,6 +239,7 @@ When new information arrives, classify it first:
 ---
 
 ## What this schema optimizes for
+- lead-first capture and triage
 - fast capture
 - long-term retrieval
 - cross-domain thinking
