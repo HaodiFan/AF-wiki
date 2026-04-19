@@ -1,0 +1,53 @@
+name: Sync wiki feed to profile README
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "dashboards/recent.json"
+      - ".github/workflows/sync-profile-feed.yml"
+      - ".github/scripts/sync_profile_feed.py"
+  workflow_dispatch:
+
+jobs:
+  sync:
+    if: ${{ secrets.PROFILE_PAT != '' }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout AF-wiki
+        uses: actions/checkout@v4
+
+      - name: Checkout profile repo
+        uses: actions/checkout@v4
+        with:
+          repository: HaodiFan/HaodiFan
+          ref: main
+          token: ${{ secrets.PROFILE_PAT }}
+          path: profile-repo
+
+      - name: Render profile feed
+        run: python3 .github/scripts/sync_profile_feed.py
+
+      - name: Commit and push
+        working-directory: profile-repo
+        run: |
+          git config user.name "af-wiki-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add README.md
+
+          if git diff --cached --quiet; then
+            echo "No README changes to commit."
+            exit 0
+          fi
+
+          git commit -m "sync: wiki feed $(date +%Y-%m-%d)"
+          git pull --rebase origin main
+          git push origin HEAD:main
+
+  missing-secret:
+    if: ${{ secrets.PROFILE_PAT == '' }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Explain skipped sync
+        run: echo "PROFILE_PAT is not configured; skipping profile sync."

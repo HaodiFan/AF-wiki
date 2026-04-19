@@ -1,0 +1,44 @@
+[
+  {
+    "date": "04-18",
+    "emoji": "📋",
+    "area": "Planning",
+    "summary": "W17 训练计划改为下肢、游泳、推拉混合，并匹配营养节奏",
+    "link": "https://github.com/HaodiFan/AF-wiki/blob/main/areas/fitness/20-weeks/2026-W17-plan.md"
+  },
+  {
+    "date": "04-18",
+    "emoji": "🏊",
+    "area": "Fitness",
+    "summary": "游泳 500m，配速 4'37/100m，平均心率 150 bpm",
+    "link": "https://github.com/HaodiFan/AF-wiki/blob/main/areas/fitness/10-checkins/2026-04.md"
+  },
+  {
+    "date": "04-18",
+    "emoji": "🥩",
+    "area": "Nutrition",
+    "summary": "晚餐牛腱子加牛肉约 750g，当日蛋白基本已覆盖",
+    "link": "https://github.com/HaodiFan/AF-wiki/blob/main/areas/fitness/10-checkins/2026-04.md"
+  },
+  {
+    "date": "04-18",
+    "emoji": "📋",
+    "area": "Planning",
+    "summary": "当前减脂主计划固定为 3 次游泳加 3 次力量代谢训练",
+    "link": "https://github.com/HaodiFan/AF-wiki/blob/main/areas/fitness/02-current-plan.md"
+  },
+  {
+    "date": "04-18",
+    "emoji": "📚",
+    "area": "Reading",
+    "summary": "收录 7 篇公众号技术文章线索，并建立统一入口页",
+    "link": "https://github.com/HaodiFan/AF-wiki/blob/main/resources/knowledge/wechat-public-account-articles.md"
+  },
+  {
+    "date": "04-18",
+    "emoji": "🔧",
+    "area": "System",
+    "summary": "Wiki 正式收敛为 PARA second-brain 架构",
+    "link": "https://github.com/HaodiFan/AF-wiki/blob/main/SCHEMA.md"
+  }
+]
