@@ -1,22 +1,21 @@
 # Historical Strength Reference
 
-> Purpose: convert AF's historical exercise fragments into a usable exercise library for future programming.
-> Scope: historical reference only; not a current plan and not a single-day workout log.
+> Purpose: preserve AF's historical strength records as a dedicated personal-best / prior-performance reference.
+> Scope: update-only historical archive; not a daily log, not a weekly summary, and not the current training plan.
 > Interpretation rule: default to **weight x reps** in kg unless the pattern strongly indicates **reps x weight** or a fixed-set notation like `25*8*4`.
 > Last updated: 2026-04-20
 
-## How to use this file
-- Use this as a prior-performance reference when choosing starting loads, progression jumps, and machine-first substitutions.
-- Prefer the **best clearly interpretable top set** over noisy fragments.
-- When notation is ambiguous, keep both the raw note and the most likely interpretation.
-- Do not treat everything here as current ability; use it as historical context.
+## Use rule
+- This file is the canonical place for historical strength records, PR-like references, and prior top sets.
+- Only **update** this file when new historical strength records are provided or clarified.
+- Do **not** place strength-history archives inside `10-checkins/` again.
+- Do **not** treat entries here as current ability without considering recency and recovery.
 
 ---
 
 ## Core / abs
 
 ### Ab machine
-- Historical sets:
   - 35 x 12
   - 37.5 x 12
   - 40 x 12
