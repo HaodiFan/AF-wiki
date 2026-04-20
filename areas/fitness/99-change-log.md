@@ -10,9 +10,12 @@
 - 2026-04-18: Replaced the old current-plan snapshot with the user-supplied fat-loss weekly plan and created archived plan-version storage under areas/fitness/plan-versions/.
 - 2026-04-18: Added `30-nutrition/meal-history/`, then corrected the archived salmon-or-beef dinner plan to its actual date (2026-04-10) after the user clarified it was from the previous Thursday.
 - 2026-04-19: Logged an ALDI grocery receipt as nutrition-supporting purchase history for the active home meal structure (sweet potato, banana, spinach sprouts, beef shank, bell peppers, broccoli, eggs; total 144.34 CNY).
+- 2026-04-20: Logged the actual 2026-04-20 chest + triceps + core strength session with full exercise details, duration 48:31, 414 kcal total / 338 kcal active, avg HR 128 bpm, and difficult intensity so same-day coaching uses the completed workout rather than only dinner intake.
+- 2026-04-20: Added the previously missed lunch record for 2026-04-20: five-spice beef shank 256 g plus garden vegetable salad 195 g, about 537 kcal and 77 g protein total.
 - 2026-04-20: Added a historical push-day strength log covering bench press, incline press, chest accessory work, triceps work, and core so future recommendations can anchor chest/triceps loading to prior performance.
 - 2026-04-20: Expanded the strength archive with a broader historical exercise library across shoulders, chest, back, core, and limited leg work so future recommendations can use prior loads/reps and machine-friendly substitutions.
 - 2026-04-20: Created `30-strategy/historical-strength-reference.md` to normalize the historical lifting archive into machine-first exercise references, likely top sets, and ambiguity notes for future programming.
 - 2026-04-20: Upgraded `SCHEMA.md` so the fitness wiki explicitly supports summary-layer, exercise-layer, and meal-layer daily records at the same time.
 - 2026-04-20: Added `30-strategy/templates/daily-checkin-template.md` as the preferred normalized format for future training + meal logging.
 - 2026-04-20: Refactored `10-checkins/2026-04.md` into a more structured format for recent entries while preserving historical archive content.
+- 2026-04-20: Created `areas/fitness/index.md` as the fitness-area entrypoint, including read order, file responsibilities, and anti-miss audit rules so future coaching and completeness checks do not rely on a single file.

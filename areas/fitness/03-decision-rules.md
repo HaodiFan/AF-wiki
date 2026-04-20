@@ -17,6 +17,8 @@
 - Weekly behavior belongs in weekly summaries.
 - Important changes must also be appended to the change log.
 - When historical strength logs are ambiguously formatted, interpret them using normal gym notation first: usually weight then reps, but allow reps-then-weight when the pattern or common exercise notation clearly supports that reading.
+- Before saying a day is unrecorded or incomplete, cross-check current chat facts with the date block in `10-checkins`, the corresponding `20-weeks` note, and the current plan.
+- If the user adds same-day food or training facts in multiple turns, merge them into one date block and explicitly mark any still-missing meal slots or training details.
 
 ## Recommendation style
 - Recommendations should be based on historical context and expressed as the next best action, not just abstract analysis.

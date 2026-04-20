@@ -101,6 +101,8 @@ Examples:
 - if fatigue is high and training density increased, prefer recovery or lower-intensity work
 - if recent training already hit shoulders/arms heavily, avoid redundant shoulder-arm day unless recovery is confirmed
 - if the user dislikes lower-body focus, keep minimum effective lower-body work distributed unless the goal requires more
+- before answering any "did I record this / is today's data complete / what is missing" question, cross-check the current chat facts against `10-checkins`, `20-weeks`, and `02-current-plan`, and explicitly report mismatches instead of trusting a single file
+- when the user provides same-day updates in multiple turns, merge them into the same date block immediately and mark any still-missing meal slots or training fields
 
 This is the most important file for planning continuity.
 
@@ -151,6 +153,14 @@ For each meal, capture what is known:
 - calories
 - protein
 - notes (estimated, label-based, sauce included, etc.)
+
+### Required anti-miss audit for same-day updates
+When the same date is updated across multiple chat turns:
+- merge new facts into the existing date block immediately rather than appending a second partial day note
+- check whether breakfast / lunch / dinner / snack / post-workout / pre-sleep are now known, unknown, or explicitly unconfirmed
+- check whether training summary metrics and exercise details are both present when a workout occurred
+- if `20-weeks` contains a food or training fact not yet present in the date block, backfill the finer-grained `10-checkins` entry so future audits do not falsely report "missing"
+- if a fact was mentioned in chat but is still not written, explicitly mark it as `chat-known but not yet logged` until it is written
 
 Keep concise, but do **not** collapse away useful training metrics or meal-level facts that will improve later evaluations.
 
