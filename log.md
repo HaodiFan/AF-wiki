@@ -1,5 +1,10 @@
 # AF Wiki Log
 
+## 2026-04-20
+- Fitness: completed Monday chest + triceps + core strength session (48:31, 414 kcal total / 338 kcal active, avg HR 128 bpm, difficult intensity); key movements included bench press, incline press, machine fly, triceps work, hanging leg raises, and plank
+- Nutrition: breakfast 3 eggs; lunch five-spice beef shank 256 g + garden vegetable salad 195 g (~537 kcal, ~77 g protein); dinner salmon 200 g + broccoli + 2 bell peppers + 1 bowl rice; pre-sleep intake still unconfirmed
+- Overall evaluation: today matched the active Monday push slot closely and counts as a genuine completed strength day; meal structure was largely on-plan with strong lunch/dinner protein anchors, but total-day completion still depends on whether the pre-sleep protein slot was added
+
 ## [2026-04-20] refactor | Area layer normalized around dynamic modules
 - Promoted retained knowledge notes from `resources/knowledge/` into `areas/knowledge/`
 - Added `areas/index.md` as the canonical area registry and skill-routing map

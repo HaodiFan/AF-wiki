@@ -29,6 +29,9 @@
 
 | 日期 | 领域 | 动态 |
 |:-----|:-----|:-----|
+| 04-20 | 💪 Fitness | 完成胸 + 三头 + 核心力量训练 48:31，414 kcal，平均心率 128 bpm — [详情](areas/fitness/10-checkins/2026-04.md) |
+| 04-20 | 🍽️ Nutrition | 早餐 3 个鸡蛋；午餐牛腱子 + 沙拉约 537 kcal / 77 g 蛋白；晚餐三文鱼 200 g + 西兰花 + 彩椒 + 米饭 — [详情](areas/fitness/10-checkins/2026-04.md) |
+| 04-20 | 📝 Summary | 今天完成计划内周一 push 日；训练完成度高，饮食主餐结构到位，睡前补给仍待补充确认 — [详情](areas/fitness/10-checkins/2026-04.md) |
 | 04-20 | 🔧 System | area 层收敛为动态模块：knowledge 提升为 area，并补 work area 骨架 — [详情](log.md) |
 | 04-19 | 🔧 System | LeadFlow 架构正式命名，并统一仓库与主页文案 — [详情](log.md) |
 | 04-18 | 📋 Planning | W17 训练计划改为下肢、游泳、推拉混合，并匹配营养节奏 — [详情](areas/fitness/20-weeks/2026-W17-plan.md) |
