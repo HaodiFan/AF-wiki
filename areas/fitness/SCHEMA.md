@@ -4,6 +4,12 @@
 > Owner: AF
 > Last updated: 2026-04-20
 
+## Preferred skill routing
+- `ai-fitness-coach-cn`
+  - use for day-to-day coaching, logging, plan adjustment, and next-step recommendations
+- `personal-tracking-memory-architecture`
+  - use when refactoring the internal fitness memory structure itself
+
 ## Design principles
 - Separate **stable facts** from **fast-changing logs**.
 - Keep each note focused on one purpose.

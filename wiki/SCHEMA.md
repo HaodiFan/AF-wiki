@@ -1,5 +1,9 @@
 # AF Wiki Schema
 
+> Legacy bootstrap schema.
+> This file belongs to the earlier `wiki/`-only experiment.
+> The current canonical architecture is documented in the root [[SCHEMA]], with navigation starting from [[START-HERE]] and [[index]].
+
 ## Domain
 General-purpose knowledge wiki for AF, initialized for future source ingestion and topic pages.
 

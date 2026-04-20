@@ -1,5 +1,12 @@
 [
   {
+    "date": "04-20",
+    "emoji": "🔧",
+    "area": "System",
+    "summary": "area 层收敛为动态模块：knowledge 提升为 area，并补 work area 骨架",
+    "link": "https://github.com/HaodiFan/AF-wiki/blob/main/log.md"
+  },
+  {
     "date": "04-19",
     "emoji": "🔧",
     "area": "System",
@@ -37,8 +44,8 @@
   {
     "date": "04-18",
     "emoji": "📚",
-    "area": "Reading",
+    "area": "Knowledge",
     "summary": "收录 7 篇公众号技术文章线索，并建立统一入口页",
-    "link": "https://github.com/HaodiFan/AF-wiki/blob/main/resources/knowledge/wechat-public-account-articles.md"
+    "link": "https://github.com/HaodiFan/AF-wiki/blob/main/areas/knowledge/wechat-public-account-articles.md"
   }
 ]

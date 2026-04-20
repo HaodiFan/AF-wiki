@@ -39,7 +39,7 @@
 
 ## Links
 - Related deep research:
-- Related project/area/resource: [[research-backlog]]
+- Related project/area/resource: [[dashboards/research-backlog]]
 
 ## Raw notes
 - Claudecode haha利用cc越狱版做了个桌面端应用，在GitHub

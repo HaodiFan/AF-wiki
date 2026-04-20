@@ -33,7 +33,7 @@
 
 ## Links
 - Related deep research:
-- Related project/area/resource: resources/leads/
+- Related project/area/resource: [[dashboards/research-backlog]]
 
 ## Raw notes
 - 一个 app 可以授权所有数据，这个数据可以被 MCP 使用，形成个人数据中心。

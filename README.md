@@ -2,11 +2,26 @@
 
 # 🧠 AF Wiki
 
-**一个持续演化的个人知识系统 —— 把分散的信息收拢成可检索、可回顾、可持续更新的结构。**
+**一个按动态 area 模块组织的个人知识系统。**
 
-<sub>LeadFlow 架构 · Agent 辅助维护 · 公开运行中</sub>
+<sub>LeadFlow 架构 · Area Registry · Agent 辅助维护</sub>
 
 </div>
+
+---
+
+## 👀 第一次看这里
+
+如果你是第一次打开这个仓库，先看 [START-HERE.md](START-HERE.md)。
+
+这次重构后的核心规则是：
+- `areas/` 承载持续性的 area 模块
+- `resources/` 只承载共享的 lead / research 流水线
+- 每个 area 自己维护内部 `SCHEMA.md`
+- LeadFlow 的其他顶层层级也都已补成轻量 scaffold
+
+推荐阅读顺序：
+[START-HERE.md](START-HERE.md) → [areas/index.md](areas/index.md) → [index.md](index.md) → 目标 area 的 `SCHEMA.md`
 
 ---
 
@@ -14,46 +29,45 @@
 
 | 日期 | 领域 | 动态 |
 |:-----|:-----|:-----|
+| 04-20 | 🔧 System | area 层收敛为动态模块：knowledge 提升为 area，并补 work area 骨架 — [详情](log.md) |
 | 04-19 | 🔧 System | LeadFlow 架构正式命名，并统一仓库与主页文案 — [详情](log.md) |
 | 04-18 | 📋 Planning | W17 训练计划改为下肢、游泳、推拉混合，并匹配营养节奏 — [详情](areas/fitness/20-weeks/2026-W17-plan.md) |
 | 04-18 | 🏊 Fitness | 游泳 500m，配速 4'37/100m，平均心率 150 bpm — [详情](areas/fitness/10-checkins/2026-04.md) |
 | 04-18 | 🥩 Nutrition | 晚餐牛腱子加牛肉约 750g，当日蛋白基本已覆盖 — [详情](areas/fitness/10-checkins/2026-04.md) |
-| 04-18 | 📋 Planning | 当前减脂主计划固定为 3 次游泳加 3 次力量代谢训练 — [详情](areas/fitness/02-current-plan.md) |
-| 04-18 | 📚 Reading | 收录 7 篇公众号技术文章线索，并建立统一入口页 — [详情](resources/knowledge/wechat-public-account-articles.md) |
+| 04-18 | 📚 Knowledge | 收录 7 篇公众号技术文章线索，并建立统一入口页 — [详情](areas/knowledge/wechat-public-account-articles.md) |
 | 04-18 | 🔧 System | 首页与总导航改成近期状态优先展示，突出时间线入口 — [详情](log.md) |
-| 04-18 | 🔧 System | Wiki 正式收敛为 LeadFlow 架构，并明确七层分工 — [详情](SCHEMA.md) |
-| 04-18 | 📚 Reading | 为 7 篇微信文章建扩展笔记，正文受限先保留研究线索 — [详情](log.md) |
-| 04-10 | 🥩 Nutrition | 归档三文鱼或牛腱晚餐模板，日蛋白投射约 157 克 — [详情](areas/fitness/30-nutrition/meal-history/2026-04-10-salmon-or-beef-dinner-plan.md) |
-| 03-24 | 📚 Reading | 记录 Flutter HTTPS 抓包线索，聚焦新版网络栈与 AI 辅助 — [详情](resources/knowledge/wechat-articles/2026-03-24-flutter-https-capture.md) |
-| 03-21 | 📚 Reading | 沉淀 AI 自主做研究访谈线索，关注假设实验与文献自动化 — [详情](resources/knowledge/wechat-articles/2026-03-21-ai-doing-research.md) |
-| 03-15 | 📚 Reading | 补入 RAG 检索选型笔记，对比 BGE 与 GTE 的适配差异 — [详情](resources/knowledge/wechat-articles/2026-03-15-embedding-bge-vs-gte.md) |
 
-## 🗺️ 结构总览
+## 🗺️ 当前结构总览
 
 ```text
 AF-wiki/
-├── .github/         ← 自动化与同步工作流配置
 ├── archive/         ← 历史归档与旧版本保留
-│   └── legacy/          已归档的旧 fitness 体系
-├── areas/           ← 持续运行的生活领域
-│   └── fitness/         训练、营养、周计划与 check-in
-├── dashboards/      ← 主页动态数据与摘要面板
-├── resources/       ← 知识沉淀与阅读线索
-│   └── knowledge/       公众号文章线索与扩展笔记
-├── wiki/            ← 结构化知识页框架，实体页筹建中
-├── index.md         ← 总导航入口
-├── SCHEMA.md        ← LeadFlow 结构约定
-├── log.md           ← 系统级变更日志
-├── README.md        ← 自动生成的仓库首页
-└── skill.zip        ← 相关技能压缩包
+├── areas/           ← 动态 area 模块层
+│   ├── index.md         area registry + routing
+│   ├── fitness/         训练、营养、周计划与 check-in
+│   ├── knowledge/       阅读入口与 retained article notes
+│   └── work/            工作 area 骨架
+├── dashboards/      ← 摘要面板与 backlog
+├── resources/       ← 共享 lead / research 流水线
+│   ├── leads/           weak-signal capture
+│   ├── research/        deep research scaffold
+│   └── ideas/           ideas scaffold
+├── inbox/           ← quick capture scaffold
+├── projects/        ← project layer scaffold
+├── templates/       ← 统一模板
+├── wiki/            ← 早期 wiki 骨架草案，不是当前主入口
+├── START-HERE.md    ← 当前-vs-目标导览
+├── index.md         ← 根级导航入口
+├── SCHEMA.md        ← LeadFlow 总规则
+└── log.md           ← 系统级变更日志
 ```
 
-| 快速入口 | 活跃领域 | 待激活 |
+| 快速入口 | 当前已落地 | 规划中 / 历史遗留 |
 |:-----|:-----|:-----|
-| [index.md](index.md)<br>[SCHEMA.md](SCHEMA.md)<br>[log.md](log.md) | [areas/fitness/](areas/fitness/) 训练、营养、周计划与 check-in<br>[resources/knowledge/](resources/knowledge/) 阅读线索与扩展笔记<br>[archive/legacy/](archive/legacy/) 旧版 fitness 资料归档 | [wiki/](wiki/) 索引与规范已建，实体页仍在筹建中 |
+| [START-HERE.md](START-HERE.md)<br>[areas/index.md](areas/index.md)<br>[index.md](index.md)<br>[SCHEMA.md](SCHEMA.md)<br>[log.md](log.md) | [areas/fitness/](areas/fitness/) 健身 memory<br>[areas/knowledge/](areas/knowledge/) 技术阅读与 retained knowledge<br>[areas/work/](areas/work/) work area 骨架<br>[resources/leads/](resources/leads/) 研究候选与跟踪<br>[resources/research/](resources/research/) deep research scaffold<br>[resources/ideas/](resources/ideas/) ideas scaffold<br>[inbox/](inbox/) quick capture scaffold<br>[projects/](projects/) project scaffold | [archive/legacy/](archive/legacy/) 旧版 fitness 资料归档<br>[wiki/](wiki/) 更早期骨架草案 |
 
 ---
 
 <div align="center">
-<sub>🌱 这不是一个软件项目，而是一个正在生长的 second brain。</sub>
+<sub>🌱 先确定 area，再调用 area 自己的 schema 和 skill。</sub>
 </div>

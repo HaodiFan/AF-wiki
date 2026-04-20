@@ -1,45 +1,66 @@
 # AF Wiki Index
 
-> Second-brain master navigation
-> Last updated: 2026-04-19
+> Canonical navigation for the current repo state
+> Last updated: 2026-04-20
 
-## 日历与近况
-- `2026-04-18`：游泳 500m，配速提升，距离也高于 2026-04-14
-- `2026-04-18`：晚餐牛腱子 + 牛肉，总量约 1.5 斤
-- `2026-04-20 week`：进入游泳 + 力量混合安排，目标偏减脂稳定执行
+## First read
+- [[START-HERE]] — 先理解当前真的在用什么，以及哪些只是目标设计
+- [[areas/index]] — area registry、area 边界和 skill routing
+- [[SCHEMA]] — LeadFlow 总体结构规则
+- [[log]] — 系统级结构变化记录
 
-## Top-level
-- [[SCHEMA]] — overall LeadFlow architecture and operating rules
-- [[index]] — this navigation page
-- [[log]] — major structural changes and system evolution log
+## Current area modules
 
-## Dashboards
-- `dashboards/` — high-value summaries and current-state entry points
-- `dashboards/research-backlog.md` — lead capture and deep-research backlog dashboard
+### Areas registry
+- [[areas/index]] — area 总表、area 增长规则、每个 area 的推荐 skill
 
-## Areas
-- `areas/fitness/` — ongoing fitness system, planning, nutrition, and weekly history
-- `areas/learning/` — learning focus, study logs, and topic tracking
-- `areas/work/` — ongoing professional responsibilities
-- `areas/personal/` — personal life systems and notes
+### Fitness
+- `areas/fitness/` — 当前最完整的活跃 area
+- [[areas/fitness/index]] — fitness area 导航
+- [[areas/fitness/SCHEMA]] — fitness area 内部结构与记录规则
+- [[areas/fitness/00-profile]] — 背景、偏好、器械约束
+- [[areas/fitness/01-goals]] — 当前目标与待确认项
+- [[areas/fitness/02-current-plan]] — 正在执行的训练与营养计划
+- [[areas/fitness/10-checkins/2026-04]] — 最近 daily check-in
+- [[areas/fitness/20-weeks/2026-W16]] — 周级总结
+- [[areas/fitness/30-strategy/historical-strength-reference]] — 历史力量表现与训练参考
 
-## Projects
-- `projects/` — finite efforts with defined outcomes
+### Knowledge
+- `areas/knowledge/` — ongoing technical reading 与 retained knowledge area
+- [[areas/knowledge/index]] — knowledge area 导航
+- [[areas/knowledge/SCHEMA]] — knowledge area 内部结构与归档规则
+- [[areas/knowledge/wechat-public-account-articles]] — 微信文章入口页
+- [[areas/knowledge/wechat-articles/2026-03-24-flutter-https-capture]] — 示例文章扩展笔记
 
-## Resources
-- `resources/knowledge/` — evergreen knowledge and reference notes
-- `resources/knowledge/wechat-public-account-articles.md` — 微信聊天中沉淀的公众号文章线索库，便于后续研究和选题
-- `resources/ideas/` — ideas, concept seeds, and developed inspirations
-- `resources/leads/` — quick captures of things worth researching later
-- `resources/research/` — deep-dive notes linked back to original leads
+### Work
+- `areas/work/` — work area 骨架，准备承接未来工作上下文
+- [[areas/work/index]] — work area 导航
+- [[areas/work/SCHEMA]] — work area 结构约定
+- [[areas/work/00-active-context]] — 当前工作上下文入口
 
-## Archive
-- `archive/` — inactive, completed, or superseded material
+## Shared lead / research pipeline
+- [[resources/index]] — 共享 lead / research / ideas 层说明
+- `resources/leads/` — weak-signal capture 的共享入口
+- [[resources/research/index]] — deep research scaffold
+- [[resources/ideas/index]] — ideas scaffold
+- [[dashboards/research-backlog]] — 当前 backlog 状态
+- [[resources/leads/claude-code-desktop-app]] — 一个待深挖 lead
+- [[resources/leads/2026-04-19-personal-data-center-mcp-app]] — 一个待深挖 lead
+
+## Other top-level layers
+- [[inbox/index]] — quick capture scaffold
+- [[projects/index]] — project layer scaffold
 
 ## Templates
-- `templates/` — reusable note structures
-- `templates/lead-note-template.md` — quick capture template for leads
-- `templates/deep-research-template.md` — template for later deep-dive notes
+- `templates/` — 统一记录格式
+- [[templates/lead-note-template]] — lead capture 模板
+- [[templates/deep-research-template]] — 深入研究模板
 
-## Inbox
-- `inbox/` — quick capture before processing
+## Planned layers
+- future areas under `areas/<name>/`
+
+这些部分已经有基础 scaffold，但仍未形成稳定内容。
+
+## Legacy / bootstrap
+- `archive/legacy/fitness-legacy-2026-04-18/` — 旧版 fitness 资料归档
+- `wiki/` — 更早期的结构化 wiki 骨架；当前以根目录 `START-HERE` / `areas/index` / `index` / `SCHEMA` 为准

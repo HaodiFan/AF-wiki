@@ -1,5 +1,21 @@
 # AF Wiki Log
 
+## [2026-04-20] refactor | Area layer normalized around dynamic modules
+- Promoted retained knowledge notes from `resources/knowledge/` into `areas/knowledge/`
+- Added `areas/index.md` as the canonical area registry and skill-routing map
+- Added `areas/work/` as a first-class work area scaffold
+- Instantiated `inbox/`, `projects/`, `resources/research/`, and `resources/ideas/` as lightweight LeadFlow scaffolds
+- Clarified that `resources/` is the shared lead/research pipeline rather than a second copy of the area layer
+- Rewrote root navigation so the default read order is `START-HERE` -> `areas/index` -> target area
+---
+
+## [2026-04-20] docs | Clarified current-vs-target navigation
+- Added `START-HERE.md` as the first-reader guide
+- Updated `README.md` and `index.md` so current active modules are separated from planned architecture
+- Updated `SCHEMA.md` to state explicitly that LeadFlow is a target architecture and not every folder already exists
+- Marked `wiki/` as an older bootstrap scaffold so it no longer competes with the root-level entry points
+---
+
 ## [2026-04-19] rename | LeadFlow architecture named
 - Named AF's `PARA + Lead` variant as `LeadFlow`
 - Updated `/home/AF-wiki/SCHEMA.md`, `/home/AF-wiki/README.md`, `dashboards/recent.json`, and profile-feed wording to use `LeadFlow` instead of generic `PARA`

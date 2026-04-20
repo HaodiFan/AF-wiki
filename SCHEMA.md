@@ -1,302 +1,227 @@
 # AF LeadFlow Schema
 
-> Purpose: define LeadFlow, AF's lead-driven evolution of PARA, as a durable second-brain system that can store knowledge, active plans, learning records, ideas, personal operating context, and focused domains like fitness without mixing everything together.
-> Last updated: 2026-04-19
+> Purpose: define LeadFlow as AF's durable second-brain operating model, with a dynamic `areas/` layer for ongoing responsibilities and a shared `resources/` layer for cross-area lead and research flow.
+> Last updated: 2026-04-20
+
+## Read this file the right way
+
+This file describes the **target operating model** and the current structural rules.
+It is not a guarantee that every planned folder already exists or already has meaningful content.
+
+For the current repo state, read in this order:
+- [[START-HERE]]
+- [[areas/index]]
+- [[index]]
+- the specific `areas/<area>/SCHEMA.md` for the area you want to work in
+
+## Current active footprint
+
+As of `2026-04-20`, the repo is primarily composed of:
+- `areas/index.md`
+- `areas/fitness/`
+- `areas/knowledge/`
+- `areas/work/` as a light scaffold
+- `inbox/`
+- `projects/`
+- `resources/index.md`
+- `resources/leads/`
+- `resources/research/`
+- `resources/ideas/`
+- `dashboards/research-backlog.md`
+- `templates/`
+- `archive/legacy/`
+
+The following parts are still **light scaffolds** rather than mature modules:
+- `areas/work/`
+- `inbox/`
+- `projects/`
+- `resources/research/`
+- `resources/ideas/`
+
+The following parts remain **future growth space**:
+- future areas under `areas/<name>/`
+
+The `wiki/` folder is an earlier bootstrap scaffold and should not be confused with the current root-level LeadFlow entry points.
 
 ## Core design decision
-The wiki should follow a **second-brain architecture**, not a single-topic archive.
-Fitness is one domain inside the system, not the system itself.
 
-## Framework identity
-This system is called **LeadFlow**.
+LeadFlow now uses **two different top-level coordination layers**:
 
-LeadFlow is not plain PARA.
-It is AF's own `PARA + Lead` operating model:
-- lead-first capture through inbox and dashboards
-- stable separation of areas, projects, resources, and archive
-- dashboards as a first-class control layer
-- templates as a first-class consistency layer
-- agent-assisted maintenance as a default operating assumption
+1. **Dynamic area modules** under `areas/`
+2. **Shared lead/research pipeline** under `resources/`
 
-## Additional workflow decision
-This second brain uses a **two-stage knowledge pipeline**:
-1. capture leads quickly
-2. deep-dive later when time and attention are available
-3. link the resulting research back to the original lead
-4. integrate durable findings into the broader wiki
+This distinction is the main fix for the previous confusion.
 
-## Top-level structure
+### What belongs in `areas/`
+Use `areas/` for ongoing responsibility modules that need their **own internal structure**.
 
+Current modules:
+- `fitness`
+- `knowledge`
+- `work`
+
+Future modules can be added as needed.
+
+Important:
+- `areas/` is dynamic, not a fixed closed list
+- each area can define its own internal schema
+- `fitness` does not need to look like `knowledge`
+- `knowledge` does not need to look like `work`
+
+### What belongs in `resources/`
+Use `resources/` for **shared, cross-area flow**, not as a second copy of the area layer.
+
+Current canonical usage:
+- `resources/leads/` for weak-signal capture
+
+Planned shared usage:
+- `resources/research/` for deep-dive notes linked back to leads
+- `resources/ideas/` for idea incubation if needed
+
+Rule:
+- if something is owned by an ongoing domain and will keep being curated there, it belongs in `areas/<domain>/`
+- if something is part of the cross-area capture/research pipeline, it belongs in `resources/`
+
+## Area modularity rules
+
+`areas/` is now treated as a **registry of responsibility modules**.
+
+Minimum contract for a new area:
+- `areas/<name>/SCHEMA.md`
+- `areas/<name>/index.md`
+- `areas/<name>/99-change-log.md`
+
+Registry rule:
+- `areas/index.md` is the canonical registry of all current area modules
+- it should say what each area is for
+- it should say which skill or workflow should usually handle that area
+
+Local rule:
+- each `areas/<name>/SCHEMA.md` defines that area's internal structure
+- each area may recommend different skills or workflows
+- second-brain routing should orient at `areas/index.md` first, then descend into the target area's `SCHEMA.md`
+
+## Target top-level structure
+
+```text
 AF-wiki/
 ├── inbox/                 # quick capture before processing
-├── areas/                 # ongoing responsibilities / life domains
+├── areas/                 # dynamic responsibility modules
+│   ├── index.md           # registry + routing for all areas
 │   ├── fitness/
-│   ├── learning/
-│   ├── work/
-│   └── personal/
-├── projects/              # finite outcome-driven efforts
-├── resources/             # reference knowledge, evergreen notes, lead/research pipeline
-│   ├── leads/             # quick captures of interesting things to study later
-│   ├── research/          # deep-dive notes linked back to leads
 │   ├── knowledge/
+│   ├── work/
+│   └── <future-area>/
+├── projects/              # finite outcome-driven efforts
+├── resources/             # shared cross-area capture/research layer
+│   ├── leads/
+│   ├── research/
 │   └── ideas/
 ├── archive/               # inactive / completed / superseded material
 ├── dashboards/            # current-state summaries and active control panels
 ├── templates/             # reusable note templates
-├── index.md               # master navigation
+├── START-HERE.md          # current-vs-target orientation
+├── index.md               # current canonical navigation
 ├── SCHEMA.md              # this file
-└── log.md                 # major structural and knowledge-management changes
-
-This top-level shape inherits PARA's separation logic, but LeadFlow extends it into a lead-driven, agent-maintained operating system.
-
----
+└── log.md                 # major structural changes
+```
 
 ## Layer meanings
 
-### 1. Inbox
-For fast capture without forcing immediate organization.
-Examples:
-- raw thoughts
-- links to read later
-- fleeting ideas
-- notes from conversation
+All LeadFlow top-level layers now exist in the repo, but some are only scaffolded.
 
-Rule:
-- inbox is temporary
-- items should later be processed into projects, areas, resources, or archive
+### 1. Areas
+For ongoing responsibilities that need continuous maintenance and their own internal schema.
 
-### 2. Areas
-For ongoing responsibilities that need continuous maintenance.
 Examples:
-- fitness
-- learning
-- career
-- finances
-- relationships
-- health
+- fitness tracking and coaching memory
+- knowledge curation and retained reading notes
+- work context and active operating assumptions
 
 Rule:
 - areas do not end
-- each area should have a stable internal structure
-- active personal systems like fitness belong here
+- areas are modular
+- areas can be added over time
+
+### 2. Resources
+For cross-area capture and research flow.
+
+Examples:
+- quick leads to investigate later
+- deep research notes linked back to leads
+- future idea incubation
+
+Rule:
+- resources are shared infrastructure, not the owner of every long-lived note
+- do not put area-owned modules here just because they sound like "knowledge"
 
 ### 3. Projects
 For efforts with a defined outcome and likely end state.
+
 Examples:
 - prepare for a certification
 - build a side project
-- finish a reading plan
 - run an 8-week cut
 
-Rule:
-- when a project ends, move it to archive or convert durable knowledge into resources
+### 4. Archive
+For completed, inactive, or superseded material.
 
-### 4. Resources
-For reusable knowledge and reference material, including the lead-to-research pipeline.
-Examples:
-- concept notes
-- topic summaries
-- study notes
-- frameworks
-- permanent insights
-- reading notes worth keeping
-- captured leads
-- deep research notes
+### 5. Dashboards
+For high-value entry points that answer: what matters now?
 
-Rule:
-- resources are not just action plans
-- resources are knowledge assets and research assets
-
-### 5. Archive
-For completed, inactive, or outdated material.
-Examples:
-- old plans
-- completed projects
-- superseded strategies
-- stale references no longer in active use
-
-### 6. Dashboards
-For high-value entry points that summarize the current state.
-Examples:
-- today dashboard
-- weekly review dashboard
-- fitness dashboard
-- learning dashboard
-- research backlog dashboard
-
-Rule:
-- dashboards should answer: what matters now?
-
-### 7. Templates
+### 6. Templates
 Reusable note structures for consistency.
-Examples:
-- weekly review
-- learning note
-- project plan
-- fitness check-in
-- idea note
-- lead note
-- deep research note
 
----
-
-## LeadFlow layers
-The final structure for this second brain is:
-
-1. **Capture layer** — inbox
-2. **Responsibility layer** — areas
-3. **Execution layer** — projects
-4. **Knowledge layer** — resources
-5. **History layer** — archive
-6. **Control layer** — dashboards
-7. **Consistency layer** — templates
-
-LeadFlow is the chosen model because it supports both:
-- broad life knowledge management
-- domain-specific systems like fitness
-- lead-driven discovery and intake
-- future agent-assisted planning and retrieval
-- asynchronous research from weak-signal leads to durable notes
-
----
-
-## Lead -> research operating flow
+## Lead -> research -> area integration flow
 
 ### Step 1: capture a lead
 Use `resources/leads/` when you see something interesting but do not want to research it yet.
-A lead should usually contain:
-- what it is
-- where you saw it
-- why it seems interesting
-- keywords
-- open questions
-- current status
 
 ### Step 2: maintain the backlog
-Use `dashboards/research-backlog.md` to track:
-- todo
-- researching
-- done
-- archived
+Use `dashboards/research-backlog.md` to track lead status.
 
 ### Step 3: deep dive later
-When you decide to study something, create a note in `resources/research/`.
-The research note should:
-- link back to the original lead
-- record findings, sources, verdict, and follow-up actions
+When you choose to study something in depth, create a note in `resources/research/`.
 
-### Step 4: integrate into the wiki
-If the result becomes durable knowledge, connect it into:
-- `resources/knowledge/`
-- `areas/`
-- `projects/`
+### Step 4: promote to the right owner
+If the result becomes durable:
+- put it in `areas/<domain>/` if it belongs to an ongoing area
+- put it in `projects/` if it belongs to a time-bounded effort
+- keep it in shared `resources/` only if it is truly cross-area infrastructure or reference material
 
-This preserves the original discovery context while still promoting mature knowledge into the broader system.
+For the current repo:
+- retained technical reading notes belong in `areas/knowledge/`
+- fitness memory belongs in `areas/fitness/`
 
----
+## Current area modules
 
-## Fitness placement
-Fitness should live under:
+### Fitness
+Canonical path:
 - `areas/fitness/`
 
-Because fitness is an ongoing area of life, not a one-off project.
-Specific short-term fitness goals can also create linked project notes under:
-- `projects/`
+Why it is an area:
+- it is an ongoing personal responsibility with continuous updates and its own decision memory
 
-Examples:
-- `projects/2026-05-cut-phase/`
-- `projects/swimming-technique-focus/`
+### Knowledge
+Canonical path:
+- `areas/knowledge/`
 
----
+Why it is an area:
+- technical reading, retained article notes, and ongoing knowledge curation are a continuous responsibility, not just a pile of shared resources
 
-## Recommended structure for `areas/fitness/`
+### Work
+Canonical path:
+- `areas/work/`
 
-areas/fitness/
-├── profile.md
-├── goals.md
-├── current-plan.md
-├── decision-rules.md
-├── checkins/
-├── weeks/
-├── nutrition/
-├── training/
-└── change-log.md
+Why it is an area:
+- work context is ongoing and will likely need its own internal operating notes, separate from both projects and personal domains
 
-This keeps the fitness memory system intact while placing it inside the broader LeadFlow architecture.
+## Skill routing rule
 
----
+When a second-brain or orchestration skill needs to act inside this repo:
+1. read `areas/index.md`
+2. identify the target area
+3. read `areas/<area>/SCHEMA.md`
+4. follow the preferred skill routing defined there
 
-## Recommended structure for learning
-
-areas/learning/
-├── dashboard.md
-├── current-focus.md
-├── study-log/
-├── topics/
-└── change-log.md
-
-## Recommended structure for ideas
-
-resources/ideas/
-├── idea-index.md
-├── raw-concepts/
-└── developed-concepts/
-
-## Recommended structure for evergreen knowledge
-
-resources/knowledge/
-├── concepts/
-├── people/
-├── frameworks/
-└── summaries/
-
----
-
-## Processing rules
-When new information arrives, classify it first:
-
-1. Is it a quick uncategorized capture?
-   -> `inbox/`
-2. Is it part of an ongoing responsibility?
-   -> `areas/<domain>/`
-3. Is it tied to a defined goal with an end state?
-   -> `projects/`
-4. Is it a durable reference knowledge or research artifact?
-   -> `resources/`
-5. Is it no longer active but worth preserving?
-   -> `archive/`
-6. Is it a summary/control note?
-   -> `dashboards/`
-7. Is it a reusable format?
-   -> `templates/`
-
----
-
-## Agent operating rules
-- Do not let one domain consume the whole wiki structure.
-- Prefer broad navigability over local optimization for one topic.
-- Keep current truth separate from historical logs.
-- Compress repeated short-term events into weekly or monthly summaries.
-- Promote durable insights from logs into resources when they become reusable knowledge.
-- When unsure where a note belongs, choose the lowest-friction place first, then refactor later.
-- Preserve the path from weak signal -> lead -> research -> durable knowledge whenever it matters.
-
----
-
-## Naming rules
-- lowercase-hyphenated paths where practical
-- short, human-readable file names
-- date-prefix only when chronology matters
-- avoid deeply nested folders unless the volume justifies them
-
----
-
-## What this schema optimizes for
-- lead-first capture and triage
-- fast capture
-- long-term retrieval
-- cross-domain thinking
-- agent-assisted planning
-- low-maintenance evolution
-- separation of action, responsibility, and knowledge
-- asynchronous deep research from curiosity backlog
+This is how area-specific structure and area-specific skills stay aligned while the set of areas remains dynamic.

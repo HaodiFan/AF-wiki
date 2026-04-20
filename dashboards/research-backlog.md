@@ -1,19 +1,21 @@
 # Research Backlog
 
 > Purpose: track captured leads that may deserve deeper research later.
-> Last updated: 2026-04-19
+> Last updated: 2026-04-20
 
 ## Workflow
 1. Capture a lead in `resources/leads/` using the lead template.
 2. Keep status updated: `todo`, `researching`, `done`, or `archived`.
 3. When doing a deep dive, create a note in `resources/research/`.
 4. Link the research note back to the original lead.
-5. If the result becomes durable knowledge, connect it into `resources/knowledge/`, `areas/`, or `projects/`.
+5. If the result becomes durable knowledge, connect it into `areas/<domain>/`, `projects/`, or shared `resources/` only when it is truly cross-area.
 
 ## Canonical folders
 - Leads: `resources/leads/`
 - Deep research: `resources/research/`
-- Durable knowledge destination: `resources/knowledge/`
+- Current retained reading destination: `areas/knowledge/`
+- Other durable area destinations: `areas/<domain>/`
+- Shared cross-area references: `resources/`
 
 ## Status index
 
