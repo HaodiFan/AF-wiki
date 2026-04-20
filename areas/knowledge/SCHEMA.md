@@ -28,6 +28,7 @@ Only retained or curated knowledge notes belong here.
 knowledge/
 ├── SCHEMA.md
 ├── index.md
+├── anthonydb-research/
 ├── wechat-public-account-articles.md
 ├── wechat-articles/
 └── 99-change-log.md
@@ -39,6 +40,7 @@ knowledge/
 - retained article entry pages
 - per-article fallback notes or extracted notes
 - topic-level knowledge collections that are part of continuous knowledge curation
+- curated historical research imports that are dense enough to remain useful after migration
 
 ### This area does not own
 - weak-signal leads that have not been curated yet
@@ -55,6 +57,7 @@ knowledge/
 ## Expansion rule
 
 When this area grows, add new collections alongside the current WeChat corpus, for example:
+- historical research imports from older vaults
 - topic-specific note sets
 - synthesis notes
 - curated reading maps

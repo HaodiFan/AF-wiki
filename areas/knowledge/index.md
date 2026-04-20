@@ -9,6 +9,7 @@
 - `wechat-articles/` — per-article 扩展笔记集合
 
 ## Current collections
+- [[anthonydb-research/index]] — AnthonyDB 历史研究归档集合
 - [[wechat-public-account-articles]] — 公众号文章入口页与总索引
 - [[wechat-articles/2026-03-24-flutter-https-capture]] — Flutter HTTPS 抓包主题
 - [[wechat-articles/2026-03-21-ai-doing-research]] — AI doing research 主题
