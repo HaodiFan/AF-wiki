@@ -18,6 +18,13 @@ It is AF's own `PARA + Lead` operating model:
 - templates as a first-class consistency layer
 - agent-assisted maintenance as a default operating assumption
 
+## Additional workflow decision
+This second brain uses a **two-stage knowledge pipeline**:
+1. capture leads quickly
+2. deep-dive later when time and attention are available
+3. link the resulting research back to the original lead
+4. integrate durable findings into the broader wiki
+
 ## Top-level structure
 
 AF-wiki/
@@ -28,7 +35,11 @@ AF-wiki/
 │   ├── work/
 │   └── personal/
 ├── projects/              # finite outcome-driven efforts
-├── resources/             # reference knowledge, evergreen notes, topics
+├── resources/             # reference knowledge, evergreen notes, lead/research pipeline
+│   ├── leads/             # quick captures of interesting things to study later
+│   ├── research/          # deep-dive notes linked back to leads
+│   ├── knowledge/
+│   └── ideas/
 ├── archive/               # inactive / completed / superseded material
 ├── dashboards/            # current-state summaries and active control panels
 ├── templates/             # reusable note templates
@@ -81,7 +92,7 @@ Rule:
 - when a project ends, move it to archive or convert durable knowledge into resources
 
 ### 4. Resources
-For reusable knowledge and reference material.
+For reusable knowledge and reference material, including the lead-to-research pipeline.
 Examples:
 - concept notes
 - topic summaries
@@ -89,10 +100,12 @@ Examples:
 - frameworks
 - permanent insights
 - reading notes worth keeping
+- captured leads
+- deep research notes
 
 Rule:
-- resources are not action plans
-- resources are knowledge assets
+- resources are not just action plans
+- resources are knowledge assets and research assets
 
 ### 5. Archive
 For completed, inactive, or outdated material.
@@ -109,6 +122,7 @@ Examples:
 - weekly review dashboard
 - fitness dashboard
 - learning dashboard
+- research backlog dashboard
 
 Rule:
 - dashboards should answer: what matters now?
@@ -121,6 +135,8 @@ Examples:
 - project plan
 - fitness check-in
 - idea note
+- lead note
+- deep research note
 
 ---
 
@@ -140,6 +156,42 @@ LeadFlow is the chosen model because it supports both:
 - domain-specific systems like fitness
 - lead-driven discovery and intake
 - future agent-assisted planning and retrieval
+- asynchronous research from weak-signal leads to durable notes
+
+---
+
+## Lead -> research operating flow
+
+### Step 1: capture a lead
+Use `resources/leads/` when you see something interesting but do not want to research it yet.
+A lead should usually contain:
+- what it is
+- where you saw it
+- why it seems interesting
+- keywords
+- open questions
+- current status
+
+### Step 2: maintain the backlog
+Use `dashboards/research-backlog.md` to track:
+- todo
+- researching
+- done
+- archived
+
+### Step 3: deep dive later
+When you decide to study something, create a note in `resources/research/`.
+The research note should:
+- link back to the original lead
+- record findings, sources, verdict, and follow-up actions
+
+### Step 4: integrate into the wiki
+If the result becomes durable knowledge, connect it into:
+- `resources/knowledge/`
+- `areas/`
+- `projects/`
+
+This preserves the original discovery context while still promoting mature knowledge into the broader system.
 
 ---
 
@@ -209,7 +261,7 @@ When new information arrives, classify it first:
    -> `areas/<domain>/`
 3. Is it tied to a defined goal with an end state?
    -> `projects/`
-4. Is it durable reference knowledge?
+4. Is it a durable reference knowledge or research artifact?
    -> `resources/`
 5. Is it no longer active but worth preserving?
    -> `archive/`
@@ -227,6 +279,7 @@ When new information arrives, classify it first:
 - Compress repeated short-term events into weekly or monthly summaries.
 - Promote durable insights from logs into resources when they become reusable knowledge.
 - When unsure where a note belongs, choose the lowest-friction place first, then refactor later.
+- Preserve the path from weak signal -> lead -> research -> durable knowledge whenever it matters.
 
 ---
 
@@ -246,3 +299,4 @@ When new information arrives, classify it first:
 - agent-assisted planning
 - low-maintenance evolution
 - separation of action, responsibility, and knowledge
+- asynchronous deep research from curiosity backlog

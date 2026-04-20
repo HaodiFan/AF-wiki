@@ -16,6 +16,7 @@
 - Current truth belongs in the current plan file.
 - Weekly behavior belongs in weekly summaries.
 - Important changes must also be appended to the change log.
+- When historical strength logs are ambiguously formatted, interpret them using normal gym notation first: usually weight then reps, but allow reps-then-weight when the pattern or common exercise notation clearly supports that reading.
 
 ## Recommendation style
 - Recommendations should be based on historical context and expressed as the next best action, not just abstract analysis.

@@ -1,7 +1,7 @@
 # AF Wiki Index
 
 > Second-brain master navigation
-> Last updated: 2026-04-18
+> Last updated: 2026-04-19
 
 ## 日历与近况
 - `2026-04-18`：游泳 500m，配速提升，距离也高于 2026-04-14
@@ -15,6 +15,7 @@
 
 ## Dashboards
 - `dashboards/` — high-value summaries and current-state entry points
+- `dashboards/research-backlog.md` — lead capture and deep-research backlog dashboard
 
 ## Areas
 - `areas/fitness/` — ongoing fitness system, planning, nutrition, and weekly history
@@ -29,12 +30,16 @@
 - `resources/knowledge/` — evergreen knowledge and reference notes
 - `resources/knowledge/wechat-public-account-articles.md` — 微信聊天中沉淀的公众号文章线索库，便于后续研究和选题
 - `resources/ideas/` — ideas, concept seeds, and developed inspirations
+- `resources/leads/` — quick captures of things worth researching later
+- `resources/research/` — deep-dive notes linked back to original leads
 
 ## Archive
 - `archive/` — inactive, completed, or superseded material
 
 ## Templates
 - `templates/` — reusable note structures
+- `templates/lead-note-template.md` — quick capture template for leads
+- `templates/deep-research-template.md` — template for later deep-dive notes
 
 ## Inbox
 - `inbox/` — quick capture before processing

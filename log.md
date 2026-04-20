@@ -6,6 +6,14 @@
 - Clarified that dashboards, templates, archive, and agent refresh are first-class parts of the system rather than add-ons
 ---
 
+## [2026-04-19] workflow | Lead -> research pipeline added
+- Added `resources/leads/` as the canonical location for quick-capture research leads
+- Added `resources/research/` as the canonical location for deep-dive notes linked to original leads
+- Added `dashboards/research-backlog.md` to track the lead -> research workflow
+- Added `templates/lead-note-template.md` and `templates/deep-research-template.md`
+- Updated `index.md` to expose the lead/research workflow in master navigation
+---
+
 ## [2026-04-18] update | Homepage and wiki index reframed around recent-status display
 - Reworked the GitHub profile README to show recent updates by area instead of mainly describing repository usage
 - Reworked `/home/AF-wiki/README.md` to lead with `日历与近况` instead of a repo-introduction-heavy structure
