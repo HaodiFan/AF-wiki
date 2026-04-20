@@ -7,6 +7,7 @@
 - Instantiated `inbox/`, `projects/`, `resources/research/`, and `resources/ideas/` as lightweight LeadFlow scaffolds
 - Clarified that `resources/` is the shared lead/research pipeline rather than a second copy of the area layer
 - Rewrote root navigation so the default read order is `START-HERE` -> `areas/index` -> target area
+- Expanded `areas/index.md` and added `areas/fitness/index.md` details so fitness has an explicit area entrypoint, read order, and anti-miss audit guidance
 ---
 
 ## [2026-04-20] docs | Clarified current-vs-target navigation
