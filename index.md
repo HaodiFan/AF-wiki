@@ -29,6 +29,7 @@
 - `areas/knowledge/` — ongoing technical reading 与 retained knowledge area
 - [[areas/knowledge/index]] — knowledge area 导航
 - [[areas/knowledge/SCHEMA]] — knowledge area 内部结构与归档规则
+- [[areas/knowledge/anthonydb-research/index]] — AnthonyDB 历史研究归档
 - [[areas/knowledge/wechat-public-account-articles]] — 微信文章入口页
 - [[areas/knowledge/wechat-articles/2026-03-24-flutter-https-capture]] — 示例文章扩展笔记
 
