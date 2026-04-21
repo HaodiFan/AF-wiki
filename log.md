@@ -1,5 +1,10 @@
 # AF Wiki Log
 
+## 2026-04-21
+- Fitness: completed a back + biceps focused machine strength session in Shanghai (15:14-15:57, 42:18, 335 kcal total / 268 kcal active, avg HR 123 bpm, HR range 83-143, exertion level 6), with pulldown, seated row, chest-supported row, straight-arm pulldown, curls, face pulls, a small core add-on, and post-session back stretching
+- Nutrition: breakfast 3 eggs + 1 bowl of milk; lunch included a grilled beef grain bowl 260 g, sliced braised beef deli, and Perrier 330 ml from Yonghui Supermarket Shanghai Tangzhen Sunshine City store (12:51:25 order, total paid 64.20 CNY via Alipay); dinner and any later protein top-up remain unconfirmed
+- Overall evaluation: the active plan expected Tuesday swimming, but substituting into a pull-focused strength day was a reasonable real-time adjustment after Monday's push session; training completion is strong and grounded, while same-day nutrition is still only partially confirmed because records currently stop at lunch
+
 ## 2026-04-20
 - Fitness: completed Monday chest + triceps + core strength session (48:31, 414 kcal total / 338 kcal active, avg HR 128 bpm, difficult intensity); key movements included bench press, incline press, machine fly, triceps work, hanging leg raises, and plank
 - Nutrition: breakfast 3 eggs; lunch five-spice beef shank 256 g + garden vegetable salad 195 g (~537 kcal, ~77 g protein); dinner salmon 200 g + broccoli + 2 bell peppers + 1 bowl rice; pre-sleep intake still unconfirmed

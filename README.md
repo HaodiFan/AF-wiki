@@ -29,6 +29,9 @@
 
 | 日期 | 领域 | 动态 |
 |:-----|:-----|:-----|
+| 04-21 | 💪 Fitness | 完成背 + 二头力量训练 42:18，335 kcal，平均心率 123 bpm；含面拉、核心和背部拉伸收尾 — [详情](areas/fitness/10-checkins/2026-04.md) |
+| 04-21 | 🍽️ Nutrition | 早餐 3 个鸡蛋 + 奶；午餐煎烤牛肉谷物碗 + 卤牛肉 + 巴黎水；晚餐与后续补给仍待确认 — [详情](areas/fitness/10-checkins/2026-04.md) |
+| 04-21 | 📝 Summary | 原计划周二游泳，实际改为 pull 向力量训练；训练完成度高，但当天饮食记录目前只完整到午餐 — [详情](areas/fitness/10-checkins/2026-04.md) |
 | 04-20 | 💪 Fitness | 完成胸 + 三头 + 核心力量训练 48:31，414 kcal，平均心率 128 bpm — [详情](areas/fitness/10-checkins/2026-04.md) |
 | 04-20 | 🍽️ Nutrition | 早餐 3 个鸡蛋；午餐牛腱子 + 沙拉约 537 kcal / 77 g 蛋白；晚餐三文鱼 200 g + 西兰花 + 彩椒 + 米饭 — [详情](areas/fitness/10-checkins/2026-04.md) |
 | 04-20 | 📝 Summary | 今天完成计划内周一 push 日；训练完成度高，饮食主餐结构到位，睡前补给仍待补充确认 — [详情](areas/fitness/10-checkins/2026-04.md) |
