@@ -12,3 +12,4 @@
 - This layer is shared infrastructure
 - It is not the owner of every long-lived knowledge note
 - Area-owned retained knowledge should live under `areas/<name>/`
+- If a WeChat article link is dropped in only for capture, store it first as a URL-only lead in `resources/leads/` instead of forcing immediate extraction

@@ -1,24 +1,22 @@
 # GitHub 狂飙 2.5 万标星，这款「会自愈」的 Python 爬虫框架杀疯了！
 
-- 日期：2026-03-09
-- 类型：公众号文章线索扩展笔记
-- 原始状态：受微信环境验证限制，未能自动抓取正文
+> Status: legacy migrated note
+> Canonical lead now lives at [[../../resources/leads/2026-03-09-self-healing-python-crawler-lead]]
 
-## 当前可保留的有效信息
+## Why this note is now legacy
+- 这篇记录最初是在微信正文无法抓取时，为避免链接失散而临时沉淀的 fallback note
+- 按当前 wiki 规则，这类内容更适合作为 `resources/leads/` 中的 research lead，而不是 retained knowledge note
+- 因此该条目已从 retained 列表中降级，并迁回 lead-first 流程
 
-- 已保存原始文章链接于 `../wechat-public-account-articles.md`
-- 当前机器直接请求会返回“环境异常，需要验证”，因此无法稳定提取正文
-- 先将该条目沉淀为“研究线索 + 后续追踪方向”，避免链接失散
+## Canonical location
+- Lead: [[../../resources/leads/2026-03-09-self-healing-python-crawler-lead]]
+- Index entry: [[../wechat-public-account-articles]]
 
-## 主题摘要 / 可追踪要点
+## Preserved context from old fallback note
+- 主题：自愈式 Python 爬虫框架
+- 保留原因：它可能影响长期维护成本，并与自动化数据采集、Agent 驱动爬虫、监控式采集系统相关
+- 原问题：微信环境验证导致正文无法稳定抓取
 
-- 自愈式 Python 爬虫框架成为讨论热点，核心卖点是能自动检测站点变化并调整抓取策略。
-- 潜在价值在于降低长期维护成本，特别适合页面结构经常变化的目标站点。
-- 与传统爬虫相比，文章强调“恢复能力”“自动化调参”“稳定性”而非仅仅抓取速度。
-- 对用户的启发方向包括：自动化数据采集、Agent 驱动爬虫、监控式采集系统。
-
-## 后续建议
-
-- 若你愿意，可把任意一篇文章的正文粘贴给我，我可以补全为完整摘要/结构化笔记
-- 也可以后续在已登录微信环境中导出为 PDF / 网页，再继续做正文提取
-- 对于价值高的主题，可直接从原始论文、项目仓库、访谈对象或二手报道继续追源
+## Migration note
+- Do not continue expanding this file as a retained note
+- If future research confirms long-term value, promote from the canonical lead into a new or upgraded retained note
