@@ -1,24 +1,22 @@
 # 设计流程已死，Claude 设计负责人如何理解 AI 时代的设计？
 
-- 日期：2026-03-14
-- 类型：公众号文章线索扩展笔记
-- 原始状态：受微信环境验证限制，未能自动抓取正文
+> Status: legacy migrated note
+> Canonical lead now lives at [[../../resources/leads/2026-03-14-ai-era-design-lead]]
 
-## 当前可保留的有效信息
+## Why this note is now legacy
+- 这篇记录最初是在微信正文无法抓取时，为避免链接失散而临时沉淀的 fallback note
+- 按当前 wiki 规则，这类内容更适合作为 `resources/leads/` 中的 research lead，而不是 retained knowledge note
+- 因此该条目已从 retained 列表中降级，并迁回 lead-first 流程
 
-- 已保存原始文章链接于 `../wechat-public-account-articles.md`
-- 当前机器直接请求会返回“环境异常，需要验证”，因此无法稳定提取正文
-- 先将该条目沉淀为“研究线索 + 后续追踪方向”，避免链接失散
+## Canonical location
+- Lead: [[../../resources/leads/2026-03-14-ai-era-design-lead]]
+- Index entry: [[../wechat-public-account-articles]]
 
-## 主题摘要 / 可追踪要点
+## Preserved context from old fallback note
+- 主题：AI 时代设计方法论 / Claude 设计负责人视角
+- 保留原因：它能补充对 Anthropic 产品文化，以及设计/产品/工程边界变化的理解
+- 原问题：微信环境验证导致正文无法稳定抓取
 
-- 文章围绕 AI 时代设计角色的变化展开，重点不是替代设计师，而是重新定义设计流程。
-- 可能的关键观点包括：原型速度提升、设计与产品/工程边界弱化、设计师更需要判断力与系统思维。
-- 适合沉淀为“AI 时代产品设计方法论”主题，关注设计从交付物生产转向问题定义与体验编排。
-- 与 Claude 团队视角相关，适合作为 Anthropic 产品与设计文化观察样本。
-
-## 后续建议
-
-- 若你愿意，可把任意一篇文章的正文粘贴给我，我可以补全为完整摘要/结构化笔记
-- 也可以后续在已登录微信环境中导出为 PDF / 网页，再继续做正文提取
-- 对于价值高的主题，可直接从原始论文、项目仓库、访谈对象或二手报道继续追源
+## Migration note
+- Do not continue expanding this file as a retained note
+- If future research confirms long-term value, promote from the canonical lead into a new or upgraded retained note

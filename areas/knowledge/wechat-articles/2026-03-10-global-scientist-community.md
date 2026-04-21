@@ -1,24 +1,22 @@
 # AI发布首个全球科学家社区爆火，硅谷投资圈：科技研究领域的「谷歌地图」来了！
 
-- 日期：2026-03-10
-- 类型：公众号文章线索扩展笔记
-- 原始状态：受微信环境验证限制，未能自动抓取正文
+> Status: legacy migrated note
+> Canonical lead now lives at [[../../resources/leads/2026-03-10-global-scientist-community-lead]]
 
-## 当前可保留的有效信息
+## Why this note is now legacy
+- 这篇记录最初是在微信正文无法抓取时，为避免链接失散而临时沉淀的 fallback note
+- 按当前 wiki 规则，这类内容更适合作为 `resources/leads/` 中的 research lead，而不是 retained knowledge note
+- 因此该条目已从 retained 列表中降级，并迁回 lead-first 流程
 
-- 已保存原始文章链接于 `../wechat-public-account-articles.md`
-- 当前机器直接请求会返回“环境异常，需要验证”，因此无法稳定提取正文
-- 先将该条目沉淀为“研究线索 + 后续追踪方向”，避免链接失散
+## Canonical location
+- Lead: [[../../resources/leads/2026-03-10-global-scientist-community-lead]]
+- Index entry: [[../wechat-public-account-articles]]
 
-## 主题摘要 / 可追踪要点
+## Preserved context from old fallback note
+- 主题：全球科学家社区 / 科研关系图谱平台
+- 保留原因：它可能成为科研基础设施、技术 scouting 与合作发现的重要观察对象
+- 原问题：微信环境验证导致正文无法稳定抓取
 
-- 文章主题指向“科学家网络 / 科研关系图谱”类平台，把研究者、机构、方向和成果连接成可导航网络。
-- 核心想象空间在于：发现潜在合作对象、理解研究版图、辅助投资或技术 scouting。
-- 可归入“科研基础设施”与“AI for research”交叉赛道，适合作为技术情报工具关注。
-- 对用户知识库的价值在于提示一个新型信息组织范式：面向科学共同体的图谱化搜索。
-
-## 后续建议
-
-- 若你愿意，可把任意一篇文章的正文粘贴给我，我可以补全为完整摘要/结构化笔记
-- 也可以后续在已登录微信环境中导出为 PDF / 网页，再继续做正文提取
-- 对于价值高的主题，可直接从原始论文、项目仓库、访谈对象或二手报道继续追源
+## Migration note
+- Do not continue expanding this file as a retained note
+- If future research confirms long-term value, promote from the canonical lead into a new or upgraded retained note

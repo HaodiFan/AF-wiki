@@ -1,7 +1,7 @@
 # Research Backlog
 
 > Purpose: track captured leads that may deserve deeper research later.
-> Last updated: 2026-04-20
+> Last updated: 2026-04-21
 
 ## Workflow
 1. Capture a lead in `resources/leads/` using the lead template.
@@ -20,7 +20,13 @@
 ## Status index
 
 ### todo
+- [[resources/leads/2026-04-21-wechat-article-1acBcAZx9rL_efZqB1Oe-Q]] — 微信公众号文章链接捕获（URL-only lead），默认不做正文提取，除非后续明确要求
+- [[resources/leads/2026-04-20-firecrawl-open-source-web-agent]] — Firecrawl 重磅开源 web-agent 框架，待补官方仓库/发布链接并评估是否值得深挖
 - [[resources/leads/claude-code-desktop-app]] — Claude Code / cc 的桌面端封装线索，GitHub 项目，待补精确仓库链接并做深挖
+- [[resources/leads/2026-03-09-self-healing-python-crawler-lead]] — 从旧 fallback note 回迁的 lead：自愈式 Python 爬虫框架
+- [[resources/leads/2026-03-10-global-scientist-community-lead]] — 从旧 fallback note 回迁的 lead：全球科学家社区 / 科研图谱平台
+- [[resources/leads/2026-03-14-ai-era-design-lead]] — 从旧 fallback note 回迁的 lead：AI 时代设计方法论 / Claude 设计视角
+- [[resources/leads/2026-03-15-post-training-rl-lead]] — 从旧 fallback note 回迁的 lead：MIT 新算法与 post-training RL 范式争论
 
 ### researching
 - _Move active items here when you start digging in._
