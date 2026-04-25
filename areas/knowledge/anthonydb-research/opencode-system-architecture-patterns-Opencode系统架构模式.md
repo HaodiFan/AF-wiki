@@ -19,6 +19,12 @@ languages:
 Archived in current wiki / 当前 wiki 原文:
 - [[originals/Opencode System Arch - 20260125]]
 
+## Topics / Concepts
+
+- [[../topics/opencode-architecture|Opencode Architecture / Opencode 架构]]
+- [[../topics/workflow-runtime|Workflow Runtime / 工作流运行时]]
+- [[../topics/agent-runtime|Agent Runtime / 智能体运行时]]
+
 ## Chinese Summary / 中文摘要
 
 ### 保留原因

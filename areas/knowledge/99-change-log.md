@@ -1,5 +1,11 @@
 # Knowledge Area Change Log
 
+## [2026-04-25] graph | Knowledge Graph v1 topic/map layer
+- Added `topics/` and `maps/` as the durable knowledge graph layer
+- Created the first Agent Systems topic map and seven topic nodes
+- Clarified lead -> research -> topic -> map promotion rules
+- Updated templates for lead, research, topic, and map notes
+
 ## [2026-04-20] archive | historical originals copied into current wiki
 - Added `anthonydb-research/originals/` as the raw-source layer for curated historical imports
 - Kept curated notes and original notes as separate archive layers

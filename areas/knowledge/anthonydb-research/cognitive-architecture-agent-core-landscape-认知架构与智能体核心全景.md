@@ -19,6 +19,11 @@ languages:
 Archived in current wiki / 当前 wiki 原文:
 - [[originals/Cognitive Architecture Agent Core 研究]]
 
+## Topics / Concepts
+
+- [[../topics/agent-core|Agent Core / 智能体核心]]
+- [[../topics/agent-memory|Agent Memory / 智能体记忆]]
+
 ## Chinese Summary / 中文摘要
 
 ### 保留原因

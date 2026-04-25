@@ -19,6 +19,11 @@ languages:
 Archived in current wiki / 当前 wiki 原文:
 - [[originals/Agent Memory Infrastructure Research Survey 2024–2026]]
 
+## Topics / Concepts
+
+- [[../topics/agent-memory|Agent Memory / 智能体记忆]]
+- [[../topics/agent-runtime|Agent Runtime / 智能体运行时]]
+
 ## Chinese Summary / 中文摘要
 
 ### 保留原因

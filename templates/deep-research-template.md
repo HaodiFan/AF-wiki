@@ -1,12 +1,24 @@
+---
+type: research
+status: active
+source_lead:
+topics: []
+promotes_to:
+tags:
+  - research
+---
 # Deep Research Note Template
 
 > Purpose: turn a captured lead into a durable knowledge asset linked back to the original lead.
 
 ## Research Target
+- Type: research
 - Topic:
 - Started on:
-- Original lead:
+- Source lead:
 - Status: active | done | paused
+- Topics:
+- Promotes to:
 
 ## Why this matters
 - 
@@ -34,6 +46,7 @@
 - Related leads:
 - Related resources:
 - Related projects/areas:
+- Related topics:
 
 ## Sources
 - 
