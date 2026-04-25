@@ -16,11 +16,13 @@
 
 1. [[areas/index]]：先看当前有哪些 area，以及每个 area 的 skill routing
 2. [[index]]：看当前的主入口都在哪里
-3. 选择你真正关心的 area：
+3. 如果想看未来怎么继续演进，再看 [[docs/2026-04-24-feat-architecture-evolution-plan]]
+4. 如果想直接运行新的 sidecar 命令入口，再看 [[infra/README.md]]
+5. 选择你真正关心的 area：
    - 健身：[[areas/fitness/index]]
    - 知识：[[areas/knowledge/index]]
    - 工作：[[areas/work/index]]
-4. 最后再看 [[SCHEMA]]，理解整个 LeadFlow 的总规则
+5. 最后再看 [[SCHEMA]]，理解整个 LeadFlow 的总规则
 
 ## 当前最值得先看的 area
 

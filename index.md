@@ -1,7 +1,7 @@
 # AF Wiki Index
 
 > Canonical navigation for the current repo state
-> Last updated: 2026-04-20
+> Last updated: 2026-04-24
 
 ## First read
 - [[START-HERE]] — 先理解当前真的在用什么，以及哪些只是目标设计
@@ -9,13 +9,18 @@
 - [[SCHEMA]] — LeadFlow 总体结构规则
 - [[log]] — 系统级结构变化记录
 
+## Planning / evolution docs
+- [[docs/2026-04-24-feat-architecture-evolution-plan]] — 吸收 GBrain 优点后的 AF-wiki 架构进化计划
+- [[infra/README.md]] — 当前 sidecar / derived runtime 入口（sync / doctor / briefing）
+
 ## Current area modules
 
 ### Areas registry
 - [[areas/index]] — area 总表、area 增长规则、每个 area 的推荐 skill
 
 ### Fitness
-- `areas/fitness/` — 当前最完整的活跃 area
+- `areas/fitness/` — 当前最完整的活跃 area，默认仍以 markdown 记录为 canonical source of truth
+- `areas/fitness/40-data/` — derived fitness data layer for markdown->SQLite sync, completeness audit, and sidecar-oriented maintenance commands
 - [[areas/fitness/index]] — fitness area 导航
 - [[areas/fitness/SCHEMA]] — fitness area 内部结构与记录规则
 - [[areas/fitness/00-profile]] — 背景、偏好、器械约束

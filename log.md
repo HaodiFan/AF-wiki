@@ -1,9 +1,32 @@
 # AF Wiki Log
 
+## [2026-04-24] schema | Evo-memory baseline promoted to root navigation
+- Updated `SCHEMA.md` to reflect the active 2026-04-24 evo-memory baseline for future wiki upgrades
+- Kept markdown as canonical while making sidecar index / doctor / selective structure the default evolution direction
+- Confirmed root navigation continues to point users first to planning docs and sidecar runtime entrypoints
+
+## [2026-04-24] infra | Added Phase 1 sidecar command skeleton
+- Added `infra/README.md` as the entrypoint for the derived runtime layer
+- Added `infra/indexing/af_wiki_sync.py` as the canonical sync wrapper for the current markdown -> SQLite pipeline
+- Added `infra/jobs/af_wiki_doctor.py` as the first compact doctor command over the fitness audit output
+- Added `infra/jobs/af_wiki_briefing.py` as the first lightweight briefing command combining recent log context with audit status
+- Kept markdown as canonical while moving command entrypoints toward the evo plan's sidecar layout
+
+## [2026-04-24] docs | Added architecture evolution plan
+- Added `docs/2026-04-24-feat-architecture-evolution-plan.md` to capture how AF-wiki should absorb selected GBrain strengths without replacing the current LeadFlow / markdown-first architecture
+- Linked the new evolution-plan doc from `index.md` and `START-HERE.md` so it becomes part of the canonical navigation
+- Defined a four-layer evolution model: canonical markdown layer, derived index/query layer, selective structure layer, and maintenance/briefing layer
+- Prioritized Phase 1 around sidecar indexing and wiki doctor capabilities before heavier semantic retrieval work
+
+## 2026-04-22
+- Fitness: completed a moderate-intensity swim session (22:51 active / 23:49 total, 325 m, 13 laps in a 25 m pool, 141 kcal total / 105 kcal active, avg HR 133 bpm, exertion level 5), mainly breaststroke with one mixed-stroke segment; one device segment was recorded as invalid 0 m data
+- Nutrition: breakfast was 3 eggs + 1 cup of milk, pre-workout intake included 1 banana before swimming, and lunch was 200 g sirloin steak + 1 corn cob + 1 bottle of sparkling water; dinner and later meals remain unconfirmed
+- Overall evaluation: today's swim is aligned with the active Tuesday swimming slot and counts as a real aerobic session, though it landed shorter than the plan's nominal 40-60 min target; lunch was a light but high-protein recovery meal, and the next key step is a controlled protein-forward dinner
+
 ## 2026-04-21
 - Fitness: completed a back + biceps focused machine strength session in Shanghai (15:14-15:57, 42:18, 335 kcal total / 268 kcal active, avg HR 123 bpm, HR range 83-143, exertion level 6), with pulldown, seated row, chest-supported row, straight-arm pulldown, curls, face pulls, a small core add-on, and post-session back stretching
-- Nutrition: breakfast 3 eggs + 1 bowl of milk; lunch included a grilled beef grain bowl 260 g, sliced braised beef deli, and Perrier 330 ml from Yonghui Supermarket Shanghai Tangzhen Sunshine City store (12:51:25 order, total paid 64.20 CNY via Alipay); dinner and any later protein top-up remain unconfirmed
-- Overall evaluation: the active plan expected Tuesday swimming, but substituting into a pull-focused strength day was a reasonable real-time adjustment after Monday's push session; training completion is strong and grounded, while same-day nutrition is still only partially confirmed because records currently stop at lunch
+- Nutrition: breakfast 3 eggs + 1 bowl of milk; lunch included a grilled beef grain bowl 260 g, sliced braised beef deli, and Perrier 330 ml from Yonghui Supermarket Shanghai Tangzhen Sunshine City store (12:51:25 order, total paid 64.20 CNY via Alipay); dinner included beef shank with bell pepper, rice, spinach, pineapple, lychee, and 1 can of yogurt; dedicated pre-sleep protein top-up remains unconfirmed
+- Overall evaluation: the active plan expected Tuesday swimming, but substituting into a pull-focused strength day was a reasonable real-time adjustment after Monday's push session; training completion is strong and grounded, and same-day nutrition is now much more complete, though the separate pre-sleep protein slot is still unconfirmed
 
 ## 2026-04-20
 - Fitness: completed Monday chest + triceps + core strength session (48:31, 414 kcal total / 338 kcal active, avg HR 128 bpm, difficult intensity); key movements included bench press, incline press, machine fly, triceps work, hanging leg raises, and plank
