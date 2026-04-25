@@ -1,5 +1,7 @@
 # AF Fitness Change Log
 
+- 2026-04-24: Upgraded active plan memory to the new evo / architecture-evolution direction, making the sidecar index + doctor + selective structure roadmap the main current-plan lens for wiki memory upgrades.
+- 2026-04-24: Archived the previous 2026-04-11 fat-loss plan v1 under `areas/fitness/plan-versions/2026-04-24-archived-fat-loss-plan-v1.md` so plan history remains versioned after the new active evo plan took over.
 - 2026-04-18: Created sustainable fitness memory structure with profile, goals, current plan, decision rules, check-ins, weekly summaries, nutrition notes, and change log.
 - 2026-04-18: Seeded current plan with the previously revised nutrition plan snapshot.
 - 2026-04-18: Seeded weekly history with reported training and food notes for 2026-W16.
@@ -19,3 +21,7 @@
 - 2026-04-20: Added `30-strategy/templates/daily-checkin-template.md` as the preferred normalized format for future training + meal logging.
 - 2026-04-20: Refactored `10-checkins/2026-04.md` into a more structured format for recent entries while preserving historical archive content.
 - 2026-04-20: Created `areas/fitness/index.md` as the fitness-area entrypoint, including read order, file responsibilities, and anti-miss audit rules so future coaching and completeness checks do not rely on a single file.
+- 2026-04-23: Added a database-oriented architecture note under `areas/fitness/40-data/` to move toward SQLite as canonical structured storage while keeping markdown as the human-facing intake layer.
+- 2026-04-23: Implemented the first SQLite sync pipeline at `areas/fitness/40-data/sync_markdown_to_sqlite.py`, creating `/home/AF-wiki/data/fitness.db` and importing current check-ins plus plan versions into structured tables.
+- 2026-04-23: Added a SQL-backed completeness audit pipeline at `areas/fitness/40-data/audit_fitness_completeness.py` that writes `latest-audit.json` for fast day-level training/nutrition completeness checks.
+- 2026-04-23: Added `areas/fitness/40-data/run_sync_and_audit.py` as a one-command runner for the markdown->SQLite sync plus completeness audit workflow.

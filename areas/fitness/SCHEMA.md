@@ -14,9 +14,8 @@
 - Separate **stable facts** from **fast-changing logs**.
 - Keep each note focused on one purpose.
 - Record only information that can affect future decisions.
-- Prefer summaries over raw chat transcripts.
-- Let the system carry both **summary metrics** and **detail-level records** when both matter for future coaching.
-- Every weekly or plan update should roll into the appropriate canonical note.
+- SQLite-backed canonical storage for structured fitness facts may be introduced, while markdown remains the human-facing intake/review layer.
+- Daily capture can begin in markdown/chat, but the long-term direction is to normalize canonical records into SQLite for audits and querying.
 
 ## Folder structure
 

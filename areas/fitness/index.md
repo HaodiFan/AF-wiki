@@ -34,9 +34,10 @@
 - `02-current-plan.md` — 当前生效计划
 - `10-checkins/2026-04.md` — 当月 check-in
 - `20-weeks/2026-W16.md` — 周级总结
-- `20-weeks/2026-W17-plan.md` — 当前周计划
-- `30-strategy/historical-strength-reference.md` — 历史力量参考
-- `99-change-log.md` — 重要变更记录
+- `30-strategy/` — 历史力量参考、模板、策略沉淀
+- `40-data/` — database architecture, sync scripts, and structured storage layer for canonical records
+- `plan-versions/` — 历史计划版本归档
+- `99-change-log.md` — 重大调整日志
 
 ## Routing note
 - 日常教练、记录和计划调整优先使用 `ai-fitness-coach-cn`
@@ -52,8 +53,7 @@
 - `20-weeks/` — 每周复盘与偏差总结
 - `30-nutrition/` — 当前饮食策略与复用模板
 - `30-strategy/` — 历史力量参考、模板、策略沉淀
-- `plan-versions/` — 历史计划版本归档
-- `99-change-log.md` — 重大调整日志
+- `40-data/` — database architecture, sync scripts, and structured storage layer for canonical records
 
 ## What goes where
 ### 1) Daily facts

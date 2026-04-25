@@ -1,7 +1,7 @@
 # AF LeadFlow Schema
 
 > Purpose: define LeadFlow as AF's durable second-brain operating model, with a dynamic `areas/` layer for ongoing responsibilities and a shared `resources/` layer for cross-area lead and research flow.
-> Last updated: 2026-04-20
+> Last updated: 2026-04-24
 
 ## Read this file the right way
 
@@ -16,7 +16,7 @@ For the current repo state, read in this order:
 
 ## Current active footprint
 
-As of `2026-04-20`, the repo is primarily composed of:
+As of `2026-04-24`, the repo is primarily composed of:
 - `areas/index.md`
 - `areas/fitness/`
 - `areas/knowledge/`
@@ -42,6 +42,16 @@ The following parts remain **future growth space**:
 - future areas under `areas/<name>/`
 
 The `wiki/` folder is an earlier bootstrap scaffold and should not be confused with the current root-level LeadFlow entry points.
+
+## Active evo-memory baseline (2026-04-24)
+
+Current default evolution direction for AF-wiki memory upgrades:
+- markdown remains the canonical, human-readable source of truth
+- sidecar commands and derived artifacts are encouraged when they improve queryability, audits, and maintenance
+- the preferred near-term path is `sync` + `doctor` + `briefing` style tooling before heavier semantic infrastructure
+- selective structure should be added only where it creates real leverage, not as a blanket database-first rewrite
+
+This baseline should guide future architecture and memory-upgrade work unless the user explicitly replaces it with a newer plan.
 
 ## Core design decision
 

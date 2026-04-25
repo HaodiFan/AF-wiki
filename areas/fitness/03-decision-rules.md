@@ -16,6 +16,7 @@
 - Current truth belongs in the current plan file.
 - Weekly behavior belongs in weekly summaries.
 - Important changes must also be appended to the change log.
+- For future structured querying and completeness audits, prefer a SQLite-backed canonical store for normalized daily facts while keeping markdown as the intake/review surface.
 - When historical strength logs are ambiguously formatted, interpret them using normal gym notation first: usually weight then reps, but allow reps-then-weight when the pattern or common exercise notation clearly supports that reading.
 - Before saying a day is unrecorded or incomplete, cross-check current chat facts with the date block in `10-checkins`, the corresponding `20-weeks` note, and the current plan.
 - If the user adds same-day food or training facts in multiple turns, merge them into one date block and explicitly mark any still-missing meal slots or training details.

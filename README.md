@@ -29,9 +29,12 @@
 
 | 日期 | 领域 | 动态 |
 |:-----|:-----|:-----|
+| 04-22 | 💪 Fitness | 完成游泳 22:51（总用时 23:49），325 m / 13 趟，141 kcal，平均心率 133；以蛙泳为主 — [详情](areas/fitness/10-checkins/2026-04.md) |
+| 04-22 | 🍽️ Nutrition | 早餐 3 个鸡蛋 + 牛奶；游泳前香蕉；午餐 200 g 西冷牛排 + 1 根玉米 + 气泡水 — [详情](areas/fitness/10-checkins/2026-04.md) |
+| 04-22 | 📝 Summary | 今天按计划完成中等强度游泳；午餐轻量但蛋白恢复不错，晚餐与睡前补给仍待补 — [详情](areas/fitness/10-checkins/2026-04.md) |
 | 04-21 | 💪 Fitness | 完成背 + 二头力量训练 42:18，335 kcal，平均心率 123 bpm；含面拉、核心和背部拉伸收尾 — [详情](areas/fitness/10-checkins/2026-04.md) |
-| 04-21 | 🍽️ Nutrition | 早餐 3 个鸡蛋 + 奶；午餐煎烤牛肉谷物碗 + 卤牛肉 + 巴黎水；晚餐与后续补给仍待确认 — [详情](areas/fitness/10-checkins/2026-04.md) |
-| 04-21 | 📝 Summary | 原计划周二游泳，实际改为 pull 向力量训练；训练完成度高，但当天饮食记录目前只完整到午餐 — [详情](areas/fitness/10-checkins/2026-04.md) |
+| 04-21 | 🍽️ Nutrition | 早餐 3 个鸡蛋 + 奶；午餐煎烤牛肉谷物碗 + 卤牛肉 + 巴黎水；晚餐牛腱子 + 彩椒 + 米饭 + 菠菜 + 菠萝/荔枝 + 酸奶 — [详情](areas/fitness/10-checkins/2026-04.md) |
+| 04-21 | 📝 Summary | 原计划周二游泳，实际改为 pull 向力量训练；训练完成度高，当天饮食已补全到晚餐，睡前蛋白加餐仍待确认 — [详情](areas/fitness/10-checkins/2026-04.md) |
 | 04-20 | 💪 Fitness | 完成胸 + 三头 + 核心力量训练 48:31，414 kcal，平均心率 128 bpm — [详情](areas/fitness/10-checkins/2026-04.md) |
 | 04-20 | 🍽️ Nutrition | 早餐 3 个鸡蛋；午餐牛腱子 + 沙拉约 537 kcal / 77 g 蛋白；晚餐三文鱼 200 g + 西兰花 + 彩椒 + 米饭 — [详情](areas/fitness/10-checkins/2026-04.md) |
 | 04-20 | 📝 Summary | 今天完成计划内周一 push 日；训练完成度高，饮食主餐结构到位，睡前补给仍待补充确认 — [详情](areas/fitness/10-checkins/2026-04.md) |
