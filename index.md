@@ -61,6 +61,8 @@
 - `templates/` — 统一记录格式
 - [[templates/lead-note-template]] — lead capture 模板
 - [[templates/deep-research-template]] — 深入研究模板
+- [[templates/topic-note-template]] — durable topic 概念节点模板
+- [[templates/map-note-template]] — curated map 主题地图模板
 
 ## Planned layers
 - future areas under `areas/<name>/`

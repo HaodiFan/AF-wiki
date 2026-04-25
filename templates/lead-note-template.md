@@ -1,13 +1,23 @@
+---
+type: lead
+status: captured
+priority: medium
+source_type: term
+captured_on:
+tags:
+  - lead
+---
 # Lead Note Template
 
 > Purpose: quickly capture a potentially interesting thing before deep research.
 
 ## Basic Info
+- Type: lead
 - Title:
 - Captured on:
-- Status: todo
+- Status: captured | queued | researching | promoted | archived
 - Priority: low | medium | high
-- Source type: article | conversation | github | tweet | video | podcast | other
+- Source type: term | article | conversation | github | tweet | video | podcast | other
 - Source:
 - Seen via:
 
@@ -26,6 +36,7 @@
 ## Links
 - Related deep research:
 - Related project/area/resource:
+- Promoted topic:
 
 ## Raw notes
 - 
@@ -46,3 +57,4 @@ Recommended minimal fill:
 Rule:
 - If it is only weak-signal capture, save it under `resources/leads/`
 - Only promote it into `areas/knowledge/` after you decide it deserves retained knowledge status
+- Do not create a topic node for every captured term. Promote only reusable concepts that connect multiple notes or belong on a map.

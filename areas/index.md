@@ -75,7 +75,7 @@
 - Purpose: retained technical reading notes, article corpora, and ongoing knowledge curation
 - Schema: `areas/knowledge/SCHEMA.md`
 - Preferred skills:
-  - `wechat-article-wiki-ingest`
+  - `wechat-public-account-reader`
   - `second-brain-wiki-architecture`
 
 ### 3) work

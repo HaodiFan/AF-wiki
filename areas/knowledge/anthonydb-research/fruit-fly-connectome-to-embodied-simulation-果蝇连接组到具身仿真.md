@@ -19,6 +19,10 @@ languages:
 Archived in current wiki / 当前 wiki 原文:
 - [[originals/果蝇大脑上传：Connectome 到 Embodied Simulation]]
 
+## Topics / Concepts
+
+- [[../topics/agent-memory|Agent Memory / 智能体记忆]]
+
 ## Chinese Summary / 中文摘要
 
 ### 保留原因
