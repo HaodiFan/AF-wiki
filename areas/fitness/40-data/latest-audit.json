@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T03:52:27.298940Z",
+  "generated_at": "2026-04-27T03:56:58.666004Z",
   "database": "/home/AF-wiki/data/fitness.db",
   "active_fitness_plan": {
     "version_label": "2026-04-11 fat-loss plan v1",
@@ -7,10 +7,10 @@
     "source_note": "areas/fitness/plan-versions/2026-04-11-fat-loss-plan-v1.md",
     "slot_count": 7
   },
-  "days_checked": 5,
-  "complete_days": 5,
-  "partial_days": 0,
-  "incomplete_days": 0,
+  "days_checked": 9,
+  "complete_days": 6,
+  "partial_days": 1,
+  "incomplete_days": 2,
   "results": [
     {
       "date": "2026-04-18",
@@ -137,6 +137,108 @@
         ]
       },
       "overall_status": "complete"
+    },
+    {
+      "date": "2026-04-24",
+      "weekday": "Friday",
+      "planned_slot": null,
+      "recorded_plan_slot": null,
+      "training": {
+        "status": "missing",
+        "missing_fields": [
+          "training_confirmation"
+        ],
+        "session_type": null,
+        "theme": null,
+        "exercise_count": 0
+      },
+      "nutrition": {
+        "status": "partial",
+        "missing_fields": [
+          "breakfast",
+          "pre_sleep_unconfirmed"
+        ],
+        "meal_slots": [
+          "Dinner",
+          "Lunch"
+        ]
+      },
+      "overall_status": "incomplete"
+    },
+    {
+      "date": "2026-04-25",
+      "weekday": "Saturday",
+      "planned_slot": null,
+      "recorded_plan_slot": null,
+      "training": {
+        "status": "complete",
+        "missing_fields": [],
+        "session_type": "traditional strength training",
+        "theme": "shoulders + arms + core",
+        "exercise_count": 6
+      },
+      "nutrition": {
+        "status": "partial",
+        "missing_fields": [
+          "dinner"
+        ],
+        "meal_slots": [
+          "Breakfast",
+          "Lunch"
+        ]
+      },
+      "overall_status": "partial"
+    },
+    {
+      "date": "2026-04-26",
+      "weekday": "Sunday",
+      "planned_slot": "Sunday swim / aerobic day",
+      "recorded_plan_slot": "Sunday swim / aerobic day",
+      "training": {
+        "status": "complete",
+        "missing_fields": [],
+        "session_type": "swim",
+        "theme": "aerobic swim",
+        "exercise_count": 6
+      },
+      "nutrition": {
+        "status": "complete",
+        "missing_fields": [
+          "pre_sleep_unconfirmed"
+        ],
+        "meal_slots": [
+          "Breakfast",
+          "Dinner",
+          "Lunch"
+        ]
+      },
+      "overall_status": "complete"
+    },
+    {
+      "date": "2026-04-27",
+      "weekday": "Monday",
+      "planned_slot": "Monday training day under the active mixed training structure, but actual training is still unconfirmed",
+      "recorded_plan_slot": "Monday training day under the active mixed training structure, but actual training is still unconfirmed",
+      "training": {
+        "status": "missing",
+        "missing_fields": [
+          "training_confirmation"
+        ],
+        "session_type": null,
+        "theme": null,
+        "exercise_count": 0
+      },
+      "nutrition": {
+        "status": "partial",
+        "missing_fields": [
+          "lunch",
+          "dinner"
+        ],
+        "meal_slots": [
+          "Breakfast"
+        ]
+      },
+      "overall_status": "incomplete"
     }
   ]
 }
