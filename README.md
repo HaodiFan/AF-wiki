@@ -29,18 +29,10 @@
 
 | 日期 | 领域 | 动态 |
 |:-----|:-----|:-----|
-| 04-27 | 💪 Fitness | 今日实际训练仍待确认；当前已落地的是早餐更新，尚不能算完成训练日 — [详情](areas/fitness/10-checkins/2026-04.md) |
-| 04-27 | 🍽️ Nutrition | 早餐 3 个鸡蛋 + 1 个猕猴桃；后续午晚餐与睡前补给仍待补 — [详情](areas/fitness/10-checkins/2026-04.md) |
-| 04-27 | 📝 Summary | 早餐开局尚可，但今天是否达成训练/蛋白目标仍取决于后续进食与训练记录 — [详情](areas/fitness/10-checkins/2026-04.md) |
-| 04-22 | 💪 Fitness | 完成游泳 22:51（总用时 23:49），325 m / 13 趟，141 kcal，平均心率 133；以蛙泳为主 — [详情](areas/fitness/10-checkins/2026-04.md) |
-| 04-22 | 🍽️ Nutrition | 早餐 3 个鸡蛋 + 牛奶；游泳前香蕉；午餐 200 g 西冷牛排 + 1 根玉米 + 气泡水 — [详情](areas/fitness/10-checkins/2026-04.md) |
-| 04-22 | 📝 Summary | 今天按计划完成中等强度游泳；午餐轻量但蛋白恢复不错，晚餐与睡前补给仍待补 — [详情](areas/fitness/10-checkins/2026-04.md) |
-| 04-21 | 💪 Fitness | 完成背 + 二头力量训练 42:18，335 kcal，平均心率 123 bpm；含面拉、核心和背部拉伸收尾 — [详情](areas/fitness/10-checkins/2026-04.md) |
-| 04-21 | 🍽️ Nutrition | 早餐 3 个鸡蛋 + 奶；午餐煎烤牛肉谷物碗 + 卤牛肉 + 巴黎水；晚餐牛腱子 + 彩椒 + 米饭 + 菠菜 + 菠萝/荔枝 + 酸奶 — [详情](areas/fitness/10-checkins/2026-04.md) |
-| 04-21 | 📝 Summary | 原计划周二游泳，实际改为 pull 向力量训练；训练完成度高，当天饮食已补全到晚餐，睡前蛋白加餐仍待确认 — [详情](areas/fitness/10-checkins/2026-04.md) |
-| 04-20 | 💪 Fitness | 完成胸 + 三头 + 核心力量训练 48:31，414 kcal，平均心率 128 bpm — [详情](areas/fitness/10-checkins/2026-04.md) |
-| 04-20 | 🍽️ Nutrition | 早餐 3 个鸡蛋；午餐牛腱子 + 沙拉约 537 kcal / 77 g 蛋白；晚餐三文鱼 200 g + 西兰花 + 彩椒 + 米饭 — [详情](areas/fitness/10-checkins/2026-04.md) |
-| 04-20 | 📝 Summary | 今天完成计划内周一 push 日；训练完成度高，饮食主餐结构到位，睡前补给仍待补充确认 — [详情](areas/fitness/10-checkins/2026-04.md) |
+| 04-27 | 💪🍽️ Fitness/Nutrition | 早餐 3 个鸡蛋 + 1 个猕猴桃；午餐 200 g 牛肉 + 1 根玉米棒 + 1 瓶气泡水；训练与晚餐明确标记为待确认 — [详情](areas/fitness/10-checkins/2026-04.md) |
+| 04-22 | 🏊💪🍽️ Fitness/Nutrition | 完成中等强度游泳 23:49 / 325 m / 13 趟；早餐 3 个鸡蛋 + 1 杯牛奶，游泳前香蕉，午餐 200 g 西冷牛排 + 1 根玉米 + 气泡水；晚餐待确认 — [详情](areas/fitness/10-checkins/2026-04.md) |
+| 04-21 | 💪🍽️ Fitness/Nutrition | 完成背 + 二头力量训练 42:18；三餐已记录，原计划游泳改为 pull 向力量训练，睡前蛋白仍待确认 — [详情](areas/fitness/10-checkins/2026-04.md) |
+| 04-20 | 💪🍽️ Fitness/Nutrition | 完成胸 + 三头 + 核心力量训练 48:31；早餐 3 个鸡蛋，午餐牛腱子 + 沙拉，晚餐三文鱼 + 西兰花 + 彩椒 + 米饭，睡前补给待确认 — [详情](areas/fitness/10-checkins/2026-04.md) |
 | 04-20 | 🔧 System | area 层收敛为动态模块：knowledge 提升为 area，并补 work area 骨架 — [详情](log.md) |
 | 04-19 | 🔧 System | LeadFlow 架构正式命名，并统一仓库与主页文案 — [详情](log.md) |
 | 04-18 | 📋 Planning | W17 训练计划改为下肢、游泳、推拉混合，并匹配营养节奏 — [详情](areas/fitness/20-weeks/2026-W17-plan.md) |
