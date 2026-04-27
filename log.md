@@ -18,6 +18,11 @@
 - Defined a four-layer evolution model: canonical markdown layer, derived index/query layer, selective structure layer, and maintenance/briefing layer
 - Prioritized Phase 1 around sidecar indexing and wiki doctor capabilities before heavier semantic retrieval work
 
+## 2026-04-27
+- Fitness: today's actual training is still unconfirmed, so the day is currently grounded only as a breakfast update
+- Nutrition: breakfast logged as 3 eggs + 1 kiwi; later meals and any protein top-up remain unconfirmed
+- Overall evaluation: breakfast start is reasonable, but today's overall diet/training completion cannot yet be judged until lunch, dinner, and actual training status are added
+
 ## 2026-04-22
 - Fitness: completed a moderate-intensity swim session (22:51 active / 23:49 total, 325 m, 13 laps in a 25 m pool, 141 kcal total / 105 kcal active, avg HR 133 bpm, exertion level 5), mainly breaststroke with one mixed-stroke segment; one device segment was recorded as invalid 0 m data
 - Nutrition: breakfast was 3 eggs + 1 cup of milk, pre-workout intake included 1 banana before swimming, and lunch was 200 g sirloin steak + 1 corn cob + 1 bottle of sparkling water; dinner and later meals remain unconfirmed
