@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-27T03:56:58.666004Z",
+  "generated_at": "2026-04-27T07:01:03.736645Z",
   "database": "/home/AF-wiki/data/fitness.db",
   "active_fitness_plan": {
     "version_label": "2026-04-11 fat-loss plan v1",
@@ -7,9 +7,9 @@
     "source_note": "areas/fitness/plan-versions/2026-04-11-fat-loss-plan-v1.md",
     "slot_count": 7
   },
-  "days_checked": 9,
-  "complete_days": 6,
-  "partial_days": 1,
+  "days_checked": 10,
+  "complete_days": 8,
+  "partial_days": 0,
   "incomplete_days": 2,
   "results": [
     {
@@ -114,6 +114,32 @@
       "overall_status": "complete"
     },
     {
+      "date": "2026-04-22",
+      "weekday": "Wednesday",
+      "planned_slot": "Tuesday swimming day under the then-active weekly fitness structure",
+      "recorded_plan_slot": "Tuesday swimming day under the then-active weekly fitness structure",
+      "training": {
+        "status": "complete",
+        "missing_fields": [],
+        "session_type": "swim",
+        "theme": "moderate aerobic swim",
+        "exercise_count": 2
+      },
+      "nutrition": {
+        "status": "complete",
+        "missing_fields": [
+          "pre_sleep_unconfirmed"
+        ],
+        "meal_slots": [
+          "Breakfast",
+          "Dinner",
+          "Lunch",
+          "Pre-workout / intra-day intake"
+        ]
+      },
+      "overall_status": "complete"
+    },
+    {
       "date": "2026-04-23",
       "weekday": "Thursday",
       "planned_slot": "Wednesday — Back + biceps + lower-body insert",
@@ -141,8 +167,8 @@
     {
       "date": "2026-04-24",
       "weekday": "Friday",
-      "planned_slot": null,
-      "recorded_plan_slot": null,
+      "planned_slot": "Thursday — chest + triceps + core or equivalent push-oriented training day under the last active fitness training structure",
+      "recorded_plan_slot": "Thursday — chest + triceps + core or equivalent push-oriented training day under the last active fitness training structure",
       "training": {
         "status": "missing",
         "missing_fields": [
@@ -153,12 +179,12 @@
         "exercise_count": 0
       },
       "nutrition": {
-        "status": "partial",
+        "status": "complete",
         "missing_fields": [
-          "breakfast",
           "pre_sleep_unconfirmed"
         ],
         "meal_slots": [
+          "Breakfast",
           "Dinner",
           "Lunch"
         ]
@@ -168,8 +194,8 @@
     {
       "date": "2026-04-25",
       "weekday": "Saturday",
-      "planned_slot": null,
-      "recorded_plan_slot": null,
+      "planned_slot": "Friday — shoulders + arms + core / upper-body accessory emphasis within the current weekly pattern",
+      "recorded_plan_slot": "Friday — shoulders + arms + core / upper-body accessory emphasis within the current weekly pattern",
       "training": {
         "status": "complete",
         "missing_fields": [],
@@ -178,16 +204,17 @@
         "exercise_count": 6
       },
       "nutrition": {
-        "status": "partial",
+        "status": "complete",
         "missing_fields": [
-          "dinner"
+          "pre_sleep_unconfirmed"
         ],
         "meal_slots": [
           "Breakfast",
+          "Dinner",
           "Lunch"
         ]
       },
-      "overall_status": "partial"
+      "overall_status": "complete"
     },
     {
       "date": "2026-04-26",
@@ -217,8 +244,8 @@
     {
       "date": "2026-04-27",
       "weekday": "Monday",
-      "planned_slot": "Monday training day under the active mixed training structure, but actual training is still unconfirmed",
-      "recorded_plan_slot": "Monday training day under the active mixed training structure, but actual training is still unconfirmed",
+      "planned_slot": "Sunday / transition day before the next Monday training slot under the active mixed structure",
+      "recorded_plan_slot": "Sunday / transition day before the next Monday training slot under the active mixed structure",
       "training": {
         "status": "missing",
         "missing_fields": [
@@ -229,13 +256,14 @@
         "exercise_count": 0
       },
       "nutrition": {
-        "status": "partial",
+        "status": "complete",
         "missing_fields": [
-          "lunch",
-          "dinner"
+          "pre_sleep_unconfirmed"
         ],
         "meal_slots": [
-          "Breakfast"
+          "Breakfast",
+          "Dinner",
+          "Lunch"
         ]
       },
       "overall_status": "incomplete"
