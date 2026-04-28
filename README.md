@@ -54,6 +54,70 @@
       <td><a href="areas/fitness/10-checkins/2026-04.md">check-in</a></td>
     </tr>
     <tr>
+      <td rowspan="3"><strong>04-26</strong></td>
+      <td>🏊 训练</td>
+      <td>游泳完成，<code>38:59</code> / <code>500 m</code> / <code>218 kcal</code>，属于较轻的恢复型有氧日。</td>
+      <td><a href="areas/fitness/10-checkins/2026-04.md">check-in</a></td>
+    </tr>
+    <tr>
+      <td>🍽️ 营养</td>
+      <td>早餐饼干+玉米、午餐牛肉 <code>180 g</code> + 地瓜干、晚餐鳕鱼汉堡 + 玉米已记录。</td>
+      <td><a href="areas/fitness/10-checkins/2026-04.md">check-in</a></td>
+    </tr>
+    <tr>
+      <td>📝 评估</td>
+      <td>当天不是空白；训练与三餐都已落地，但整体仍偏碳水高、蛋白效率一般。</td>
+      <td><a href="areas/fitness/10-checkins/2026-04.md">check-in</a></td>
+    </tr>
+    <tr>
+      <td rowspan="3"><strong>04-25</strong></td>
+      <td>💪 训练</td>
+      <td>肩 + 手臂 + 核心训练完成，<code>42:36</code> / <code>361 kcal</code> / 平均心率 <code>126 bpm</code>。</td>
+      <td><a href="areas/fitness/10-checkins/2026-04.md">check-in</a></td>
+    </tr>
+    <tr>
+      <td>🍽️ 营养</td>
+      <td>早餐轻食、午餐卤牛肉 <code>250 g</code> 已记录；晚餐仍待确认。</td>
+      <td><a href="areas/fitness/10-checkins/2026-04.md">check-in</a></td>
+    </tr>
+    <tr>
+      <td>📝 评估</td>
+      <td>当天不是空白；训练闭环完整，但饮食仍偏前轻后缺，晚餐证据尚未补齐。</td>
+      <td><a href="areas/fitness/10-checkins/2026-04.md">check-in</a></td>
+    </tr>
+    <tr>
+      <td rowspan="3"><strong>04-24</strong></td>
+      <td>🍽️ 营养</td>
+      <td>午餐明确跳过；晚餐为土豆芝士饼、鸡汤、糯米、鸡翅、炸鸡块等，已确认并非空白。</td>
+      <td><a href="areas/fitness/10-checkins/2026-04.md">check-in</a></td>
+    </tr>
+    <tr>
+      <td>🏋️ 训练</td>
+      <td>训练状态仍未确认；当前只能标记为 <code>unconfirmed</code>，不能强行判定已练或休息。</td>
+      <td><a href="areas/fitness/10-checkins/2026-04.md">check-in</a></td>
+    </tr>
+    <tr>
+      <td>📝 评估</td>
+      <td>当天不是空白，而是饮食已落地、训练待补确认；能量分布明显前低后高。</td>
+      <td><a href="areas/fitness/10-checkins/2026-04.md">check-in</a></td>
+    </tr>
+    <tr>
+      <td rowspan="3"><strong>04-23</strong></td>
+      <td>🛌 恢复</td>
+      <td>当天明确没训练，按 intentional rest day 记账，不算漏记。</td>
+      <td><a href="areas/fitness/10-checkins/2026-04.md">check-in</a></td>
+    </tr>
+    <tr>
+      <td>🍽️ 营养</td>
+      <td>早餐 3 个鸡蛋 + 牛奶、午餐肉肉大米、晚餐牛肉 + 米饭 + 蔬菜已记录。</td>
+      <td><a href="areas/fitness/10-checkins/2026-04.md">check-in</a></td>
+    </tr>
+    <tr>
+      <td>📝 评估</td>
+      <td>当天不是空白；休息状态和三餐都已明确，只是餐量与蛋白精确值仍未量化。</td>
+      <td><a href="areas/fitness/10-checkins/2026-04.md">check-in</a></td>
+    </tr>
+    <tr>
       <td rowspan="3"><strong>04-22</strong></td>
       <td>🏊 训练</td>
       <td>中等强度游泳完成，<code>23:49</code> / <code>325 m</code> / <code>13</code> 趟。</td>
