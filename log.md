@@ -19,8 +19,28 @@
 - Prioritized Phase 1 around sidecar indexing and wiki doctor capabilities before heavier semantic retrieval work
 
 ## 2026-04-27
-- Fitness/Nutrition: breakfast logged as 3 eggs + 1 kiwi, lunch logged as 200 g beef + 1 corn cob + 1 bottle of sparkling water; no confirmed training record or dinner record has been recovered yet, so both remain explicitly unconfirmed
-- Overall evaluation: daytime intake now has a usable protein anchor, but the day is still not fully closed because evening intake and training status remain to be confirmed
+- Fitness/Nutrition: completed chest + triceps + core strength session (50:37, 319 kcal total / avg HR 111 bpm); breakfast, lunch, and pre/post-workout banana intake are grounded, while dinner remains explicitly unconfirmed
+- Overall evaluation: training closure is clear, but recovery closure still depends on dinner or later protein intake
+
+## 2026-04-26
+- Fitness: completed a lighter recovery-style swim session in Shanghai (38:59, 500 m, 218 kcal total / 155 kcal active, avg HR 132 bpm)
+- Nutrition: breakfast was light biscuits + 1 corn; lunch was beef 180 g + dried sweet potato 300 g; dinner was cod burger + 1 corn
+- Overall evaluation: this day is not blank; training and all three meal slots are grounded, but the intake still looks somewhat carb-heavy and not maximally protein-efficient
+
+## 2026-04-25
+- Fitness: completed shoulders + arms + core strength session (42:36, 361 kcal total / 294 kcal active, avg HR 126 bpm)
+- Nutrition: breakfast was light biscuits + 1 Snickers bar; lunch was original-flavor braised beef 250 g; dinner remains explicitly unconfirmed
+- Overall evaluation: this day is not blank; training is complete and grounded, but the nutrition side is still front-light with dinner evidence missing
+
+## 2026-04-24
+- Fitness: no confirmed session recovered yet; training status remains explicitly unconfirmed rather than inferred as either completed or rest
+- Nutrition: lunch was explicitly skipped; dinner was cheese potato pancake, chicken soup, sticky rice, sugar garlic, chicken wings, and fried chicken pieces; breakfast remains unrecovered
+- Overall evaluation: this day is not blank; diet facts are grounded while training still needs confirmation, and energy distribution was clearly front-light / dinner-heavy
+
+## 2026-04-23
+- Fitness: no training performed; this is a confirmed intentional rest day rather than an unlogged workout gap
+- Nutrition: breakfast was 3 eggs + 1 bowl of milk; lunch was 肉肉大米 hamburger-steak meal; dinner was beef + 1 bowl rice + green vegetables + bell pepper
+- Overall evaluation: this day is not blank; rest status and three meals are both grounded, though exact portions/macros remain unquantified
 
 ## 2026-04-22
 - Fitness/Nutrition: completed a moderate-intensity swim session (23:49 total / 22:51 active, 325 m, 13 laps in a 25 m pool, 141 kcal total / 105 kcal active, avg HR 133 bpm, exertion level 5), mainly breaststroke with one mixed-stroke segment; breakfast was 3 eggs + 1 cup of milk, pre-workout intake included 1 banana before swimming, and lunch was 200 g sirloin steak + 1 corn cob + 1 bottle of sparkling water
