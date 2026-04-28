@@ -29,17 +29,17 @@
 
 | 日期 | 领域 | 动态 |
 |:-----|:-----|:-----|
-| 04-27 | 💪🍽️ Fitness/Nutrition | 完成胸 + 三头 + 核心力量训练 50:37 / 319 kcal / 平均心率 111 bpm；早餐、午餐、训练前后香蕉已记录，晚餐待确认 — [详情](areas/fitness/10-checkins/2026-04.md) |
-| 04-22 | 🏊💪🍽️ Fitness/Nutrition | 完成中等强度游泳 23:49 / 325 m / 13 趟；早餐 3 个鸡蛋 + 1 杯牛奶，游泳前香蕉，午餐 200 g 西冷牛排 + 1 根玉米 + 气泡水；晚餐待确认 — [详情](areas/fitness/10-checkins/2026-04.md) |
-| 04-21 | 💪🍽️ Fitness/Nutrition | 完成背 + 二头力量训练 42:18；三餐已记录，原计划游泳改为 pull 向力量训练，睡前蛋白仍待确认 — [详情](areas/fitness/10-checkins/2026-04.md) |
-| 04-20 | 💪🍽️ Fitness/Nutrition | 完成胸 + 三头 + 核心力量训练 48:31；早餐 3 个鸡蛋，午餐牛腱子 + 沙拉，晚餐三文鱼 + 西兰花 + 彩椒 + 米饭，睡前补给待确认 — [详情](areas/fitness/10-checkins/2026-04.md) |
-| 04-20 | 🔧 System | area 层收敛为动态模块：knowledge 提升为 area，并补 work area 骨架 — [详情](log.md) |
-| 04-19 | 🔧 System | LeadFlow 架构正式命名，并统一仓库与主页文案 — [详情](log.md) |
-| 04-18 | 📋 Planning | W17 训练计划改为下肢、游泳、推拉混合，并匹配营养节奏 — [详情](areas/fitness/20-weeks/2026-W17-plan.md) |
-| 04-18 | 🏊 Fitness | 游泳 500m，配速 4'37/100m，平均心率 150 bpm — [详情](areas/fitness/10-checkins/2026-04.md) |
-| 04-18 | 🥩 Nutrition | 晚餐牛腱子加牛肉约 750g，当日蛋白基本已覆盖 — [详情](areas/fitness/10-checkins/2026-04.md) |
-| 04-18 | 📚 Knowledge | 收录 7 篇公众号技术文章线索，并建立统一入口页 — [详情](areas/knowledge/wechat-public-account-articles.md) |
-| 04-18 | 🔧 System | 首页与总导航改成近期状态优先展示，突出时间线入口 — [详情](log.md) |
+| 04-27 | 💪🍽️ Fitness/Nutrition | 完成胸 + 三头 + 核心力量训练 50:37 / 319 kcal / 平均心率 111 bpm；早餐、午餐、训练前后香蕉已记录，晚餐待确认 — <a href="areas/fitness/10-checkins/2026-04.md">详情</a> |
+| 04-22 | 🏊💪🍽️ Fitness/Nutrition | 完成中等强度游泳 23:49 / 325 m / 13 趟；早餐 3 个鸡蛋 + 1 杯牛奶，游泳前香蕉，午餐 200 g 西冷牛排 + 1 根玉米 + 气泡水；晚餐待确认 — <a href="areas/fitness/10-checkins/2026-04.md">详情</a> |
+| 04-21 | 💪🍽️ Fitness/Nutrition | 完成背 + 二头力量训练 42:18；三餐已记录，原计划游泳改为 pull 向力量训练，睡前蛋白仍待确认 — <a href="areas/fitness/10-checkins/2026-04.md">详情</a> |
+| 04-20 | 💪🍽️ Fitness/Nutrition | 完成胸 + 三头 + 核心力量训练 48:31；早餐 3 个鸡蛋，午餐牛腱子 + 沙拉，晚餐三文鱼 + 西兰花 + 彩椒 + 米饭，睡前补给待确认 — <a href="areas/fitness/10-checkins/2026-04.md">详情</a> |
+| 04-20 | 🔧 System | area 层收敛为动态模块：knowledge 提升为 area，并补 work area 骨架 — <a href="log.md">详情</a> |
+| 04-19 | 🔧 System | LeadFlow 架构正式命名，并统一仓库与主页文案 — <a href="log.md">详情</a> |
+| 04-18 | 📋 Planning | W17 训练计划改为下肢、游泳、推拉混合，并匹配营养节奏 — <a href="areas/fitness/20-weeks/2026-W17-plan.md">详情</a> |
+| 04-18 | 🏊 Fitness | 游泳 500m，配速 4'37/100m，平均心率 150 bpm — <a href="areas/fitness/10-checkins/2026-04.md">详情</a> |
+| 04-18 | 🥩 Nutrition | 晚餐牛腱子加牛肉约 750g，当日蛋白基本已覆盖 — <a href="areas/fitness/10-checkins/2026-04.md">详情</a> |
+| 04-18 | 📚 Knowledge | 收录 7 篇公众号技术文章线索，并建立统一入口页 — <a href="areas/knowledge/wechat-public-account-articles.md">详情</a> |
+| 04-18 | 🔧 System | 首页与总导航改成近期状态优先展示，突出时间线入口 — <a href="log.md">详情</a> |
 
 ## 🏆 Strength PR / 历史最佳纪录
 
