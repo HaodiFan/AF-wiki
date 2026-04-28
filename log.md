@@ -10,6 +10,7 @@
 - Added `infra/indexing/af_wiki_sync.py` as the canonical sync wrapper for the current markdown -> SQLite pipeline
 - Added `infra/jobs/af_wiki_doctor.py` as the first compact doctor command over the fitness audit output
 - Added `infra/jobs/af_wiki_briefing.py` as the first lightweight briefing command combining recent log context with audit status
+- Extended `infra/jobs/af_wiki_briefing.py` so one cron-safe command can refresh both the AF-wiki README table and the HaodiFan profile README recent-updates section from the same 7-day fitness window
 - Kept markdown as canonical while moving command entrypoints toward the evo plan's sidecar layout
 
 ## [2026-04-24] docs | Added architecture evolution plan

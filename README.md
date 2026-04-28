@@ -40,167 +40,98 @@
     <tr>
       <td rowspan="3"><strong>04-27</strong></td>
       <td>💪 训练</td>
-      <td>胸 + 三头 + 核心力量训练完成，<code>50:37</code> / <code>319 kcal</code> / 平均心率 <code>111 bpm</code>。</td>
+      <td>胸 + 三头 + 核心力量训练完成，<code>50:37</code>，<code>319 kcal</code>，平均心率 <code>111 bpm</code>。</td>
       <td><a href="areas/fitness/10-checkins/2026-04.md">check-in</a></td>
     </tr>
     <tr>
       <td>🍽️ 营养</td>
-      <td>早餐、午餐、训练前后香蕉已记录；晚餐仍待确认。</td>
+      <td>早餐 3 个鸡蛋 + 1 个猕猴桃、午餐牛肉 200 g + 玉米 1 根 + 1 bottle of 气泡水、晚餐仍待确认、训练前后各 1 根香蕉。</td>
       <td><a href="areas/fitness/10-checkins/2026-04.md">check-in</a></td>
     </tr>
     <tr>
       <td>📝 评估</td>
-      <td>训练闭环已清楚；恢复闭环还依赖晚餐或后续蛋白补给。</td>
+      <td>training closure is clear, but recovery closure still depends on dinner or later protein intake。</td>
       <td><a href="areas/fitness/10-checkins/2026-04.md">check-in</a></td>
     </tr>
     <tr>
       <td rowspan="3"><strong>04-26</strong></td>
       <td>🏊 训练</td>
-      <td>游泳完成，<code>38:59</code> / <code>500 m</code> / <code>218 kcal</code>，属于较轻的恢复型有氧日。</td>
+      <td>游泳完成，<code>38:59</code>，<code>500 m</code>，<code>218 kcal</code>，平均心率 <code>132 bpm</code>。</td>
       <td><a href="areas/fitness/10-checkins/2026-04.md">check-in</a></td>
     </tr>
     <tr>
       <td>🍽️ 营养</td>
-      <td>早餐饼干+玉米、午餐牛肉 <code>180 g</code> + 地瓜干、晚餐鳕鱼汉堡 + 玉米已记录。</td>
+      <td>早餐 1 pack of 轻食饼干 + 玉米 1 根、午餐牛肉 180 g + 地瓜干 300 g、晚餐鳕鱼汉堡 + 玉米 1 根。</td>
       <td><a href="areas/fitness/10-checkins/2026-04.md">check-in</a></td>
     </tr>
     <tr>
       <td>📝 评估</td>
-      <td>当天不是空白；训练与三餐都已落地，但整体仍偏碳水高、蛋白效率一般。</td>
+      <td>this day is not blank; training and all three meal slots are grounded, but the intake still looks somewhat carb-heavy and not maximally protein-efficient。</td>
       <td><a href="areas/fitness/10-checkins/2026-04.md">check-in</a></td>
     </tr>
     <tr>
       <td rowspan="3"><strong>04-25</strong></td>
       <td>💪 训练</td>
-      <td>肩 + 手臂 + 核心训练完成，<code>42:36</code> / <code>361 kcal</code> / 平均心率 <code>126 bpm</code>。</td>
+      <td>肩 + 手臂 + 核心力量训练完成，<code>42:36</code>，<code>361 kcal</code>，平均心率 <code>126 bpm</code>。</td>
       <td><a href="areas/fitness/10-checkins/2026-04.md">check-in</a></td>
     </tr>
     <tr>
       <td>🍽️ 营养</td>
-      <td>早餐轻食、午餐卤牛肉 <code>250 g</code> 已记录；晚餐仍待确认。</td>
+      <td>早餐 轻食饼干 + 1 根士力架、午餐原味卤牛肉 250 g、晚餐仍待确认。</td>
       <td><a href="areas/fitness/10-checkins/2026-04.md">check-in</a></td>
     </tr>
     <tr>
       <td>📝 评估</td>
-      <td>当天不是空白；训练闭环完整，但饮食仍偏前轻后缺，晚餐证据尚未补齐。</td>
+      <td>this day is not blank; training is complete and grounded, but the nutrition side is still front-light with dinner evidence missing。</td>
       <td><a href="areas/fitness/10-checkins/2026-04.md">check-in</a></td>
     </tr>
     <tr>
       <td rowspan="3"><strong>04-24</strong></td>
-      <td>🍽️ 营养</td>
-      <td>午餐明确跳过；晚餐为土豆芝士饼、鸡汤、糯米、鸡翅、炸鸡块等，已确认并非空白。</td>
+      <td>🏋️ 训练</td>
+      <td>训练状态仍未确认，只能标记为 <code>unconfirmed</code>。</td>
       <td><a href="areas/fitness/10-checkins/2026-04.md">check-in</a></td>
     </tr>
     <tr>
-      <td>🏋️ 训练</td>
-      <td>训练状态仍未确认；当前只能标记为 <code>unconfirmed</code>，不能强行判定已练或休息。</td>
+      <td>🍽️ 营养</td>
+      <td>早餐待确认、午餐明确跳过、晚餐土豆芝士饼 + one large bowl of 鸡汤 + some 糯米 + 2 sugar garlic cloves + several 鸡翅 + one bowl of 炸鸡块。</td>
       <td><a href="areas/fitness/10-checkins/2026-04.md">check-in</a></td>
     </tr>
     <tr>
       <td>📝 评估</td>
-      <td>当天不是空白，而是饮食已落地、训练待补确认；能量分布明显前低后高。</td>
+      <td>this day is not blank; diet facts are grounded while training still needs confirmation, and energy distribution was clearly front-light / dinner-heavy。</td>
       <td><a href="areas/fitness/10-checkins/2026-04.md">check-in</a></td>
     </tr>
     <tr>
       <td rowspan="3"><strong>04-23</strong></td>
       <td>🛌 恢复</td>
-      <td>当天明确没训练，按 intentional rest day 记账，不算漏记。</td>
+      <td>当天为意图性休息日，不算漏记。</td>
       <td><a href="areas/fitness/10-checkins/2026-04.md">check-in</a></td>
     </tr>
     <tr>
       <td>🍽️ 营养</td>
-      <td>早餐 3 个鸡蛋 + 牛奶、午餐肉肉大米、晚餐牛肉 + 米饭 + 蔬菜已记录。</td>
+      <td>早餐 3 个鸡蛋 + 1 碗牛奶、午餐Japanese white rice 1 bowl + miso soup 1 bowl (with scallion and bamboo shoots) + 2 teppan hamburger patties + a large amount of broccoli + 1 raw egg + three sauces (pink special creamy sauce + brown yakiniku-style sauce + grainy mustard sauce) + light-colored drink likely 气泡水 or a light beverage、晚餐beef + 1 bowl of rice + green vegetables + bell pepper。</td>
       <td><a href="areas/fitness/10-checkins/2026-04.md">check-in</a></td>
     </tr>
     <tr>
       <td>📝 评估</td>
-      <td>当天不是空白；休息状态和三餐都已明确，只是餐量与蛋白精确值仍未量化。</td>
+      <td>this day is not blank; rest status and three meals are both grounded, though exact portions/macros remain unquantified。</td>
       <td><a href="areas/fitness/10-checkins/2026-04.md">check-in</a></td>
     </tr>
     <tr>
       <td rowspan="3"><strong>04-22</strong></td>
       <td>🏊 训练</td>
-      <td>中等强度游泳完成，<code>23:49</code> / <code>325 m</code> / <code>13</code> 趟。</td>
+      <td>游泳完成，<code>23:49 / 22:51 active</code>，<code>325 m</code>，<code>141 kcal</code>，平均心率 <code>133 bpm</code>。</td>
       <td><a href="areas/fitness/10-checkins/2026-04.md">check-in</a></td>
     </tr>
     <tr>
       <td>🍽️ 营养</td>
-      <td>早餐、游泳前香蕉、午餐已记录；晚餐仍待确认。</td>
+      <td>早餐 3 个鸡蛋 + 1 cup of 1 碗牛奶、午餐200 g sirloin steak + 玉米 1 根 + 1 bottle of 气泡水、晚餐仍待确认、训练前 1 根香蕉。</td>
       <td><a href="areas/fitness/10-checkins/2026-04.md">check-in</a></td>
     </tr>
     <tr>
       <td>📝 评估</td>
-      <td>符合游泳日方向，但训练量低于计划中的 <code>40-60 min</code> 目标。</td>
+      <td>today's swim is aligned with the active Tuesday swimming slot and counts as a real aerobic session, though it landed shorter than the plan's nominal 40-60 min target; daytime recovery intake is grounded, while dinner remains explicitly unconfirmed。</td>
       <td><a href="areas/fitness/10-checkins/2026-04.md">check-in</a></td>
-    </tr>
-    <tr>
-      <td rowspan="3"><strong>04-21</strong></td>
-      <td>💪 训练</td>
-      <td>背 + 二头力量训练完成，<code>42:18</code>，并补充后背拉伸。</td>
-      <td><a href="areas/fitness/10-checkins/2026-04.md">check-in</a></td>
-    </tr>
-    <tr>
-      <td>🍽️ 营养</td>
-      <td>三餐已记录；睡前蛋白作为独立补给位仍待确认。</td>
-      <td><a href="areas/fitness/10-checkins/2026-04.md">check-in</a></td>
-    </tr>
-    <tr>
-      <td>📝 评估</td>
-      <td>原计划游泳改为 pull 向力量训练，是接在前一日 push 训练后的合理替代。</td>
-      <td><a href="areas/fitness/10-checkins/2026-04.md">check-in</a></td>
-    </tr>
-    <tr>
-      <td rowspan="4"><strong>04-20</strong></td>
-      <td>💪 训练</td>
-      <td>胸 + 三头 + 核心力量训练完成，<code>48:31</code>，覆盖当日 push 训练位。</td>
-      <td><a href="areas/fitness/10-checkins/2026-04.md">check-in</a></td>
-    </tr>
-    <tr>
-      <td>🍽️ 营养</td>
-      <td>早餐、午餐、晚餐已记录；睡前补给仍待确认。</td>
-      <td><a href="areas/fitness/10-checkins/2026-04.md">check-in</a></td>
-    </tr>
-    <tr>
-      <td>📝 评估</td>
-      <td>与 Monday push slot 高度匹配，当日可视为完成质量较高的力量日。</td>
-      <td><a href="areas/fitness/10-checkins/2026-04.md">check-in</a></td>
-    </tr>
-    <tr>
-      <td>🔧 系统</td>
-      <td>area 层收敛为动态模块；knowledge 提升为 area，并补 work area 骨架。</td>
-      <td><a href="log.md">log</a></td>
-    </tr>
-    <tr>
-      <td><strong>04-19</strong></td>
-      <td>🔧 系统</td>
-      <td>LeadFlow 架构正式命名，并统一仓库与主页文案。</td>
-      <td><a href="log.md">log</a></td>
-    </tr>
-    <tr>
-      <td rowspan="5"><strong>04-18</strong></td>
-      <td>📋 规划</td>
-      <td>W17 训练计划改为下肢、游泳、推拉混合，并匹配营养节奏。</td>
-      <td><a href="areas/fitness/20-weeks/2026-W17-plan.md">plan</a></td>
-    </tr>
-    <tr>
-      <td>🏊 训练</td>
-      <td>游泳 <code>500 m</code>，配速 <code>4'37/100m</code>，平均心率 <code>150 bpm</code>。</td>
-      <td><a href="areas/fitness/10-checkins/2026-04.md">check-in</a></td>
-    </tr>
-    <tr>
-      <td>🥩 营养</td>
-      <td>晚餐牛腱子加牛肉约 <code>750 g</code>，当日蛋白基本已覆盖。</td>
-      <td><a href="areas/fitness/10-checkins/2026-04.md">check-in</a></td>
-    </tr>
-    <tr>
-      <td>📚 知识</td>
-      <td>收录 7 篇公众号技术文章线索，并建立统一入口页。</td>
-      <td><a href="areas/knowledge/wechat-public-account-articles.md">articles</a></td>
-    </tr>
-    <tr>
-      <td>🔧 系统</td>
-      <td>首页与总导航改成近期状态优先展示，突出时间线入口。</td>
-      <td><a href="log.md">log</a></td>
     </tr>
   </tbody>
 </table>
