@@ -2,12 +2,13 @@
 
 > Purpose: add a normalized SQLite-backed storage layer for canonical fitness records, while keeping Markdown as the human intake and review surface.
 > Status: proposed architecture approved by user on 2026-04-23
-> Last updated: 2026-04-23
+> Last updated: 2026-04-28
 
 ## Core principle
 - SQLite becomes the canonical structured store for fitness data.
 - Markdown becomes the human-facing intake, review, and narrative layer.
 - New facts should be parsed from markdown/chat into SQLite, then optionally rendered back into markdown summaries.
+- For historically important fitness and diet records, the structured layer should support bilingual storage so one-time backfill and future updates can preserve both Chinese and English renderings when available.
 
 ## Why this split
 Markdown is good for:
@@ -23,6 +24,7 @@ SQLite is better for:
 - plan-vs-actual checks
 - missing-field detection
 - future automation and dashboards
+- preserving normalized bilingual fields without forcing daily markdown to become overly rigid
 
 ## Proposed storage model
 Database location:
@@ -39,6 +41,7 @@ Preferred long-term flow:
 2. Assistant normalizes them into SQLite tables
 3. Assistant updates markdown summary/intake views as needed
 4. Audits and recommendations query SQLite first, then use markdown for narrative context
+5. When the user provides or approves bilingual wording, store both language variants in structured fields instead of overwriting one with the other
 
 ## Suggested tables
 ### days
@@ -49,6 +52,8 @@ Fields:
 - actual_training_status
 - nutrition_status
 - notes
+- notes_zh
+- notes_en
 
 ### training_sessions
 One row per training session.
@@ -57,15 +62,23 @@ Fields:
 - date
 - type
 - theme
+- theme_zh
+- theme_en
 - duration_seconds
 - calories_total
 - calories_active
 - avg_hr
 - max_hr
 - intensity
+- intensity_zh
+- intensity_en
 - exertion_level
 - evaluation
+- evaluation_zh
+- evaluation_en
 - recovery_notes
+- recovery_notes_zh
+- recovery_notes_en
 - source_note
 
 ### exercises
@@ -74,6 +87,8 @@ Fields:
 - id
 - session_id
 - exercise_name
+- exercise_name_zh
+- exercise_name_en
 - set_order
 - weight_value
 - reps
@@ -81,6 +96,8 @@ Fields:
 - distance_m
 - pace_text
 - raw_text
+- raw_text_zh
+- raw_text_en
 
 ### meals
 One row per meal slot.
@@ -88,10 +105,16 @@ Fields:
 - id
 - date
 - meal_slot
+- meal_slot_zh
+- meal_slot_en
 - foods_text
+- foods_text_zh
+- foods_text_en
 - estimated_calories
 - estimated_protein_g
 - notes
+- notes_zh
+- notes_en
 - source_note
 
 ### meal_items
@@ -100,6 +123,8 @@ Fields:
 - id
 - meal_id
 - food_name
+- food_name_zh
+- food_name_en
 - quantity_text
 - calories
 - protein_g
@@ -111,8 +136,11 @@ Fields:
 - version_label
 - effective_date
 - status
+- plan_type
 - source_note
 - summary
+- summary_zh
+- summary_en
 
 ### plan_slots
 Fields:
@@ -120,7 +148,11 @@ Fields:
 - plan_version_id
 - weekday
 - slot_name
+- slot_name_zh
+- slot_name_en
 - details
+- details_zh
+- details_en
 
 ### audits
 Fields:
@@ -136,6 +168,7 @@ Fields:
 - Historical records can be backfilled incrementally.
 - Do not block daily use on full backfill.
 - Start with current active month and recent week first.
+- User-approved historical bilingual restoration can be done as a one-time backfill; afterwards, future sync/update flows should keep bilingual structured fields aligned.
 
 ## Operational rule
 Until a sync tool exists, markdown and SQLite may temporarily diverge.
@@ -144,6 +177,7 @@ So the next implementation step should be a sync script that:
 2. imports existing markdown records
 3. supports idempotent upsert for future updates
 4. powers completeness audits from SQL queries
+5. preserves bilingual text fields when markdown/chat provides them or when later backfill enriches the DB
 
 ## Current implementation
 - Sync script: `/home/AF-wiki/areas/fitness/40-data/sync_markdown_to_sqlite.py`
@@ -156,3 +190,4 @@ So the next implementation step should be a sync script that:
 - Audit usage: `python3 /home/AF-wiki/areas/fitness/40-data/audit_fitness_completeness.py`
 - Combined usage: `python3 /home/AF-wiki/areas/fitness/40-data/run_sync_and_audit.py`
 - Current behavior: recreates/upserts canonical daily records, event records, meals, training sessions, exercises, and plan slots from markdown sources, then audits day-level training/nutrition completeness from SQL
+- 2026-04-28 direction: schema/sync should evolve to include bilingual shadow fields for day notes, sessions, exercises, meals, and plan summaries so historical one-time backfill and future updates stay consistent
