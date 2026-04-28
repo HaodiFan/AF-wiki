@@ -27,19 +27,119 @@
 
 ## 📡 最近动态
 
-| 日期 | 领域 | 动态 |
-|:-----|:-----|:-----|
-| 04-27 | 💪🍽️ Fitness/Nutrition | 完成胸 + 三头 + 核心力量训练 50:37 / 319 kcal / 平均心率 111 bpm；早餐、午餐、训练前后香蕉已记录，晚餐待确认 — <a href="areas/fitness/10-checkins/2026-04.md">详情</a> |
-| 04-22 | 🏊💪🍽️ Fitness/Nutrition | 完成中等强度游泳 23:49 / 325 m / 13 趟；早餐 3 个鸡蛋 + 1 杯牛奶，游泳前香蕉，午餐 200 g 西冷牛排 + 1 根玉米 + 气泡水；晚餐待确认 — <a href="areas/fitness/10-checkins/2026-04.md">详情</a> |
-| 04-21 | 💪🍽️ Fitness/Nutrition | 完成背 + 二头力量训练 42:18；三餐已记录，原计划游泳改为 pull 向力量训练，睡前蛋白仍待确认 — <a href="areas/fitness/10-checkins/2026-04.md">详情</a> |
-| 04-20 | 💪🍽️ Fitness/Nutrition | 完成胸 + 三头 + 核心力量训练 48:31；早餐 3 个鸡蛋，午餐牛腱子 + 沙拉，晚餐三文鱼 + 西兰花 + 彩椒 + 米饭，睡前补给待确认 — <a href="areas/fitness/10-checkins/2026-04.md">详情</a> |
-| 04-20 | 🔧 System | area 层收敛为动态模块：knowledge 提升为 area，并补 work area 骨架 — <a href="log.md">详情</a> |
-| 04-19 | 🔧 System | LeadFlow 架构正式命名，并统一仓库与主页文案 — <a href="log.md">详情</a> |
-| 04-18 | 📋 Planning | W17 训练计划改为下肢、游泳、推拉混合，并匹配营养节奏 — <a href="areas/fitness/20-weeks/2026-W17-plan.md">详情</a> |
-| 04-18 | 🏊 Fitness | 游泳 500m，配速 4'37/100m，平均心率 150 bpm — <a href="areas/fitness/10-checkins/2026-04.md">详情</a> |
-| 04-18 | 🥩 Nutrition | 晚餐牛腱子加牛肉约 750g，当日蛋白基本已覆盖 — <a href="areas/fitness/10-checkins/2026-04.md">详情</a> |
-| 04-18 | 📚 Knowledge | 收录 7 篇公众号技术文章线索，并建立统一入口页 — <a href="areas/knowledge/wechat-public-account-articles.md">详情</a> |
-| 04-18 | 🔧 System | 首页与总导航改成近期状态优先展示，突出时间线入口 — <a href="log.md">详情</a> |
+<table>
+  <thead>
+    <tr>
+      <th>日期</th>
+      <th>维度</th>
+      <th>状态</th>
+      <th>入口</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="3"><strong>04-27</strong></td>
+      <td>💪 训练</td>
+      <td>胸 + 三头 + 核心力量训练完成，<code>50:37</code> / <code>319 kcal</code> / 平均心率 <code>111 bpm</code>。</td>
+      <td><a href="areas/fitness/10-checkins/2026-04.md">check-in</a></td>
+    </tr>
+    <tr>
+      <td>🍽️ 营养</td>
+      <td>早餐、午餐、训练前后香蕉已记录；晚餐仍待确认。</td>
+      <td><a href="areas/fitness/10-checkins/2026-04.md">check-in</a></td>
+    </tr>
+    <tr>
+      <td>📝 评估</td>
+      <td>训练闭环已清楚；恢复闭环还依赖晚餐或后续蛋白补给。</td>
+      <td><a href="areas/fitness/10-checkins/2026-04.md">check-in</a></td>
+    </tr>
+    <tr>
+      <td rowspan="3"><strong>04-22</strong></td>
+      <td>🏊 训练</td>
+      <td>中等强度游泳完成，<code>23:49</code> / <code>325 m</code> / <code>13</code> 趟。</td>
+      <td><a href="areas/fitness/10-checkins/2026-04.md">check-in</a></td>
+    </tr>
+    <tr>
+      <td>🍽️ 营养</td>
+      <td>早餐、游泳前香蕉、午餐已记录；晚餐仍待确认。</td>
+      <td><a href="areas/fitness/10-checkins/2026-04.md">check-in</a></td>
+    </tr>
+    <tr>
+      <td>📝 评估</td>
+      <td>符合游泳日方向，但训练量低于计划中的 <code>40-60 min</code> 目标。</td>
+      <td><a href="areas/fitness/10-checkins/2026-04.md">check-in</a></td>
+    </tr>
+    <tr>
+      <td rowspan="3"><strong>04-21</strong></td>
+      <td>💪 训练</td>
+      <td>背 + 二头力量训练完成，<code>42:18</code>，并补充后背拉伸。</td>
+      <td><a href="areas/fitness/10-checkins/2026-04.md">check-in</a></td>
+    </tr>
+    <tr>
+      <td>🍽️ 营养</td>
+      <td>三餐已记录；睡前蛋白作为独立补给位仍待确认。</td>
+      <td><a href="areas/fitness/10-checkins/2026-04.md">check-in</a></td>
+    </tr>
+    <tr>
+      <td>📝 评估</td>
+      <td>原计划游泳改为 pull 向力量训练，是接在前一日 push 训练后的合理替代。</td>
+      <td><a href="areas/fitness/10-checkins/2026-04.md">check-in</a></td>
+    </tr>
+    <tr>
+      <td rowspan="4"><strong>04-20</strong></td>
+      <td>💪 训练</td>
+      <td>胸 + 三头 + 核心力量训练完成，<code>48:31</code>，覆盖当日 push 训练位。</td>
+      <td><a href="areas/fitness/10-checkins/2026-04.md">check-in</a></td>
+    </tr>
+    <tr>
+      <td>🍽️ 营养</td>
+      <td>早餐、午餐、晚餐已记录；睡前补给仍待确认。</td>
+      <td><a href="areas/fitness/10-checkins/2026-04.md">check-in</a></td>
+    </tr>
+    <tr>
+      <td>📝 评估</td>
+      <td>与 Monday push slot 高度匹配，当日可视为完成质量较高的力量日。</td>
+      <td><a href="areas/fitness/10-checkins/2026-04.md">check-in</a></td>
+    </tr>
+    <tr>
+      <td>🔧 系统</td>
+      <td>area 层收敛为动态模块；knowledge 提升为 area，并补 work area 骨架。</td>
+      <td><a href="log.md">log</a></td>
+    </tr>
+    <tr>
+      <td><strong>04-19</strong></td>
+      <td>🔧 系统</td>
+      <td>LeadFlow 架构正式命名，并统一仓库与主页文案。</td>
+      <td><a href="log.md">log</a></td>
+    </tr>
+    <tr>
+      <td rowspan="5"><strong>04-18</strong></td>
+      <td>📋 规划</td>
+      <td>W17 训练计划改为下肢、游泳、推拉混合，并匹配营养节奏。</td>
+      <td><a href="areas/fitness/20-weeks/2026-W17-plan.md">plan</a></td>
+    </tr>
+    <tr>
+      <td>🏊 训练</td>
+      <td>游泳 <code>500 m</code>，配速 <code>4'37/100m</code>，平均心率 <code>150 bpm</code>。</td>
+      <td><a href="areas/fitness/10-checkins/2026-04.md">check-in</a></td>
+    </tr>
+    <tr>
+      <td>🥩 营养</td>
+      <td>晚餐牛腱子加牛肉约 <code>750 g</code>，当日蛋白基本已覆盖。</td>
+      <td><a href="areas/fitness/10-checkins/2026-04.md">check-in</a></td>
+    </tr>
+    <tr>
+      <td>📚 知识</td>
+      <td>收录 7 篇公众号技术文章线索，并建立统一入口页。</td>
+      <td><a href="areas/knowledge/wechat-public-account-articles.md">articles</a></td>
+    </tr>
+    <tr>
+      <td>🔧 系统</td>
+      <td>首页与总导航改成近期状态优先展示，突出时间线入口。</td>
+      <td><a href="log.md">log</a></td>
+    </tr>
+  </tbody>
+</table>
 
 ## 🏆 Strength PR / 历史最佳纪录
 
