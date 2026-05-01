@@ -38,6 +38,22 @@
   </thead>
   <tbody>
     <tr>
+      <td rowspan="3"><strong>04-28</strong></td>
+      <td>💪 训练</td>
+      <td>back + biceps focused machine session with core finisher力量训练完成。</td>
+      <td><a href="areas/fitness/10-checkins/2026-04.md">check-in</a></td>
+    </tr>
+    <tr>
+      <td>🍽️ 营养</td>
+      <td>早餐 3 个鸡蛋、午餐vegetarian set meal with 1 bowl of rice + scrambled egg + zucchini + wood ear mushroom + and other mixed vegetables、晚餐partially confirmed via the post-workout 70 g beef portion; any additional dinner foods remain unconfirmed、训练前 牛肉 180 g、训练后 remaining beef 70 g。</td>
+      <td><a href="areas/fitness/10-checkins/2026-04.md">check-in</a></td>
+    </tr>
+    <tr>
+      <td>📝 评估</td>
+      <td>this is clearly a completed training day rather than a blank day, and recovery protein is now materially covered, but the dinner structure is still only partially closed unless later foods are added。</td>
+      <td><a href="areas/fitness/10-checkins/2026-04.md">check-in</a></td>
+    </tr>
+    <tr>
       <td rowspan="3"><strong>04-27</strong></td>
       <td>💪 训练</td>
       <td>胸 + 三头 + 核心力量训练完成，<code>50:37</code>，<code>319 kcal</code>，平均心率 <code>111 bpm</code>。</td>
@@ -83,54 +99,6 @@
     <tr>
       <td>📝 评估</td>
       <td>this day is not blank; training is complete and grounded, but the nutrition side is still front-light with dinner evidence missing。</td>
-      <td><a href="areas/fitness/10-checkins/2026-04.md">check-in</a></td>
-    </tr>
-    <tr>
-      <td rowspan="3"><strong>04-24</strong></td>
-      <td>🏋️ 训练</td>
-      <td>训练状态仍未确认，只能标记为 <code>unconfirmed</code>。</td>
-      <td><a href="areas/fitness/10-checkins/2026-04.md">check-in</a></td>
-    </tr>
-    <tr>
-      <td>🍽️ 营养</td>
-      <td>早餐待确认、午餐明确跳过、晚餐土豆芝士饼 + one large bowl of 鸡汤 + some 糯米 + 2 sugar garlic cloves + several 鸡翅 + one bowl of 炸鸡块。</td>
-      <td><a href="areas/fitness/10-checkins/2026-04.md">check-in</a></td>
-    </tr>
-    <tr>
-      <td>📝 评估</td>
-      <td>this day is not blank; diet facts are grounded while training still needs confirmation, and energy distribution was clearly front-light / dinner-heavy。</td>
-      <td><a href="areas/fitness/10-checkins/2026-04.md">check-in</a></td>
-    </tr>
-    <tr>
-      <td rowspan="3"><strong>04-23</strong></td>
-      <td>🛌 恢复</td>
-      <td>当天为意图性休息日，不算漏记。</td>
-      <td><a href="areas/fitness/10-checkins/2026-04.md">check-in</a></td>
-    </tr>
-    <tr>
-      <td>🍽️ 营养</td>
-      <td>早餐 3 个鸡蛋 + 1 碗牛奶、午餐Japanese white rice 1 bowl + miso soup 1 bowl (with scallion and bamboo shoots) + 2 teppan hamburger patties + a large amount of broccoli + 1 raw egg + three sauces (pink special creamy sauce + brown yakiniku-style sauce + grainy mustard sauce) + light-colored drink likely 气泡水 or a light beverage、晚餐beef + 1 bowl of rice + green vegetables + bell pepper。</td>
-      <td><a href="areas/fitness/10-checkins/2026-04.md">check-in</a></td>
-    </tr>
-    <tr>
-      <td>📝 评估</td>
-      <td>this day is not blank; rest status and three meals are both grounded, though exact portions/macros remain unquantified。</td>
-      <td><a href="areas/fitness/10-checkins/2026-04.md">check-in</a></td>
-    </tr>
-    <tr>
-      <td rowspan="3"><strong>04-22</strong></td>
-      <td>🏊 训练</td>
-      <td>游泳完成，<code>23:49 / 22:51 active</code>，<code>325 m</code>，<code>141 kcal</code>，平均心率 <code>133 bpm</code>。</td>
-      <td><a href="areas/fitness/10-checkins/2026-04.md">check-in</a></td>
-    </tr>
-    <tr>
-      <td>🍽️ 营养</td>
-      <td>早餐 3 个鸡蛋 + 1 cup of 1 碗牛奶、午餐200 g sirloin steak + 玉米 1 根 + 1 bottle of 气泡水、晚餐仍待确认、训练前 1 根香蕉。</td>
-      <td><a href="areas/fitness/10-checkins/2026-04.md">check-in</a></td>
-    </tr>
-    <tr>
-      <td>📝 评估</td>
-      <td>today's swim is aligned with the active Tuesday swimming slot and counts as a real aerobic session, though it landed shorter than the plan's nominal 40-60 min target; daytime recovery intake is grounded, while dinner remains explicitly unconfirmed。</td>
       <td><a href="areas/fitness/10-checkins/2026-04.md">check-in</a></td>
     </tr>
   </tbody>
