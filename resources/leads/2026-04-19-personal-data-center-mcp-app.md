@@ -1,3 +1,11 @@
+---
+title: "2026-04-19-personal-data-center-mcp-app"
+tags:
+  - area/resources
+  - topic/data-management
+  - type/lead
+  - wiki/af
+---
 # 个人数据中心：可授权全量数据给 MCP 使用的 App
 
 ## Basic Info

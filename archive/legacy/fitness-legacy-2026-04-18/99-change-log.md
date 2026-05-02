@@ -1,3 +1,11 @@
+---
+title: "99-change-log"
+tags:
+  - area/archive
+  - topic/fitness
+  - type/log
+  - wiki/af
+---
 # AF Fitness Change Log
 
 - 2026-04-18: Created sustainable fitness memory structure with profile, goals, current plan, decision rules, check-ins, weekly summaries, nutrition notes, and change log.

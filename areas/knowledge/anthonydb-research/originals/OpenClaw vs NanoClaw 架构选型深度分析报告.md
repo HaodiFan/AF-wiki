@@ -1,3 +1,13 @@
+---
+title: "OpenClaw vs NanoClaw 架构选型深度分析报告"
+tags:
+  - area/knowledge
+  - collection/anthonydb-research
+  - source/anthonydb
+  - topic/agent-systems
+  - type/original
+  - wiki/af
+---
 # OpenClaw vs NanoClaw 架构选型深度分析报告
 
 ## Meta

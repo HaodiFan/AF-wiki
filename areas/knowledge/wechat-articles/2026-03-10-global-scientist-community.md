@@ -1,3 +1,11 @@
+---
+title: "2026-03-10-global-scientist-community"
+tags:
+  - area/knowledge
+  - source/wechat
+  - type/article-note
+  - wiki/af
+---
 # AI发布首个全球科学家社区爆火，硅谷投资圈：科技研究领域的「谷歌地图」来了！
 
 > Status: legacy migrated note

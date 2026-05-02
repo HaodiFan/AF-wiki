@@ -1,3 +1,9 @@
+---
+title: "SCHEMA"
+tags:
+  - type/schema
+  - wiki/af
+---
 # AF LeadFlow Schema
 
 > Purpose: define LeadFlow as AF's durable second-brain operating model, with a dynamic `areas/` layer for ongoing responsibilities and a shared `resources/` layer for cross-area lead and research flow.

@@ -1,3 +1,10 @@
+---
+title: "daily-checkin-template"
+tags:
+  - area/fitness
+  - topic/fitness
+  - wiki/af
+---
 # Daily Fitness Check-in Template
 
 > Use this template when normalizing one day's training, food, and recovery notes into `10-checkins/YYYY-MM.md`.

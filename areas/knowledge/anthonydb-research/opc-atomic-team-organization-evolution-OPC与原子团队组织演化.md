@@ -7,6 +7,11 @@ aliases:
 languages:
   - en
   - zh
+tags:
+  - area/knowledge
+  - collection/anthonydb-research
+  - type/research-note
+  - wiki/af
 ---
 # OPC / Atomic Team Organization Evolution / OPC 与原子团队组织演化
 

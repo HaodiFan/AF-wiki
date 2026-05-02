@@ -1,8 +1,15 @@
+---
+title: "SCHEMA"
+tags:
+  - area/knowledge
+  - type/schema
+  - wiki/af
+---
 # Knowledge Area Schema
 
 > Purpose: manage ongoing technical reading, retained article notes, and curated knowledge assets that belong to AF's continuous knowledge-development area.
 > Owner: AF
-> Last updated: 2026-04-25
+> Last updated: 2026-04-26
 
 ## Why this is an area
 
@@ -32,6 +39,8 @@ knowledge/
 ├── index.md
 ├── maps/
 ├── topics/
+├── source-documents/
+├── source-notes/
 ├── anthonydb-research/
 ├── wechat-public-account-articles.md
 ├── wechat-articles/
@@ -73,6 +82,17 @@ Promotion threshold:
 
 Do not create a topic node for every interesting term.
 
+### Source document intake
+
+Use `areas/knowledge/source-documents/` when original files themselves should be preserved inside the wiki.
+
+Rules:
+- copy the original files into the wiki; do not leave the wiki dependent on external filesystem links
+- keep source documents attached to related topic notes through `Original Files In Wiki` sections
+- use `areas/knowledge/source-notes/` for tagged sidecar notes when the original file cannot carry Obsidian frontmatter, especially PDFs
+- do not treat a source-document folder as a finished knowledge note by itself
+- promote concepts into `topics/` only when they become reusable graph nodes
+
 ### 4. Map curation
 
 Use `areas/knowledge/maps/` for curated entry points over topic clusters.
@@ -86,6 +106,7 @@ A map should connect durable topic nodes and a small set of anchor notes. It sho
 - per-article fallback notes or extracted notes
 - topic-level knowledge collections that are part of continuous knowledge curation
 - curated historical research imports that are dense enough to remain useful after migration
+- copied original source documents that should live inside the wiki rather than remain external links
 - durable topic nodes in `topics/`
 - curated topic maps in `maps/`
 

@@ -1,3 +1,13 @@
+---
+title: "现代 AI Agent Core 设计哲学深度研究：以 OpenClaw 与 Nanobot 为中心的 Python-first 视角"
+tags:
+  - area/knowledge
+  - collection/anthonydb-research
+  - source/anthonydb
+  - topic/agent-systems
+  - type/original
+  - wiki/af
+---
 # 现代 AI Agent Core 设计哲学深度研究：以 OpenClaw 与 Nanobot 为中心的 Python-first 视角
 
 ## Meta

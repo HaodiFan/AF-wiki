@@ -1,3 +1,11 @@
+---
+title: "2026-03-15-embedding-bge-vs-gte"
+tags:
+  - area/knowledge
+  - source/wechat
+  - type/article-note
+  - wiki/af
+---
 # 阿里面试官怒了：Embedding 模型都不会选，BGE 和 GTE 的区别都说不清，你这 RAG 系统能用？
 
 - 日期：2026-03-15

@@ -1,3 +1,10 @@
+---
+title: "index"
+tags:
+  - area/inbox
+  - type/index
+  - wiki/af
+---
 # Inbox Index
 
 > Purpose: provide a low-friction capture layer before items are sorted into areas, projects, or shared resources.

@@ -1,3 +1,10 @@
+---
+title: "01-goals"
+tags:
+  - area/archive
+  - topic/fitness
+  - wiki/af
+---
 # AF Fitness Goals
 
 ## Primary goal

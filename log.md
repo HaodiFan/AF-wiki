@@ -1,3 +1,8 @@
+---
+title: "log"
+tags:
+  - wiki/af
+---
 # AF Wiki Log
 
 ## [2026-04-24] schema | Evo-memory baseline promoted to root navigation

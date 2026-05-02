@@ -5,6 +5,13 @@ aliases:
 languages:
   - en
   - zh
+tags:
+  - area/knowledge
+  - collection/anthonydb-research
+  - source/anthonydb
+  - type/index
+  - type/original
+  - wiki/af
 ---
 # Historical Originals Archive / 历史原文归档
 

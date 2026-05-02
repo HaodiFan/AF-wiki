@@ -1,3 +1,12 @@
+---
+title: "AI时代组织形态演化与全球供给结构重塑研究报告"
+tags:
+  - area/knowledge
+  - collection/anthonydb-research
+  - source/anthonydb
+  - type/original
+  - wiki/af
+---
 # AI时代组织形态演化与全球供给结构重塑研究报告
 
 ## Meta

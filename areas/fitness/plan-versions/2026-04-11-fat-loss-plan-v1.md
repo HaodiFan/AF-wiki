@@ -1,3 +1,10 @@
+---
+title: "2026-04-11-fat-loss-plan-v1"
+tags:
+  - area/fitness
+  - topic/fitness
+  - wiki/af
+---
 # AF Fitness Plan Version
 
 - Version label: 2026-04-11 fat-loss plan v1

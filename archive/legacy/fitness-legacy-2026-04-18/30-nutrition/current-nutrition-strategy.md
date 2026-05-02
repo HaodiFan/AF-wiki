@@ -1,3 +1,10 @@
+---
+title: "current-nutrition-strategy"
+tags:
+  - area/archive
+  - topic/fitness
+  - wiki/af
+---
 # Nutrition Strategy
 
 ## Current active targets

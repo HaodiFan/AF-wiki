@@ -1,3 +1,10 @@
+---
+title: "meal-templates"
+tags:
+  - area/fitness
+  - topic/fitness
+  - wiki/af
+---
      1|# Meal Templates
      2|
      3|## Training day dinner template

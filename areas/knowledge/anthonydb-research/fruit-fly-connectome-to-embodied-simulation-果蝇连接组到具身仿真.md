@@ -7,6 +7,11 @@ aliases:
 languages:
   - en
   - zh
+tags:
+  - area/knowledge
+  - collection/anthonydb-research
+  - type/research-note
+  - wiki/af
 ---
 # Fruit-Fly Connectome to Embodied Simulation / 果蝇连接组到具身仿真
 

@@ -1,3 +1,12 @@
+---
+title: "果蝇大脑上传：Connectome 到 Embodied Simulation"
+tags:
+  - area/knowledge
+  - collection/anthonydb-research
+  - source/anthonydb
+  - type/original
+  - wiki/af
+---
 # 果蝇大脑上传：Connectome 到 Embodied Simulation
 
 ## Meta

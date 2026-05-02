@@ -1,3 +1,9 @@
+---
+title: "2026-04-24-feat-architecture-evolution-plan"
+tags:
+  - area/docs
+  - wiki/af
+---
 # AF-wiki Architecture Evolution Plan
 
 > Purpose: capture the next-stage architecture evolution for AF-wiki by absorbing the most useful ideas from GBrain **without** replacing AF-wiki's current LeadFlow / area-first markdown architecture.

@@ -1,3 +1,11 @@
+---
+title: "DB-ARCHITECTURE"
+tags:
+  - area/fitness
+  - topic/data-management
+  - topic/fitness
+  - wiki/af
+---
 # AF Fitness Database Architecture
 
 > Purpose: add a normalized SQLite-backed storage layer for canonical fitness records, while keeping Markdown as the human intake and review surface.
