@@ -7,6 +7,13 @@ aliases:
 languages:
   - en
   - zh
+tags:
+  - area/knowledge
+  - collection/anthonydb-research
+  - topic/agent-memory
+  - topic/agent-systems
+  - type/research-note
+  - wiki/af
 ---
 # Agent Memory Infrastructure Survey (2024-2026) / 智能体记忆基础设施综述（2024-2026）
 

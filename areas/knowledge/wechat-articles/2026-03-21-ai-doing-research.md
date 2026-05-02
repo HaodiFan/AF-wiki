@@ -1,3 +1,11 @@
+---
+title: "2026-03-21-ai-doing-research"
+tags:
+  - area/knowledge
+  - source/wechat
+  - type/article-note
+  - wiki/af
+---
 # 专访OpenAI首席科学家：我们离“AI自己做研究”有多远？
 
 - 日期：2026-03-21

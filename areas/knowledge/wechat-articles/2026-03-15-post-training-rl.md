@@ -1,3 +1,11 @@
+---
+title: "2026-03-15-post-training-rl"
+tags:
+  - area/knowledge
+  - source/wechat
+  - type/article-note
+  - wiki/af
+---
 # 后训练中的RL已死？MIT新算法挑战传统后训练思维，谢赛宁转发
 
 > Status: legacy migrated note

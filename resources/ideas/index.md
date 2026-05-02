@@ -1,3 +1,10 @@
+---
+title: "index"
+tags:
+  - area/resources
+  - type/index
+  - wiki/af
+---
 # Ideas Index
 
 > Purpose: future home for idea incubation that is not yet owned by a specific area or project.

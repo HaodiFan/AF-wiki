@@ -1,3 +1,11 @@
+---
+title: "2026-03-09-self-healing-python-crawler"
+tags:
+  - area/knowledge
+  - source/wechat
+  - type/article-note
+  - wiki/af
+---
 # GitHub 狂飙 2.5 万标星，这款「会自愈」的 Python 爬虫框架杀疯了！
 
 > Status: legacy migrated note

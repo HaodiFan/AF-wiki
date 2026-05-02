@@ -1,4 +1,31 @@
+---
+title: "99-change-log"
+tags:
+  - area/knowledge
+  - type/log
+  - wiki/af
+---
 # Knowledge Area Change Log
+
+## [2026-04-26] ingest | Ontology research recorded
+- Added the full-text `Ontology在现代AI系统中的演化与应用` research note under `resources/research/`
+- Promoted `Ontology / 本体` as a durable knowledge topic
+- Linked ontology into the Agent Systems map and related runtime, tool-use, and data-management topics
+
+## [2026-04-26] graph | Obsidian tags and source-note graph support
+- Added frontmatter tags across knowledge Markdown notes
+- Created 103 tagged sidecar notes under `areas/knowledge/source-notes/baidu-sync/`
+- Enabled Obsidian graph display for tags, attachments, and orphan nodes
+
+## [2026-04-26] archive | BaiduSync source documents moved into knowledge area
+- Copied 103 source documents from `/Users/anthonyf/Desktop/BaiduSync` into `areas/knowledge/source-documents/baidu-sync/`
+- Preserved source folder layout inside the wiki
+- Replaced the central corpus-index archive with topic-level integration in the knowledge area
+
+## [2026-04-26] ingest | Harness Engineering research notes recorded
+- Added two full-text research notes under `resources/research/`
+- Promoted `Agent Harness Engineering` and `Wire Harness Engineering` as knowledge topics
+- Linked the agent-harness note into the Agent Systems map and Agent Runtime topic
 
 ## [2026-04-25] graph | Knowledge Graph v1 topic/map layer
 - Added `topics/` and `maps/` as the durable knowledge graph layer

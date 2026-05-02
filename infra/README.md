@@ -1,3 +1,8 @@
+---
+title: "README"
+tags:
+  - wiki/af
+---
 # AF-wiki Infra
 
 Derived runtime / sidecar layer for indexing, maintenance, and briefing.

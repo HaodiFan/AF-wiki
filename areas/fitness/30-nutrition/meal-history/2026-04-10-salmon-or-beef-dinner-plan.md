@@ -1,3 +1,10 @@
+---
+title: "2026-04-10-salmon-or-beef-dinner-plan"
+tags:
+  - area/fitness
+  - topic/fitness
+  - wiki/af
+---
      1|# Meal History Entry
      2|
      3|- Date: 2026-04-10

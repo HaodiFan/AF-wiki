@@ -1,3 +1,10 @@
+---
+title: "index"
+tags:
+  - area/work
+  - type/index
+  - wiki/af
+---
 # Work Area Index
 
 > Canonical navigation for the work area scaffold.

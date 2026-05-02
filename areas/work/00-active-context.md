@@ -1,3 +1,9 @@
+---
+title: "00-active-context"
+tags:
+  - area/work
+  - wiki/af
+---
 # Work Active Context
 
 > Purpose: hold the current high-level work context once AF starts using this area for ongoing work tracking.

@@ -1,3 +1,11 @@
+---
+title: "index"
+tags:
+  - area/fitness
+  - topic/fitness
+  - type/index
+  - wiki/af
+---
 # Fitness Area Index
 
 > AF fitness area navigation and operating entrypoint

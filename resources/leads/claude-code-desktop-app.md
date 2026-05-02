@@ -1,3 +1,10 @@
+---
+title: "claude-code-desktop-app"
+tags:
+  - area/resources
+  - type/lead
+  - wiki/af
+---
 # Claude Code Desktop App Lead
 
 > Purpose: quickly capture a potentially interesting thing before deep research.

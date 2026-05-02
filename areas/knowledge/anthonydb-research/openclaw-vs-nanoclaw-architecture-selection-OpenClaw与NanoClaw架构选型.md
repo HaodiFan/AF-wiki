@@ -7,6 +7,12 @@ aliases:
 languages:
   - en
   - zh
+tags:
+  - area/knowledge
+  - collection/anthonydb-research
+  - topic/agent-systems
+  - type/research-note
+  - wiki/af
 ---
 # OpenClaw vs NanoClaw Architecture Selection / OpenClaw 与 NanoClaw 架构选型
 

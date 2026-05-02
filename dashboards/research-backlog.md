@@ -1,3 +1,10 @@
+---
+title: "research-backlog"
+tags:
+  - area/dashboards
+  - type/dashboard
+  - wiki/af
+---
 # Research Backlog
 
 > Purpose: track captured leads that may deserve deeper research later.

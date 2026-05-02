@@ -1,3 +1,9 @@
+---
+title: "index"
+tags:
+  - type/index
+  - wiki/af
+---
 # Wiki Index
 
 > Legacy bootstrap scaffold.

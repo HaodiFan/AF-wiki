@@ -1,3 +1,11 @@
+---
+title: "99-change-log"
+tags:
+  - area/fitness
+  - topic/fitness
+  - type/log
+  - wiki/af
+---
 # AF Fitness Change Log
 
 - 2026-04-24: Upgraded active plan memory to the new evo / architecture-evolution direction, making the sidecar index + doctor + selective structure roadmap the main current-plan lens for wiki memory upgrades.

@@ -1,3 +1,10 @@
+---
+title: "2026-04-21-wechat-article-1acBcAZx9rL_efZqB1Oe-Q"
+tags:
+  - area/resources
+  - type/lead
+  - wiki/af
+---
 # WeChat article lead — 1acBcAZx9rL_efZqB1Oe-Q
 
 > Captured as lightweight URL-only lead from a WeChat public-account article.

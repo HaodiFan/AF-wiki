@@ -1,3 +1,11 @@
+---
+title: "2026-04-20-firecrawl-open-source-web-agent"
+tags:
+  - area/resources
+  - topic/agent-systems
+  - type/lead
+  - wiki/af
+---
 # Firecrawl 开源 web-agent 框架
 
 ## Basic Info

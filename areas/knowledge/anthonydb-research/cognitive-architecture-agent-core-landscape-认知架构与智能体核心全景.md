@@ -7,6 +7,12 @@ aliases:
 languages:
   - en
   - zh
+tags:
+  - area/knowledge
+  - collection/anthonydb-research
+  - topic/agent-systems
+  - type/research-note
+  - wiki/af
 ---
 # Cognitive Architecture Agent-Core Landscape / 认知架构与智能体核心全景
 

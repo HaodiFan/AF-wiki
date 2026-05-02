@@ -1,3 +1,10 @@
+---
+title: "historical-strength-reference"
+tags:
+  - area/fitness
+  - topic/fitness
+  - wiki/af
+---
 # Historical Strength Reference
 
 > Purpose: preserve AF's historical strength records as a dedicated personal-best / prior-performance reference.

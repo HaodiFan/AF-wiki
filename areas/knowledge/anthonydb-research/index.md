@@ -6,6 +6,12 @@ aliases:
 languages:
   - en
   - zh
+tags:
+  - area/knowledge
+  - collection/anthonydb-research
+  - type/index
+  - type/research-note
+  - wiki/af
 ---
 # Historical Research Archive / 历史研究归档
 

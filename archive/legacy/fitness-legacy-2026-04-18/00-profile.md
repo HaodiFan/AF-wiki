@@ -1,3 +1,10 @@
+---
+title: "00-profile"
+tags:
+  - area/archive
+  - topic/fitness
+  - wiki/af
+---
 # AF Fitness Profile
 
 - Owner: AF

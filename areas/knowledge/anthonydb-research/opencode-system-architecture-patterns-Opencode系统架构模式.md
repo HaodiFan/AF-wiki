@@ -7,6 +7,12 @@ aliases:
 languages:
   - en
   - zh
+tags:
+  - area/knowledge
+  - collection/anthonydb-research
+  - topic/agent-systems
+  - type/research-note
+  - wiki/af
 ---
 # Opencode System Architecture Patterns / Opencode 系统架构模式
 

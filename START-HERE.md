@@ -1,3 +1,8 @@
+---
+title: "START-HERE"
+tags:
+  - wiki/af
+---
 # Start Here
 
 > 这是一页给第一次进入 `AF-wiki` 的导览。

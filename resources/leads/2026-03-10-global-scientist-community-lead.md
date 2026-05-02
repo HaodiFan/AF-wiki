@@ -1,3 +1,10 @@
+---
+title: "2026-03-10-global-scientist-community-lead"
+tags:
+  - area/resources
+  - type/lead
+  - wiki/af
+---
 # AI发布首个全球科学家社区爆火，硅谷投资圈：科技研究领域的「谷歌地图」来了！
 
 - Captured on: 2026-03-10

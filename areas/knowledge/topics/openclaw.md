@@ -6,6 +6,12 @@ status: active
 aliases:
   - OpenClaw
   - KP - OpenClaw
+tags:
+  - area/knowledge
+  - topic/agent-systems
+  - topic/openclaw
+  - type/topic
+  - wiki/af
 ---
 # OpenClaw
 

@@ -1,3 +1,11 @@
+---
+title: "SCHEMA"
+tags:
+  - area/fitness
+  - topic/fitness
+  - type/schema
+  - wiki/af
+---
 # Fitness Memory Schema
 
 > Purpose: preserve enough history to help adjust training plans, recommend next actions, and track progress over time without turning the record into noise.

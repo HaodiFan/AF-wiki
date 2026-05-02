@@ -1,3 +1,10 @@
+---
+title: "SCHEMA"
+tags:
+  - area/work
+  - type/schema
+  - wiki/af
+---
 # Work Area Schema
 
 > Purpose: provide a stable home for ongoing work context, work-facing operating assumptions, and future work area expansion.

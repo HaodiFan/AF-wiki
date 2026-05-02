@@ -1,3 +1,10 @@
+---
+title: "03-decision-rules"
+tags:
+  - area/fitness
+  - topic/fitness
+  - wiki/af
+---
 # AF Fitness Decision Rules
 
 ## Planning rules

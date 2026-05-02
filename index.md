@@ -1,7 +1,13 @@
+---
+title: "index"
+tags:
+  - type/index
+  - wiki/af
+---
 # AF Wiki Index
 
 > Canonical navigation for the current repo state
-> Last updated: 2026-04-24
+> Last updated: 2026-04-26
 
 ## First read
 - [[START-HERE]] — 先理解当前真的在用什么，以及哪些只是目标设计
@@ -34,6 +40,7 @@
 - `areas/knowledge/` — ongoing technical reading 与 retained knowledge area
 - [[areas/knowledge/index]] — knowledge area 导航
 - [[areas/knowledge/SCHEMA]] — knowledge area 内部结构与归档规则
+- `areas/knowledge/source-documents/baidu-sync/` — BaiduSync 原始文档已复制进 wiki
 - [[areas/knowledge/anthonydb-research/index]] — AnthonyDB 历史研究归档
 - [[areas/knowledge/wechat-public-account-articles]] — 微信文章入口页
 - [[areas/knowledge/wechat-articles/2026-03-24-flutter-https-capture]] — 示例文章扩展笔记
@@ -47,7 +54,7 @@
 ## Shared lead / research pipeline
 - [[resources/index]] — 共享 lead / research / ideas 层说明
 - `resources/leads/` — weak-signal capture 的共享入口
-- [[resources/research/index]] — deep research scaffold
+- [[resources/research/index]] — deep research notes and source records
 - [[resources/ideas/index]] — ideas scaffold
 - [[dashboards/research-backlog]] — 当前 backlog 状态
 - [[resources/leads/claude-code-desktop-app]] — 一个待深挖 lead
