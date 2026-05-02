@@ -1,0 +1,25 @@
+---
+title: "MODELS THESHORTCOMINGS OF REINFORCEMENT.pdf"
+type: source-note
+area: knowledge
+status: archived
+source: baidu-sync
+source_file: "areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/LLMs/2025/MODELS THESHORTCOMINGS OF REINFORCEMENT.pdf"
+tags:
+  - area/knowledge
+  - doc/pdf
+  - source/baidu-sync
+  - topic/llm
+  - type/source-note
+  - wiki/af
+  - year/2025
+---
+# MODELS THESHORTCOMINGS OF REINFORCEMENT.pdf
+
+## Original File
+
+- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/LLMs/2025/MODELS THESHORTCOMINGS OF REINFORCEMENT.pdf|MODELS THESHORTCOMINGS OF REINFORCEMENT.pdf]]
+
+## Related Topics
+
+- [[areas/knowledge/topics/large-language-models|Large Language Models]]
