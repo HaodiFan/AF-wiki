@@ -1,5 +1,20 @@
 # AF Wiki Log
 
+## [2026-05-01] research | Promoted AHE-derived takeaways into deep research note
+- Added `resources/research/2026-05-01-ahe-paper-to-agent-systems-takeaways.md`
+- Reframed the work so the AHE paper remains the trigger example, while the main retained value becomes a broader set of agent-system key points plus supporting research content
+- Updated `dashboards/research-backlog.md` so the new research note appears under `researching`
+
+## [2026-05-01] update | Expanded AHE paper lead with learned takeaways
+- Enriched `resources/leads/2026-05-01-agentic-harness-engineering-paper.md` with structured learning notes derived from the paper
+- Recorded the user's distilled takeaways around harness > prompt, agent debugger, observability, evolution loop, tool schema, and the model / harness / evolution three-layer view
+- Linked the lead more explicitly to `areas/knowledge/topics/agent-runtime` and `areas/knowledge/maps/agent-systems-map`
+
+## [2026-05-01] lead | Agentic Harness Engineering paper captured
+- Added `resources/leads/2026-05-01-agentic-harness-engineering-paper.md` for arXiv 2604.25850
+- Recorded current verdict that the paper is best treated as a lead / agenda-setting style paper
+- Linked the new lead from `dashboards/research-backlog.md`
+
 ## [2026-04-24] schema | Evo-memory baseline promoted to root navigation
 - Updated `SCHEMA.md` to reflect the active 2026-04-24 evo-memory baseline for future wiki upgrades
 - Kept markdown as canonical while making sidecar index / doctor / selective structure the default evolution direction
@@ -76,42 +91,4 @@
 - Named AF's `PARA + Lead` variant as `LeadFlow`
 - Updated `/home/AF-wiki/SCHEMA.md`, `/home/AF-wiki/README.md`, `dashboards/recent.json`, and profile-feed wording to use `LeadFlow` instead of generic `PARA`
 - Clarified that dashboards, templates, archive, and agent refresh are first-class parts of the system rather than add-ons
----
-
-## [2026-04-19] workflow | Lead -> research pipeline added
-- Added `resources/leads/` as the canonical location for quick-capture research leads
-- Added `resources/research/` as the canonical location for deep-dive notes linked to original leads
-- Added `dashboards/research-backlog.md` to track the lead -> research workflow
-- Added `templates/lead-note-template.md` and `templates/deep-research-template.md`
-- Updated `index.md` to expose the lead/research workflow in master navigation
----
-
-## [2026-04-18] update | Homepage and wiki index reframed around recent-status display
-- Reworked the GitHub profile README to show recent updates by area instead of mainly describing repository usage
-- Reworked `/home/AF-wiki/README.md` to lead with `日历与近况` instead of a repo-introduction-heavy structure
-- Updated `/home/AF-wiki/index.md` so recent dated updates appear as a first-class entry section
-- Established the rule that calendar/recent-updates content is one homepage section, not a separate homepage concept
----
-
-## [2026-04-18] create | Second-brain schema established
-- Reframed the wiki from a fitness-only structure to a general second-brain architecture
-- Chose top-level structure: inbox, areas, projects, resources, archive, dashboards, templates
-- Assigned fitness to `areas/fitness/`
----
-
-## [2026-04-18] archive | Legacy fitness folder archived
-- Moved old `/home/AF-wiki/fitness/` to `/home/AF-wiki/archive/legacy/fitness-legacy-2026-04-18`
-- Active fitness workspace remains at `/home/AF-wiki/areas/fitness/`
----
-
-## [2026-04-18] ingest | 微信公众号文章记录
-- Added `resources/knowledge/wechat-public-account-articles.md`
-- Filed 7 article links from Anthony.F's March 2026 微信聊天记录 into the knowledge system
-- Updated `index.md` to expose the new resource entry
----
-
-## [2026-04-18] ingest | 微信公众号正文抓取
-- Created `resources/knowledge/wechat-articles/` with per-article notes
-- Attempted extraction for 7 微信公众号 links and stored available正文 excerpts
-- Updated `resources/knowledge/wechat-public-account-articles.md` with article-note links
 ---

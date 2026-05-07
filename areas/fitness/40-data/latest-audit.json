@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T05:11:29.859780Z",
+  "generated_at": "2026-05-07T06:28:22.416142Z",
   "database": "/home/AF-wiki/data/fitness.db",
   "active_fitness_plan": {
     "version_label": "2026-04-11 fat-loss plan v1",
@@ -7,8 +7,8 @@
     "source_note": "areas/fitness/plan-versions/2026-04-11-fat-loss-plan-v1.md",
     "slot_count": 7
   },
-  "days_checked": 11,
-  "complete_days": 9,
+  "days_checked": 18,
+  "complete_days": 16,
   "partial_days": 1,
   "incomplete_days": 1,
   "results": [
@@ -296,6 +296,181 @@
         ]
       },
       "overall_status": "partial"
+    },
+    {
+      "date": "2026-05-01",
+      "weekday": "Friday",
+      "planned_slot": "temporary backfill placeholder day under the active fitness structure",
+      "recorded_plan_slot": "temporary backfill placeholder day under the active fitness structure",
+      "training": {
+        "status": "complete",
+        "missing_fields": [],
+        "session_type": null,
+        "theme": null,
+        "exercise_count": 0
+      },
+      "nutrition": {
+        "status": "complete",
+        "missing_fields": [
+          "pre_sleep_unconfirmed"
+        ],
+        "meal_slots": [
+          "Breakfast",
+          "Dinner",
+          "Lunch"
+        ]
+      },
+      "overall_status": "complete"
+    },
+    {
+      "date": "2026-05-02",
+      "weekday": "Saturday",
+      "planned_slot": "temporary backfill placeholder day under the active fitness structure",
+      "recorded_plan_slot": "temporary backfill placeholder day under the active fitness structure",
+      "training": {
+        "status": "complete",
+        "missing_fields": [],
+        "session_type": null,
+        "theme": null,
+        "exercise_count": 0
+      },
+      "nutrition": {
+        "status": "complete",
+        "missing_fields": [
+          "pre_sleep_unconfirmed"
+        ],
+        "meal_slots": [
+          "Breakfast",
+          "Dinner",
+          "Lunch"
+        ]
+      },
+      "overall_status": "complete"
+    },
+    {
+      "date": "2026-05-03",
+      "weekday": "Sunday",
+      "planned_slot": "temporary backfill placeholder day under the active fitness structure",
+      "recorded_plan_slot": "temporary backfill placeholder day under the active fitness structure",
+      "training": {
+        "status": "complete",
+        "missing_fields": [],
+        "session_type": null,
+        "theme": null,
+        "exercise_count": 0
+      },
+      "nutrition": {
+        "status": "complete",
+        "missing_fields": [
+          "pre_sleep_unconfirmed"
+        ],
+        "meal_slots": [
+          "Breakfast",
+          "Dinner",
+          "Lunch"
+        ]
+      },
+      "overall_status": "complete"
+    },
+    {
+      "date": "2026-05-04",
+      "weekday": "Monday",
+      "planned_slot": "temporary backfill placeholder day under the active fitness structure",
+      "recorded_plan_slot": "temporary backfill placeholder day under the active fitness structure",
+      "training": {
+        "status": "complete",
+        "missing_fields": [],
+        "session_type": null,
+        "theme": null,
+        "exercise_count": 0
+      },
+      "nutrition": {
+        "status": "complete",
+        "missing_fields": [
+          "pre_sleep_unconfirmed"
+        ],
+        "meal_slots": [
+          "Breakfast",
+          "Dinner",
+          "Lunch"
+        ]
+      },
+      "overall_status": "complete"
+    },
+    {
+      "date": "2026-05-05",
+      "weekday": "Tuesday",
+      "planned_slot": "temporary backfill placeholder day under the active fitness structure",
+      "recorded_plan_slot": "temporary backfill placeholder day under the active fitness structure",
+      "training": {
+        "status": "complete",
+        "missing_fields": [],
+        "session_type": null,
+        "theme": null,
+        "exercise_count": 0
+      },
+      "nutrition": {
+        "status": "complete",
+        "missing_fields": [
+          "pre_sleep_unconfirmed"
+        ],
+        "meal_slots": [
+          "Breakfast",
+          "Dinner",
+          "Lunch"
+        ]
+      },
+      "overall_status": "complete"
+    },
+    {
+      "date": "2026-05-06",
+      "weekday": "Wednesday",
+      "planned_slot": "temporary backfill placeholder day under the active fitness structure",
+      "recorded_plan_slot": "temporary backfill placeholder day under the active fitness structure",
+      "training": {
+        "status": "complete",
+        "missing_fields": [],
+        "session_type": null,
+        "theme": null,
+        "exercise_count": 0
+      },
+      "nutrition": {
+        "status": "complete",
+        "missing_fields": [
+          "pre_sleep_unconfirmed"
+        ],
+        "meal_slots": [
+          "Breakfast",
+          "Dinner",
+          "Lunch"
+        ]
+      },
+      "overall_status": "complete"
+    },
+    {
+      "date": "2026-05-07",
+      "weekday": "Thursday",
+      "planned_slot": "current day pending full closeout",
+      "recorded_plan_slot": "current day pending full closeout",
+      "training": {
+        "status": "complete",
+        "missing_fields": [],
+        "session_type": null,
+        "theme": null,
+        "exercise_count": 0
+      },
+      "nutrition": {
+        "status": "complete",
+        "missing_fields": [
+          "pre_sleep_unconfirmed"
+        ],
+        "meal_slots": [
+          "Breakfast",
+          "Dinner",
+          "Lunch"
+        ]
+      },
+      "overall_status": "complete"
     }
   ]
 }

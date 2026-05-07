@@ -1,7 +1,7 @@
 # Research Backlog
 
 > Purpose: track captured leads that may deserve deeper research later.
-> Last updated: 2026-04-26
+> Last updated: 2026-05-02
 
 ## Workflow
 1. Capture a lead in `resources/leads/` using the lead template.
@@ -20,6 +20,8 @@
 ## Status index
 
 ### todo
+- [[resources/leads/2026-05-02-organization-self-operating-research]] — 研究如何让组织更自动地运作起来：机制、接口、反馈回路、AI/automation 接入点
+- [[resources/leads/2026-05-01-agentic-harness-engineering-paper]] — arXiv 2604.25850，当前判断是 lead / agenda-setting style paper；已触发一页更通用的 agent-systems 研究总结
 - [[resources/leads/2026-04-26-harness-engineering]] — 记录 harness engineering 线索，待后续补充具体语境与资料
 - [[resources/leads/2026-04-21-wechat-article-1acBcAZx9rL_efZqB1Oe-Q]] — 微信公众号文章链接捕获（URL-only lead），默认不做正文提取，除非后续明确要求
 - [[resources/leads/2026-04-20-firecrawl-open-source-web-agent]] — Firecrawl 重磅开源 web-agent 框架，待补官方仓库/发布链接并评估是否值得深挖
@@ -30,6 +32,7 @@
 - [[resources/leads/2026-03-15-post-training-rl-lead]] — 从旧 fallback note 回迁的 lead：MIT 新算法与 post-training RL 范式争论
 
 ### researching
+- [[resources/research/2026-05-01-ahe-paper-to-agent-systems-takeaways]] — 由 AHE 论文这个例子引申出的通用 agent-system key points 与研究内容总结
 - [[resources/research/2026-04-26-deep-research-doc]] — 用户要求单独记录的 deep research doc，占位等待后续补具体主题
 
 ### done
