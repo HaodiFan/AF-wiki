@@ -338,8 +338,16 @@ def refresh_profile_recent_updates(
             f"- {re.sub(r'<.*?>', '', evaluation[1])}"
         )
     replacement = '\n\n'.join(sections)
-    pattern = re.compile(r'(## Recent updates by area\n\n)(.*?)(\n\n## Featured repo)', re.S)
-    updated, count = pattern.subn(rf'\1{replacement}\3', text, count=1)
+    patterns = [
+        re.compile(r'(## Recent updates by area\n\n)(.*?)(\n\n## Featured repo)', re.S),
+        re.compile(r'(## Recent updates by area\n\n)(.*?)(\n+=======.*?<!-- WIKI-FEED:START -->)', re.S),
+    ]
+    updated = text
+    count = 0
+    for pattern in patterns:
+        updated, count = pattern.subn(rf'\1{replacement}\3', text, count=1)
+        if count == 1:
+            break
     if count != 1:
         raise ValueError('Profile README recent-updates section not found or ambiguous')
     profile_readme_path.write_text(updated, encoding='utf-8')

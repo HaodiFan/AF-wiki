@@ -43,68 +43,100 @@ tags:
   </thead>
   <tbody>
     <tr>
-      <td rowspan="3"><strong>04-28</strong></td>
-      <td>💪 训练</td>
-      <td>back + biceps focused machine session with core finisher力量训练完成。</td>
-      <td><a href="areas/fitness/10-checkins/2026-04.md">check-in</a></td>
+      <td rowspan="3"><strong>05-06</strong></td>
+      <td>🛌 恢复</td>
+      <td>当天为意图性休息日，不算漏记。</td>
+      <td><a href="areas/fitness/10-checkins/2026-05.md">check-in</a></td>
     </tr>
     <tr>
       <td>🍽️ 营养</td>
-      <td>早餐 3 个鸡蛋、午餐vegetarian set meal with 1 bowl of rice + scrambled egg + zucchini + wood ear mushroom + and other mixed vegetables、晚餐partially confirmed via the post-workout 70 g beef portion; any additional dinner foods remain unconfirmed、训练前 牛肉 180 g、训练后 remaining beef 70 g。</td>
-      <td><a href="areas/fitness/10-checkins/2026-04.md">check-in</a></td>
+      <td>早餐 normal diet assumed; exact items not yet confirmed、午餐normal diet assumed; exact items not yet confirmed、晚餐normal diet assumed; exact items not yet confirmed。</td>
+      <td><a href="areas/fitness/10-checkins/2026-05.md">check-in</a></td>
     </tr>
     <tr>
       <td>📝 评估</td>
-      <td>this is clearly a completed training day rather than a blank day, and recovery protein is now materially covered, but the dinner structure is still only partially closed unless later foods are added。</td>
-      <td><a href="areas/fitness/10-checkins/2026-04.md">check-in</a></td>
+      <td>当天记录已更新。</td>
+      <td><a href="areas/fitness/10-checkins/2026-05.md">check-in</a></td>
     </tr>
     <tr>
-      <td rowspan="3"><strong>04-27</strong></td>
-      <td>💪 训练</td>
-      <td>胸 + 三头 + 核心力量训练完成，<code>50:37</code>，<code>319 kcal</code>，平均心率 <code>111 bpm</code>。</td>
-      <td><a href="areas/fitness/10-checkins/2026-04.md">check-in</a></td>
+      <td rowspan="3"><strong>05-05</strong></td>
+      <td>🛌 恢复</td>
+      <td>当天为意图性休息日，不算漏记。</td>
+      <td><a href="areas/fitness/10-checkins/2026-05.md">check-in</a></td>
     </tr>
     <tr>
       <td>🍽️ 营养</td>
-      <td>早餐 3 个鸡蛋 + 1 个猕猴桃、午餐牛肉 200 g + 玉米 1 根 + 1 bottle of 气泡水、晚餐仍待确认、训练前后各 1 根香蕉。</td>
-      <td><a href="areas/fitness/10-checkins/2026-04.md">check-in</a></td>
+      <td>早餐 normal diet assumed; exact items not yet confirmed、午餐normal diet assumed; exact items not yet confirmed、晚餐normal diet assumed; exact items not yet confirmed。</td>
+      <td><a href="areas/fitness/10-checkins/2026-05.md">check-in</a></td>
     </tr>
     <tr>
       <td>📝 评估</td>
-      <td>training closure is clear, but recovery closure still depends on dinner or later protein intake。</td>
-      <td><a href="areas/fitness/10-checkins/2026-04.md">check-in</a></td>
+      <td>当天记录已更新。</td>
+      <td><a href="areas/fitness/10-checkins/2026-05.md">check-in</a></td>
     </tr>
     <tr>
-      <td rowspan="3"><strong>04-26</strong></td>
-      <td>🏊 训练</td>
-      <td>游泳完成，<code>38:59</code>，<code>500 m</code>，<code>218 kcal</code>，平均心率 <code>132 bpm</code>。</td>
-      <td><a href="areas/fitness/10-checkins/2026-04.md">check-in</a></td>
+      <td rowspan="3"><strong>05-04</strong></td>
+      <td>🛌 恢复</td>
+      <td>当天为意图性休息日，不算漏记。</td>
+      <td><a href="areas/fitness/10-checkins/2026-05.md">check-in</a></td>
     </tr>
     <tr>
       <td>🍽️ 营养</td>
-      <td>早餐 1 pack of 轻食饼干 + 玉米 1 根、午餐牛肉 180 g + 地瓜干 300 g、晚餐鳕鱼汉堡 + 玉米 1 根。</td>
-      <td><a href="areas/fitness/10-checkins/2026-04.md">check-in</a></td>
+      <td>早餐 normal diet assumed; exact items not yet confirmed、午餐normal diet assumed; exact items not yet confirmed、晚餐normal diet assumed; exact items not yet confirmed。</td>
+      <td><a href="areas/fitness/10-checkins/2026-05.md">check-in</a></td>
     </tr>
     <tr>
       <td>📝 评估</td>
-      <td>this day is not blank; training and all three meal slots are grounded, but the intake still looks somewhat carb-heavy and not maximally protein-efficient。</td>
-      <td><a href="areas/fitness/10-checkins/2026-04.md">check-in</a></td>
+      <td>当天记录已更新。</td>
+      <td><a href="areas/fitness/10-checkins/2026-05.md">check-in</a></td>
     </tr>
     <tr>
-      <td rowspan="3"><strong>04-25</strong></td>
-      <td>💪 训练</td>
-      <td>肩 + 手臂 + 核心力量训练完成，<code>42:36</code>，<code>361 kcal</code>，平均心率 <code>126 bpm</code>。</td>
-      <td><a href="areas/fitness/10-checkins/2026-04.md">check-in</a></td>
+      <td rowspan="3"><strong>05-03</strong></td>
+      <td>🛌 恢复</td>
+      <td>当天为意图性休息日，不算漏记。</td>
+      <td><a href="areas/fitness/10-checkins/2026-05.md">check-in</a></td>
     </tr>
     <tr>
       <td>🍽️ 营养</td>
-      <td>早餐 轻食饼干 + 1 根士力架、午餐原味卤牛肉 250 g、晚餐仍待确认。</td>
-      <td><a href="areas/fitness/10-checkins/2026-04.md">check-in</a></td>
+      <td>早餐 normal diet assumed; exact items not yet confirmed、午餐normal diet assumed; exact items not yet confirmed、晚餐normal diet assumed; exact items not yet confirmed。</td>
+      <td><a href="areas/fitness/10-checkins/2026-05.md">check-in</a></td>
     </tr>
     <tr>
       <td>📝 评估</td>
-      <td>this day is not blank; training is complete and grounded, but the nutrition side is still front-light with dinner evidence missing。</td>
-      <td><a href="areas/fitness/10-checkins/2026-04.md">check-in</a></td>
+      <td>当天记录已更新。</td>
+      <td><a href="areas/fitness/10-checkins/2026-05.md">check-in</a></td>
+    </tr>
+    <tr>
+      <td rowspan="3"><strong>05-02</strong></td>
+      <td>🛌 恢复</td>
+      <td>当天为意图性休息日，不算漏记。</td>
+      <td><a href="areas/fitness/10-checkins/2026-05.md">check-in</a></td>
+    </tr>
+    <tr>
+      <td>🍽️ 营养</td>
+      <td>早餐 normal diet assumed; exact items not yet confirmed、午餐normal diet assumed; exact items not yet confirmed、晚餐normal diet assumed; exact items not yet confirmed。</td>
+      <td><a href="areas/fitness/10-checkins/2026-05.md">check-in</a></td>
+    </tr>
+    <tr>
+      <td>📝 评估</td>
+      <td>当天记录已更新。</td>
+      <td><a href="areas/fitness/10-checkins/2026-05.md">check-in</a></td>
+    </tr>
+    <tr>
+      <td rowspan="3"><strong>05-01</strong></td>
+      <td>🛌 恢复</td>
+      <td>当天为意图性休息日，不算漏记。</td>
+      <td><a href="areas/fitness/10-checkins/2026-05.md">check-in</a></td>
+    </tr>
+    <tr>
+      <td>🍽️ 营养</td>
+      <td>早餐 normal diet assumed; exact items not yet confirmed、午餐normal diet assumed; exact items not yet confirmed、晚餐normal diet assumed; exact items not yet confirmed。</td>
+      <td><a href="areas/fitness/10-checkins/2026-05.md">check-in</a></td>
+    </tr>
+    <tr>
+      <td>📝 评估</td>
+      <td>当天记录已更新。</td>
+      <td><a href="areas/fitness/10-checkins/2026-05.md">check-in</a></td>
     </tr>
   </tbody>
 </table>
