@@ -7,6 +7,11 @@ aliases:
 languages:
   - en
   - zh
+tags:
+  - area/knowledge
+  - collection/anthonydb-research
+  - type/research-note
+  - wiki/af
 ---
 # Global Supply-Pressure Structure / 全球供给压力结构
 

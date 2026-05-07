@@ -1,3 +1,9 @@
+---
+title: "index"
+tags:
+  - type/index
+  - wiki/af
+---
 # Areas Index
 
 > Canonical registry of active areas in AF LeadFlow

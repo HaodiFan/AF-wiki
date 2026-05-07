@@ -1,0 +1,250 @@
+[
+  {
+    "file": "ReAct Synergizing Reasoning and Acting in Language Models.pdf",
+    "year": "2022",
+    "is_ai_related": true,
+    "reason": "匹配6个AI关键词",
+    "abstract_preview": "While large language models (LLMs) have demonstrated impressive performance across tasks in language understanding and interactive decision making, their abilities for reasoning (e.g. chain-of-thought...",
+    "status": "保留"
+  },
+  {
+    "file": "HuggingGPT Solving AI Tasks with ChatGPT and its Friends in Hugging Face.pdf",
+    "year": "2023",
+    "is_ai_related": true,
+    "reason": "匹配8个AI关键词",
+    "abstract_preview": "Solving complicated AI tasks with different domains and modalities is a key step toward artificial general intelligence. While there are numerous AI models avail- able for various domains and modaliti...",
+    "status": "保留"
+  },
+  {
+    "file": "Knowledge Management in the Companion Cognitive Architecture.pdf",
+    "year": "2024",
+    "is_ai_related": false,
+    "reason": "非AI关键词(1) >= AI关键词(1)",
+    "abstract_preview": "One of the fundamental aspects of cognitive architectures is their ability to encode and manipulate knowledge. Without a consistent, well -designed, and scalable knowledge management scheme, an archit...",
+    "status": "已移动"
+  },
+  {
+    "file": "Agent Trajectory.pdf",
+    "year": "2024",
+    "is_ai_related": true,
+    "reason": "匹配2个AI关键词",
+    "abstract_preview": "1. 核心问题定义 (Core Problem Definition) Agent 定义 (Definition of “Agent”): 从广义上讲， Agent（智能体） 指能够自主感知环境并采取行动以实现目标 的智能系统 。传统定义强调代理的自主性、环境感知和行动能力。例如，Wooldridge 和 Jennings 将 Agent 定义为一个具备 自主性 （可在无人工干预下自主运行）、 社...",
+    "status": "保留"
+  },
+  {
+    "file": "Advanced AI Agent Research Report.pdf",
+    "year": "2024",
+    "is_ai_related": true,
+    "reason": "匹配2个AI关键词",
+    "abstract_preview": "(This section will summarize the key findings, most impactful advancements, and overarching themes observed across all research areas betwe en late 2024 and mid-2025. It will highlight the accelerated...",
+    "status": "保留"
+  },
+  {
+    "file": "A_Service_Architecture_for_Dataspaces_2507.07979v1.pdf",
+    "year": "2025",
+    "is_ai_related": false,
+    "reason": "非AI关键词(1) >= AI关键词(1)",
+    "abstract_preview": "A Service Architecture for Dataspaces Benedikt T. Arnold1,2, Christoph Lange1,2, Christina Gillmann1,2, and Stefan Decker1,2 1Fraunhofer Institute for Applied Information Technology FIT, Sankt Augusti...",
+    "status": "已移动"
+  },
+  {
+    "file": "MIRIX_Multi_Agent_Memory_System_for_LLM_Based_Agents_2507.07957v1.pdf",
+    "year": "2025",
+    "is_ai_related": true,
+    "reason": "匹配5个AI关键词",
+    "abstract_preview": "Although memory capabilities of AI agents are gaining increasing attention, ex- isting solutions remain fundamentally limited. Most rely on flat, narrowly scoped memory components, constraining their ...",
+    "status": "保留"
+  },
+  {
+    "file": "So_Tell_Me_About_Your_Policy_Distillation_of_interpretable_policies_from_Deep_Reinforcement_Learning_2507.07848v1.pdf",
+    "year": "2025",
+    "is_ai_related": true,
+    "reason": "匹配5个AI关键词",
+    "abstract_preview": "\"So, Tell Me About Your Policy...\": Distillation of interpretable policies from Deep Reinforcement Learning agents Giovanni Dispotoa,*, Paolo Bonettiaand Marcello Restellia aDEIB, Politecnico di Milan...",
+    "status": "保留"
+  },
+  {
+    "file": "Perceptual_Distortions_and_Autonomous_Representation_Learning_in_a_Minimal_Robotic_System_2507.07845v1.pdf",
+    "year": "2025",
+    "is_ai_related": true,
+    "reason": "匹配2个AI关键词",
+    "abstract_preview": "Autonomous agents, particularly in the field of robotics, rely on sensory information to perceive and navigate their environment. However, these sensory inputs are often imperfect, leading to distorti...",
+    "status": "保留"
+  },
+  {
+    "file": "Baryonification_II_Constraining_feedback_with_X_ray_and_kinematic_Sunyaev_Zeldovich_observations_2507.07991v1.pdf",
+    "year": "2025",
+    "is_ai_related": true,
+    "reason": "匹配3个AI关键词",
+    "abstract_preview": "Prepared for submission to JCAP Baryonification II: Constraining feedback with X-ray and kinematic Sunyaev-Zel’dovich observations Michael Kovač,aAndrina Nicola,b,aJozef Bucko,cAurel Schneider,dRobert...",
+    "status": "保留"
+  },
+  {
+    "file": "EXPO_Stable_Reinforcement_Learning_with_Expressive_Policies_2507.07986v1.pdf",
+    "year": "2025",
+    "is_ai_related": true,
+    "reason": "匹配4个AI关键词",
+    "abstract_preview": "EXPO: Stable Reinforcement Learning with Expressive Policies Perry Dong Stanford UniversityQiyang Li UC BerkeleyDorsa Sadigh Stanford UniversityChelsea Finn Stanford University ABSTRACT We study the p...",
+    "status": "保留"
+  },
+  {
+    "file": "Correlations_and_quantum_circuits_with_dynamical_causal_order_2507.07992v1.pdf",
+    "year": "2025",
+    "is_ai_related": false,
+    "reason": "非AI关键词(1) >= AI关键词(0)",
+    "abstract_preview": "Correlations and quantum circuits with dynamical causal order Raphaël Mothe,1, 2, 3Alastair A. Abbott,2and Cyril Branciard1 1Univ. Grenoble Alpes, CNRS, Grenoble INP, Institut Néel, 38000 Grenoble, Fr...",
+    "status": "已移动"
+  },
+  {
+    "file": "The_Trust_Fabric_Decentralized_Interoperability_and_Economic_Coordination_for_the_Agentic_Web_2507.07901v1.pdf",
+    "year": "2025",
+    "is_ai_related": true,
+    "reason": "匹配4个AI关键词",
+    "abstract_preview": "The fragmentation of AI agent ecosystems has created urgent demands for inter- operability, trust, and economic coordination that current protocols (MCP Hou et al. [2025], Desai [2025], A2A Habler et ...",
+    "status": "保留"
+  },
+  {
+    "file": "Intraseasonal_Equatorial_Kelvin_and_Rossby_Waves_in_Modern_AI_ML_Models_2507.07952v1.pdf",
+    "year": "2025",
+    "is_ai_related": false,
+    "reason": "匹配3个非AI关键词",
+    "abstract_preview": "We examine the structure of large-scale convectively coupled Kelvin and Rossby waves in a suite of modern AI-ML models. In particular, multiple runs of PanguWeather, Graph- Cast, FourCastNet and Auror...",
+    "status": "已移动"
+  },
+  {
+    "file": "Traceable_Evidence_Enhanced_Visual_Grounded_Reasoning_Evaluation_and_Methodology_2507.07999v1.pdf",
+    "year": "2025",
+    "is_ai_related": true,
+    "reason": "匹配4个AI关键词",
+    "abstract_preview": "Models like OpenAI-o3 pioneer visual grounded reasoning by dynamically referencing visual regions, just like human “thinking with images”. However, no benchmark exists to evaluate these capabilities h...",
+    "status": "保留"
+  },
+  {
+    "file": "UniTac_Whole_Robot_Touch_Sensing_Without_Tactile_Sensors_2507.07980v1.pdf",
+    "year": "2025",
+    "is_ai_related": false,
+    "reason": "非AI关键词(0) >= AI关键词(0)",
+    "abstract_preview": "7-11-2025 UniTac: Whole-Robot Touch Sensing Without Tactile Sensors Wanjia Fu1*, Hongyu Li1*, Ivy X. He1, Stefanie Tellex1and Srinath Sridhar1 1Brown University,*Equal contribution Robots can better i...",
+    "status": "已移动"
+  },
+  {
+    "file": "Single_pass_Adaptive_Image_Tokenization_for_Minimum_Program_Search_2507.07995v1.pdf",
+    "year": "2025",
+    "is_ai_related": true,
+    "reason": "匹配3个AI关键词",
+    "abstract_preview": "According to Algorithmic Information Theory (AIT) – Intelligent representations compress data into the shortest possible program that can reconstruct its content, ex- hibiting low Kolmogorov Complexit...",
+    "status": "保留"
+  },
+  {
+    "file": "Strong_converse_rate_for_asymptotic_hypothesis_testing_in_type_III_2507.07989v1.pdf",
+    "year": "2025",
+    "is_ai_related": false,
+    "reason": "匹配3个非AI关键词",
+    "abstract_preview": "STRONG CONVERSE RATE FOR ASYMPTOTIC HYPOTHESIS TESTING IN TYPE III MARIUS JUNGE AND NICHOLAS LARACUENTE Abstract. We extend from the hyperfinite setting to general von Neumann algebras Mosonyi and Oga...",
+    "status": "已移动"
+  },
+  {
+    "file": "Purcell_enhancement_of_photogalvanic_currents_in_a_van_der_Waals_plasmonic_self_cavity_2507.07987v1.pdf",
+    "year": "2025",
+    "is_ai_related": false,
+    "reason": "匹配7个非AI关键词",
+    "abstract_preview": "Cavities provide a means to manipulate the optical and electronic responses of quantum materials by selectively enhancing light-matter interaction at specific frequencies and momenta. While cavities t...",
+    "status": "已移动"
+  },
+  {
+    "file": "Constructing_Optimal_Kobon_Triangle_Arrangements_via_Table_Encoding_SAT_Solving_and_Heuristic_Straig_2507.07951v1.pdf",
+    "year": "2025",
+    "is_ai_related": false,
+    "reason": "非AI关键词(0) >= AI关键词(0)",
+    "abstract_preview": "We present new methods and results for constructing optimal Kobon triangle arrangements. First, we introduce a compact table notation for describing arrangements of pseudolines, enabling the represent...",
+    "status": "已移动"
+  },
+  {
+    "file": "Synthesizing_Sun_as_a_star_flare_spectra_from_high_resolution_solar_observations_2507.07967v1.pdf",
+    "year": "2025",
+    "is_ai_related": false,
+    "reason": "匹配6个非AI关键词",
+    "abstract_preview": "Context. Spatially resolved observations of the Sun and the astronomical sample size of stellar bodies are the respective key strengths of solar and stellar observations. However, the large di fferenc...",
+    "status": "已移动"
+  },
+  {
+    "file": "MGVQ_Could_VQ_VAE_Beat_VAE_A_Generalizable_Tokenizer_with_Multi_group_Quantization_2507.07997v1.pdf",
+    "year": "2025",
+    "is_ai_related": true,
+    "reason": "匹配3个AI关键词",
+    "abstract_preview": "Vector Quantized Variational Autoencoders (VQ-VAEs) are fundamental models that compress continuous visual data into discrete tokens. Existing methods have tried to improve the quantization strategy f...",
+    "status": "保留"
+  },
+  {
+    "file": "Reinforcement_Learning_with_Action_Chunking_2507.07969v1.pdf",
+    "year": "2025",
+    "is_ai_related": true,
+    "reason": "匹配5个AI关键词",
+    "abstract_preview": "We present Q-chunking , a simple yet effective recipe for improving reinforcement learning (RL) algorithms for long-horizon, sparse-reward tasks. Our recipe is designed for the offline-to-online RL se...",
+    "status": "保留"
+  },
+  {
+    "file": "s1Simple test-time scaling.pdf",
+    "year": "2025",
+    "is_ai_related": true,
+    "reason": "匹配3个AI关键词",
+    "abstract_preview": "Test-time scaling is a promising new approach to languagemodelingthatusesextratest-timecom- putetoimproveperformance. Recently,OpenAI’s o1modelshowedthiscapabilitybutdidnotpub- liclyshareitsmethodolog...",
+    "status": "保留"
+  },
+  {
+    "file": "Spectral_networks_for_polynomial_cubic_differentials_2507.07971v1.pdf",
+    "year": "2025",
+    "is_ai_related": false,
+    "reason": "匹配3个非AI关键词",
+    "abstract_preview": "We study cubic differentials and their spectral networks on Riemann surfaces, focusing on the polynomial case on the Riemann sphere. We introduce the notion of spectral core as the primary tool for ou...",
+    "status": "已移动"
+  },
+  {
+    "file": "Agentic_Retrieval_of_Topics_and_Insights_from_Earnings_Calls_2507.07906v1.pdf",
+    "year": "2025",
+    "is_ai_related": true,
+    "reason": "匹配4个AI关键词",
+    "abstract_preview": "Tracking the strategic focus of companies through topics in their earnings calls is a key task in financial analysis. However, as in- dustries evolve, traditional topic modeling techniques struggle to...",
+    "status": "保留"
+  },
+  {
+    "file": "Impact of Pretraining Word Co-occurrence on Compositional Generalization in Mult.pdf",
+    "year": "2025",
+    "is_ai_related": true,
+    "reason": "匹配2个AI关键词",
+    "abstract_preview": "Impact of Pretraining Word Co-occurrence on Compositional Generalization in Multimodal Models Helen Qu Flatiron Institute hqu@flatironinstitute.orgSang Michael Xie Stanford University xie@cs.stanford....",
+    "status": "保留"
+  },
+  {
+    "file": "Doodle_Your_Keypoints_Sketch_Based_Few_Shot_Keypoint_Detection_2507.07994v1.pdf",
+    "year": "2025",
+    "is_ai_related": false,
+    "reason": "非AI关键词(0) >= AI关键词(0)",
+    "abstract_preview": "Keypoint detection, integral to modern machine perception, faces challenges in few-shot learning, particularly when source data from the same distribution as the query is un- available. This gap is ad...",
+    "status": "已移动"
+  },
+  {
+    "file": "Finding_sparse_induced_subgraphs_on_graphs_of_bounded_induced_matching_treewidth_2507.07975v1.pdf",
+    "year": "2025",
+    "is_ai_related": false,
+    "reason": "非AI关键词(1) >= AI关键词(1)",
+    "abstract_preview": "The induced matching width of a tree decomposition of a graph Gis the cardinality of a largest induced matching MofG, such that there exists a bag that intersects every edge inM. The induced matching ...",
+    "status": "已移动"
+  },
+  {
+    "file": "PyVision_Agentic_Vision_with_Dynamic_Tooling_2507.07998v1.pdf",
+    "year": "2025",
+    "is_ai_related": true,
+    "reason": "匹配7个AI关键词",
+    "abstract_preview": "LLMs are increasingly deployed as agents, systems capable of planning, reasoning, and dy- namically calling external tools. However, in visual reasoning, prior approaches largely remain limited by pre...",
+    "status": "保留"
+  },
+  {
+    "file": "Quantum_Wall_States_for_Noise_Mitigation_and_Eternal_Purity_Bounds_2507.07944v1.pdf",
+    "year": "2025",
+    "is_ai_related": false,
+    "reason": "非AI关键词(1) >= AI关键词(0)",
+    "abstract_preview": "Quantum Wall States for Noise Mitigation and Eternal Purity Bounds Miguel Casanova1,∗, Francesco Ticozzi1,2 1Department of Information Engineering, University of Padova, Italy 2QTech center, Universit...",
+    "status": "已移动"
+  }
+]

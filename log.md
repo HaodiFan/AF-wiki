@@ -1,3 +1,8 @@
+---
+title: "log"
+tags:
+  - wiki/af
+---
 # AF Wiki Log
 
 ## [2026-05-01] research | Promoted AHE-derived takeaways into deep research note

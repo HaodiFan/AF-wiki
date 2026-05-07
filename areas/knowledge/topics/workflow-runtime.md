@@ -8,6 +8,13 @@ aliases:
   - 工作流运行时
   - pipeline-centric runtime
   - Pipeline Runtime
+tags:
+  - area/knowledge
+  - topic/agent-runtime
+  - topic/agent-systems
+  - topic/workflow-runtime
+  - type/topic
+  - wiki/af
 ---
 # Workflow Runtime / 工作流运行时
 
@@ -28,10 +35,18 @@ In agent systems, this is the point where the unit of coordination shifts from a
 - [[../anthonydb-research/opencode-system-architecture-patterns-Opencode系统架构模式|Opencode System Architecture Patterns]] — primary retained note for pipeline/workflow-centric runtime.
 - [[../anthonydb-research/openclaw-vs-nanoclaw-architecture-selection-OpenClaw与NanoClaw架构选型|OpenClaw vs NanoClaw Architecture Selection]] — related runtime taxonomy.
 
+## Original Files In Wiki
+
+- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/AI4Science/Experiment_Automation/2024/Single-Purpose Scientific Tools - Data Formats and AI Integration.pdf|Single-Purpose Scientific Tools - Data Formats and AI Integration.pdf]]
+- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/Function_Calling/2023/ToolLLM Large Language Models Can Master 16000+ Real-world APIs.pdf|ToolLLM Large Language Models Can Master 16000+ Real-world APIs.pdf]]
+- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/2024/Agent Trajectory.pdf|Agent Trajectory.pdf]]
+
 ## Related topics
 
 - [[agent-runtime|Agent Runtime]]
 - [[agent-core|Agent Core]]
+- [[function-calling-and-tool-use|Function Calling and Tool Use]]
+- [[ai4science|AI4Science]]
 - [[opencode-architecture|Opencode Architecture]]
 - [[openclaw|OpenClaw]]
 

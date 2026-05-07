@@ -1,3 +1,9 @@
+---
+title: "SCHEMA"
+tags:
+  - type/schema
+  - wiki/af
+---
 # AF Wiki Schema
 
 > Legacy bootstrap schema.

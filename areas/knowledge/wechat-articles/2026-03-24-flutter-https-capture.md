@@ -1,3 +1,11 @@
+---
+title: "2026-03-24-flutter-https-capture"
+tags:
+  - area/knowledge
+  - source/wechat
+  - type/article-note
+  - wiki/af
+---
 # 使用 AI 实现 最新版本 Flutter HTTPS 明文抓包
 
 - 日期：2026-03-24

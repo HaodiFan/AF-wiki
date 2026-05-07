@@ -1,3 +1,13 @@
+---
+title: "Opencode System Arch - 20260125"
+tags:
+  - area/knowledge
+  - collection/anthonydb-research
+  - source/anthonydb
+  - topic/agent-systems
+  - type/original
+  - wiki/af
+---
 # Keys
 
 ## Meta

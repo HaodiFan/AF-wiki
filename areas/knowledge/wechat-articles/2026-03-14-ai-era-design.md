@@ -1,3 +1,11 @@
+---
+title: "2026-03-14-ai-era-design"
+tags:
+  - area/knowledge
+  - source/wechat
+  - type/article-note
+  - wiki/af
+---
 # 设计流程已死，Claude 设计负责人如何理解 AI 时代的设计？
 
 > Status: legacy migrated note

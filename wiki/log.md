@@ -1,3 +1,9 @@
+---
+title: "log"
+tags:
+  - type/log
+  - wiki/af
+---
 ## [2026-04-18] init | Wiki initialized
 Wiki root: /home/AF-wiki
 Source directories created: sources/

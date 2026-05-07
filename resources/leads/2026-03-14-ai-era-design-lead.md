@@ -1,3 +1,10 @@
+---
+title: "2026-03-14-ai-era-design-lead"
+tags:
+  - area/resources
+  - type/lead
+  - wiki/af
+---
 # 设计流程已死，Claude 设计负责人如何理解 AI 时代的设计？
 
 - Captured on: 2026-03-14

@@ -1,3 +1,11 @@
+---
+title: "wechat-public-account-articles"
+tags:
+  - area/knowledge
+  - source/wechat
+  - type/article-note
+  - wiki/af
+---
 # 微信公众号文章入口页
 
 > Purpose: serve as the canonical entry page for retained WeChat article notes in the knowledge area.

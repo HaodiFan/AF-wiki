@@ -1,3 +1,10 @@
+---
+title: "99-change-log"
+tags:
+  - area/work
+  - type/log
+  - wiki/af
+---
 # Work Area Change Log
 
 ## [2026-04-20] create | Work area scaffold added

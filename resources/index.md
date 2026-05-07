@@ -1,12 +1,24 @@
+---
+title: "index"
+tags:
+  - area/resources
+  - type/index
+  - wiki/af
+---
 # Resources Index
 
 > Purpose: explain the shared cross-area resource layer.
-> Last updated: 2026-04-20
+> Last updated: 2026-04-26
 
 ## What this layer owns
 - `leads/` — weak-signal capture
-- `research/` — deep-dive research scaffold
+- `research/` — deep-dive research notes and source records
 - `ideas/` — idea scaffold
+
+## Active research notes
+
+- [[research/2026-04-26-agent-harness-engineering-deep-research|Harness Engineering 深度研究报告 / Agent Harness Engineering]]
+- [[research/2026-04-26-wire-harness-engineering-comprehensive-review|Harness Engineering 综合评述 / Wire Harness Engineering]]
 
 ## Rule
 - This layer is shared infrastructure

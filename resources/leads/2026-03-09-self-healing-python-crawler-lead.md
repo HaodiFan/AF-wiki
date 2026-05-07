@@ -1,3 +1,10 @@
+---
+title: "2026-03-09-self-healing-python-crawler-lead"
+tags:
+  - area/resources
+  - type/lead
+  - wiki/af
+---
 # GitHub 狂飙 2.5 万标星，这款「会自愈」的 Python 爬虫框架杀疯了！
 
 - Captured on: 2026-03-09

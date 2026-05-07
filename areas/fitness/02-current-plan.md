@@ -1,3 +1,10 @@
+---
+title: "02-current-plan"
+tags:
+  - area/fitness
+  - topic/fitness
+  - wiki/af
+---
 # AF Current Fitness Plan
 
 > Effective date: 2026-04-24

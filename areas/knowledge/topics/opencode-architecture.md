@@ -8,6 +8,12 @@ aliases:
   - Opencode 架构
   - Opencode
   - KP - Opencode
+tags:
+  - area/knowledge
+  - topic/agent-systems
+  - topic/opencode-architecture
+  - type/topic
+  - wiki/af
 ---
 # Opencode Architecture / Opencode 架构
 

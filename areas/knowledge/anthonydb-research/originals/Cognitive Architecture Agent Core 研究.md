@@ -1,3 +1,13 @@
+---
+title: "Cognitive Architecture Agent Core 研究"
+tags:
+  - area/knowledge
+  - collection/anthonydb-research
+  - source/anthonydb
+  - topic/agent-systems
+  - type/original
+  - wiki/af
+---
 # Cognitive Architecture Agent Core 研究
 
 ## Meta

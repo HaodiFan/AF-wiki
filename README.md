@@ -1,3 +1,8 @@
+---
+title: "README"
+tags:
+  - wiki/af
+---
 <div align="center">
 
 # 🧠 AF Wiki

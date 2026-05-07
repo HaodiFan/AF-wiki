@@ -9,6 +9,12 @@ aliases:
   - nanobot
   - KP - NanoClaw
   - KP - nanobot
+tags:
+  - area/knowledge
+  - topic/agent-systems
+  - topic/nanoclaw
+  - type/topic
+  - wiki/af
 ---
 # NanoClaw / Nanobot
 

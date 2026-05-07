@@ -1,3 +1,10 @@
+---
+title: "2026-04-24-archived-fat-loss-plan-v1"
+tags:
+  - area/fitness
+  - topic/fitness
+  - wiki/af
+---
 # AF Fitness Plan Archive — 2026-04-11 fat-loss plan v1
 
 > Archived on: 2026-04-24

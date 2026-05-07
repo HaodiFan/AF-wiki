@@ -1,3 +1,10 @@
+---
+title: "index"
+tags:
+  - area/projects
+  - type/index
+  - wiki/af
+---
 # Projects Index
 
 > Purpose: hold finite outcome-driven efforts that should not be mixed into ongoing area modules.
