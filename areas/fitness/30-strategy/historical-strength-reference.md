@@ -10,7 +10,7 @@ tags:
 > Purpose: preserve AF's historical strength records as a dedicated personal-best / prior-performance reference.
 > Scope: update-only historical archive; not a daily log, not a weekly summary, and not the current training plan.
 > Interpretation rule: default to **weight x reps** in kg unless the pattern strongly indicates **reps x weight** or a fixed-set notation like `25*8*4`.
-> Last updated: 2026-04-20
+> Last updated: 2026-05-18
 
 ## Use rule
 - This file is the canonical place for historical strength records, PR-like references, and prior top sets.
@@ -169,6 +169,29 @@ tags:
 ### Reverse-grip dumbbell bench press
 - Historical note present, but no preserved load/reps
 
+### Chest programming interpretation (2026-05-18)
+- This is a planning interpretation derived from existing historical and recent records, not a new PR record.
+- Barbell bench press:
+  - Historical high references remain **60 x 5** and **55 x 8**.
+  - Recent practical anchor from 2026-04-27 is **50 x 8, 50 x 8, 50 x 5**.
+  - Programming implication: use **50 kg** as the default working-weight candidate for 6-8 reps when fresh; treat **60 kg** as a historical top reference, not the default work-set load.
+- Incline barbell press:
+  - Historical preserved working reference is **45 x 5 x 3**, with a top-load note around **50 kg**.
+  - Recent practical anchor from 2026-04-27 is **30 x 12, 40 x 5, 40 x 5**.
+  - Programming implication: for upper-chest priority days, start with a 30 kg transition set and use **40 kg** as the first working-weight candidate; use **42.5-45 kg** only if early sets are stable.
+- Chest press machine:
+  - Historical seated chest press reference is **30 x 12**.
+  - Recent 2026-04-27 chest press machine record is **23 x 12, 27 x 5, 27 x 5**.
+  - Programming implication: do not force 30 kg unless the machine is confirmed to be the same or the first work sets are clearly easy. If chest press follows barbell pressing, **23-27 kg** is the more practical current range.
+- Fly / crossover:
+  - Historical references include cable crossover **25 x 13** and machine chest fly **35 x 10**.
+  - Recent cable chest fly used a different low-number stack / station scale.
+  - Programming implication: do not cross-convert fly weights between machines; choose a 10-15 rep load that preserves stretch, shoulder comfort, and a 1-second peak contraction.
+- Exercise selection implication:
+  - AF's current preference is machine / cable first, with dumbbells and bodyweight minimized.
+  - For an upper-chest / "armor chest" goal, default order should be incline press first, then flat press or chest press, then cable fly variations, then triceps and core.
+  - Dips are optional finishers only when shoulder / elbow status and user preference support them; use high-to-low cable fly as the default lower-chest substitute.
+
 ---
 
 ## Back
@@ -238,6 +261,9 @@ tags:
 - Seated chest press: **30 kg** for work sets
 - Incline press: **40 kg** work-set reference on the logged variation
 - Barbell bench press: historical top clear references **60 x 5** and **55 x 8**
+- Practical barbell bench work candidate: **50 kg x 6-8** based on 2026-04-27 repeat sets
+- Incline barbell press: **40 kg x 5-8** as current upper-chest work candidate, with **45 kg** as a state-dependent heavier exposure
+- Chest press machine: **23-27 kg** on the recent machine after barbell work; only use **30 kg** when the machine and state match the historical seated chest press context
 - Cable crossover: **25 x 13**
 - Machine chest fly: **35 x 10**
 - Seated cable row: **45 x 12**
