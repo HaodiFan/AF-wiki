@@ -1,12 +1,12 @@
 const repoRoot = "https://github.com/HaodiFan/AF-wiki/blob/main/";
 
 const colors = {
-  green: "#2f7d4c",
-  teal: "#087f8c",
-  blue: "#315f9c",
-  orange: "#c76c2c",
-  red: "#b74d45",
-  gold: "#9a7a12",
+  green: "#66d37e",
+  teal: "#3dd6c6",
+  blue: "#77a7ff",
+  orange: "#ffb454",
+  red: "#ff6b5d",
+  gold: "#e6c55a",
 };
 
 const data = {
