@@ -4,7 +4,8 @@ type: source-note
 area: knowledge
 status: archived
 source: baidu-sync
-source_file: "areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/2025/PyVision_Agentic_Vision_with_Dynamic_Tooling_2507.07998v1.pdf"
+source_id: "baidu-sync:ab88db60c7c3"
+source_vault_path: "raw/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/2025/PyVision_Agentic_Vision_with_Dynamic_Tooling_2507.07998v1.pdf"
 tags:
   - area/knowledge
   - doc/pdf
@@ -19,9 +20,10 @@ tags:
 ---
 # PyVision_Agentic_Vision_with_Dynamic_Tooling_2507.07998v1.pdf
 
-## Original File
+## Source Reference
 
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/2025/PyVision_Agentic_Vision_with_Dynamic_Tooling_2507.07998v1.pdf|PyVision_Agentic_Vision_with_Dynamic_Tooling_2507.07998v1.pdf]]
+- Source ID: `baidu-sync:ab88db60c7c3`
+- Source vault path: `raw/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/2025/PyVision_Agentic_Vision_with_Dynamic_Tooling_2507.07998v1.pdf`
 
 ## Related Topics
 

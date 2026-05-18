@@ -4,7 +4,8 @@ type: source-note
 area: knowledge
 status: archived
 source: baidu-sync
-source_file: "areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/2025/Reinforcement_Learning_with_Action_Chunking_2507.07969v1.pdf"
+source_id: "baidu-sync:05706e960eae"
+source_vault_path: "raw/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/2025/Reinforcement_Learning_with_Action_Chunking_2507.07969v1.pdf"
 tags:
   - area/knowledge
   - doc/pdf
@@ -18,9 +19,10 @@ tags:
 ---
 # Reinforcement_Learning_with_Action_Chunking_2507.07969v1.pdf
 
-## Original File
+## Source Reference
 
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/2025/Reinforcement_Learning_with_Action_Chunking_2507.07969v1.pdf|Reinforcement_Learning_with_Action_Chunking_2507.07969v1.pdf]]
+- Source ID: `baidu-sync:05706e960eae`
+- Source vault path: `raw/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/2025/Reinforcement_Learning_with_Action_Chunking_2507.07969v1.pdf`
 
 ## Related Topics
 

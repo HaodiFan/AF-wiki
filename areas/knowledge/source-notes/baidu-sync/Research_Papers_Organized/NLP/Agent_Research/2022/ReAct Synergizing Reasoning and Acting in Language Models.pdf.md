@@ -4,7 +4,8 @@ type: source-note
 area: knowledge
 status: archived
 source: baidu-sync
-source_file: "areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/2022/ReAct Synergizing Reasoning and Acting in Language Models.pdf"
+source_id: "baidu-sync:f0af1bfe5001"
+source_vault_path: "raw/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/2022/ReAct Synergizing Reasoning and Acting in Language Models.pdf"
 tags:
   - area/knowledge
   - doc/pdf
@@ -18,9 +19,10 @@ tags:
 ---
 # ReAct Synergizing Reasoning and Acting in Language Models.pdf
 
-## Original File
+## Source Reference
 
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/2022/ReAct Synergizing Reasoning and Acting in Language Models.pdf|ReAct Synergizing Reasoning and Acting in Language Models.pdf]]
+- Source ID: `baidu-sync:f0af1bfe5001`
+- Source vault path: `raw/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/2022/ReAct Synergizing Reasoning and Acting in Language Models.pdf`
 
 ## Related Topics
 

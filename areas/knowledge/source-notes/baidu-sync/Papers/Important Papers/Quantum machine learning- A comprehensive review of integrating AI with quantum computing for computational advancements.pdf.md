@@ -4,7 +4,8 @@ type: source-note
 area: knowledge
 status: archived
 source: baidu-sync
-source_file: "areas/knowledge/source-documents/baidu-sync/Papers/Important Papers/Quantum machine learning- A comprehensive review of integrating AI with quantum computing for computational advancements.pdf"
+source_id: "baidu-sync:be6a7f7fbe74"
+source_vault_path: "raw/baidu-sync/Papers/Important Papers/Quantum machine learning- A comprehensive review of integrating AI with quantum computing for computational advancements.pdf"
 tags:
   - area/knowledge
   - doc/pdf
@@ -16,9 +17,10 @@ tags:
 ---
 # Quantum machine learning- A comprehensive review of integrating AI with quantum computing for computational advancements.pdf
 
-## Original File
+## Source Reference
 
-- [[areas/knowledge/source-documents/baidu-sync/Papers/Important Papers/Quantum machine learning- A comprehensive review of integrating AI with quantum computing for computational advancements.pdf|Quantum machine learning- A comprehensive review of integrating AI with quantum computing for computational advancements.pdf]]
+- Source ID: `baidu-sync:be6a7f7fbe74`
+- Source vault path: `raw/baidu-sync/Papers/Important Papers/Quantum machine learning- A comprehensive review of integrating AI with quantum computing for computational advancements.pdf`
 
 ## Related Topics
 

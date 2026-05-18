@@ -4,7 +4,8 @@ type: source-note
 area: knowledge
 status: archived
 source: baidu-sync
-source_file: "areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/NonAI/2025/Quantum_Wall_States_for_Noise_Mitigation_and_Eternal_Purity_Bounds_2507.07944v1.pdf"
+source_id: "baidu-sync:261beb4cef6a"
+source_vault_path: "raw/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/NonAI/2025/Quantum_Wall_States_for_Noise_Mitigation_and_Eternal_Purity_Bounds_2507.07944v1.pdf"
 tags:
   - area/knowledge
   - doc/pdf
@@ -18,9 +19,10 @@ tags:
 ---
 # Quantum_Wall_States_for_Noise_Mitigation_and_Eternal_Purity_Bounds_2507.07944v1.pdf
 
-## Original File
+## Source Reference
 
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/NonAI/2025/Quantum_Wall_States_for_Noise_Mitigation_and_Eternal_Purity_Bounds_2507.07944v1.pdf|Quantum_Wall_States_for_Noise_Mitigation_and_Eternal_Purity_Bounds_2507.07944v1.pdf]]
+- Source ID: `baidu-sync:261beb4cef6a`
+- Source vault path: `raw/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/NonAI/2025/Quantum_Wall_States_for_Noise_Mitigation_and_Eternal_Purity_Bounds_2507.07944v1.pdf`
 
 ## Related Topics
 

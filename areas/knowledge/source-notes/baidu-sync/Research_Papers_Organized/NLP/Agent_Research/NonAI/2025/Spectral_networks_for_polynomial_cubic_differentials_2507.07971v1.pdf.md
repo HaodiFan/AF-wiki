@@ -4,7 +4,8 @@ type: source-note
 area: knowledge
 status: archived
 source: baidu-sync
-source_file: "areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/NonAI/2025/Spectral_networks_for_polynomial_cubic_differentials_2507.07971v1.pdf"
+source_id: "baidu-sync:8333a35f0374"
+source_vault_path: "raw/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/NonAI/2025/Spectral_networks_for_polynomial_cubic_differentials_2507.07971v1.pdf"
 tags:
   - area/knowledge
   - doc/pdf
@@ -19,9 +20,10 @@ tags:
 ---
 # Spectral_networks_for_polynomial_cubic_differentials_2507.07971v1.pdf
 
-## Original File
+## Source Reference
 
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/NonAI/2025/Spectral_networks_for_polynomial_cubic_differentials_2507.07971v1.pdf|Spectral_networks_for_polynomial_cubic_differentials_2507.07971v1.pdf]]
+- Source ID: `baidu-sync:8333a35f0374`
+- Source vault path: `raw/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/NonAI/2025/Spectral_networks_for_polynomial_cubic_differentials_2507.07971v1.pdf`
 
 ## Related Topics
 

@@ -4,7 +4,8 @@ type: source-note
 area: knowledge
 status: archived
 source: baidu-sync
-source_file: "areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/Multimodal/2025/CLIP_Wont_Learn_Object_Attribute_Binding_from_Natural_Data_and_Here_is_Why_2507.07985v1.pdf"
+source_id: "baidu-sync:d4be2ee348e4"
+source_vault_path: "raw/baidu-sync/Research_Papers_Organized/NLP/Multimodal/2025/CLIP_Wont_Learn_Object_Attribute_Binding_from_Natural_Data_and_Here_is_Why_2507.07985v1.pdf"
 tags:
   - area/knowledge
   - doc/pdf
@@ -17,9 +18,10 @@ tags:
 ---
 # CLIP_Wont_Learn_Object_Attribute_Binding_from_Natural_Data_and_Here_is_Why_2507.07985v1.pdf
 
-## Original File
+## Source Reference
 
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/Multimodal/2025/CLIP_Wont_Learn_Object_Attribute_Binding_from_Natural_Data_and_Here_is_Why_2507.07985v1.pdf|CLIP_Wont_Learn_Object_Attribute_Binding_from_Natural_Data_and_Here_is_Why_2507.07985v1.pdf]]
+- Source ID: `baidu-sync:d4be2ee348e4`
+- Source vault path: `raw/baidu-sync/Research_Papers_Organized/NLP/Multimodal/2025/CLIP_Wont_Learn_Object_Attribute_Binding_from_Natural_Data_and_Here_is_Why_2507.07985v1.pdf`
 
 ## Related Topics
 

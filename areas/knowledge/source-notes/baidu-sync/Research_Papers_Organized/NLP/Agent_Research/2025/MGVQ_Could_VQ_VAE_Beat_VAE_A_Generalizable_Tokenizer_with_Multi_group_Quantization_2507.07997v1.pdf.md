@@ -4,7 +4,8 @@ type: source-note
 area: knowledge
 status: archived
 source: baidu-sync
-source_file: "areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/2025/MGVQ_Could_VQ_VAE_Beat_VAE_A_Generalizable_Tokenizer_with_Multi_group_Quantization_2507.07997v1.pdf"
+source_id: "baidu-sync:53901899c63a"
+source_vault_path: "raw/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/2025/MGVQ_Could_VQ_VAE_Beat_VAE_A_Generalizable_Tokenizer_with_Multi_group_Quantization_2507.07997v1.pdf"
 tags:
   - area/knowledge
   - doc/pdf
@@ -17,9 +18,10 @@ tags:
 ---
 # MGVQ_Could_VQ_VAE_Beat_VAE_A_Generalizable_Tokenizer_with_Multi_group_Quantization_2507.07997v1.pdf
 
-## Original File
+## Source Reference
 
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/2025/MGVQ_Could_VQ_VAE_Beat_VAE_A_Generalizable_Tokenizer_with_Multi_group_Quantization_2507.07997v1.pdf|MGVQ_Could_VQ_VAE_Beat_VAE_A_Generalizable_Tokenizer_with_Multi_group_Quantization_2507.07997v1.pdf]]
+- Source ID: `baidu-sync:53901899c63a`
+- Source vault path: `raw/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/2025/MGVQ_Could_VQ_VAE_Beat_VAE_A_Generalizable_Tokenizer_with_Multi_group_Quantization_2507.07997v1.pdf`
 
 ## Related Topics
 

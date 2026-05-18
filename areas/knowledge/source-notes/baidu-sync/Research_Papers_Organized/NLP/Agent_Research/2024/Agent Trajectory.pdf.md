@@ -4,7 +4,8 @@ type: source-note
 area: knowledge
 status: archived
 source: baidu-sync
-source_file: "areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/2024/Agent Trajectory.pdf"
+source_id: "baidu-sync:7dd943e650e2"
+source_vault_path: "raw/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/2024/Agent Trajectory.pdf"
 tags:
   - area/knowledge
   - doc/pdf
@@ -19,9 +20,10 @@ tags:
 ---
 # Agent Trajectory.pdf
 
-## Original File
+## Source Reference
 
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/2024/Agent Trajectory.pdf|Agent Trajectory.pdf]]
+- Source ID: `baidu-sync:7dd943e650e2`
+- Source vault path: `raw/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/2024/Agent Trajectory.pdf`
 
 ## Related Topics
 

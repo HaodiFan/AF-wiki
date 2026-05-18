@@ -4,7 +4,8 @@ type: source-note
 area: knowledge
 status: archived
 source: baidu-sync
-source_file: "areas/knowledge/source-documents/baidu-sync/DeepResearch/Self-Evolving AI Systems_ A Long-Term Research Roadmap.pdf"
+source_id: "baidu-sync:73aa4e2b40dd"
+source_vault_path: "raw/baidu-sync/DeepResearch/Self-Evolving AI Systems_ A Long-Term Research Roadmap.pdf"
 tags:
   - area/knowledge
   - doc/pdf
@@ -15,9 +16,10 @@ tags:
 ---
 # Self-Evolving AI Systems_ A Long-Term Research Roadmap.pdf
 
-## Original File
+## Source Reference
 
-- [[areas/knowledge/source-documents/baidu-sync/DeepResearch/Self-Evolving AI Systems_ A Long-Term Research Roadmap.pdf|Self-Evolving AI Systems_ A Long-Term Research Roadmap.pdf]]
+- Source ID: `baidu-sync:73aa4e2b40dd`
+- Source vault path: `raw/baidu-sync/DeepResearch/Self-Evolving AI Systems_ A Long-Term Research Roadmap.pdf`
 
 ## Related Topics
 

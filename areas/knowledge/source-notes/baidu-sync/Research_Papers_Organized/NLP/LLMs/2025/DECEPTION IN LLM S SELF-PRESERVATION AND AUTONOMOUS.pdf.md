@@ -4,7 +4,8 @@ type: source-note
 area: knowledge
 status: archived
 source: baidu-sync
-source_file: "areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/LLMs/2025/DECEPTION IN LLM S SELF-PRESERVATION AND AUTONOMOUS.pdf"
+source_id: "baidu-sync:51381a099b59"
+source_vault_path: "raw/baidu-sync/Research_Papers_Organized/NLP/LLMs/2025/DECEPTION IN LLM S SELF-PRESERVATION AND AUTONOMOUS.pdf"
 tags:
   - area/knowledge
   - doc/pdf
@@ -17,9 +18,10 @@ tags:
 ---
 # DECEPTION IN LLM S SELF-PRESERVATION AND AUTONOMOUS.pdf
 
-## Original File
+## Source Reference
 
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/LLMs/2025/DECEPTION IN LLM S SELF-PRESERVATION AND AUTONOMOUS.pdf|DECEPTION IN LLM S SELF-PRESERVATION AND AUTONOMOUS.pdf]]
+- Source ID: `baidu-sync:51381a099b59`
+- Source vault path: `raw/baidu-sync/Research_Papers_Organized/NLP/LLMs/2025/DECEPTION IN LLM S SELF-PRESERVATION AND AUTONOMOUS.pdf`
 
 ## Related Topics
 

@@ -4,7 +4,8 @@ type: source-note
 area: knowledge
 status: archived
 source: baidu-sync
-source_file: "areas/knowledge/source-documents/baidu-sync/DeepResearch/Agent Trajectory.pdf"
+source_id: "baidu-sync:5a5758a3566c"
+source_vault_path: "raw/baidu-sync/DeepResearch/Agent Trajectory.pdf"
 tags:
   - area/knowledge
   - doc/pdf
@@ -18,9 +19,10 @@ tags:
 ---
 # Agent Trajectory.pdf
 
-## Original File
+## Source Reference
 
-- [[areas/knowledge/source-documents/baidu-sync/DeepResearch/Agent Trajectory.pdf|Agent Trajectory.pdf]]
+- Source ID: `baidu-sync:5a5758a3566c`
+- Source vault path: `raw/baidu-sync/DeepResearch/Agent Trajectory.pdf`
 
 ## Related Topics
 

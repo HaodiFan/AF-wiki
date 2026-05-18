@@ -4,7 +4,8 @@ type: source-note
 area: knowledge
 status: archived
 source: baidu-sync
-source_file: "areas/knowledge/source-documents/baidu-sync/DeepResearch/Fastino Function Calling Datasets.pdf"
+source_id: "baidu-sync:24df4fdf7f8a"
+source_vault_path: "raw/baidu-sync/DeepResearch/Fastino Function Calling Datasets.pdf"
 tags:
   - area/knowledge
   - doc/pdf
@@ -17,9 +18,10 @@ tags:
 ---
 # Fastino Function Calling Datasets.pdf
 
-## Original File
+## Source Reference
 
-- [[areas/knowledge/source-documents/baidu-sync/DeepResearch/Fastino Function Calling Datasets.pdf|Fastino Function Calling Datasets.pdf]]
+- Source ID: `baidu-sync:24df4fdf7f8a`
+- Source vault path: `raw/baidu-sync/DeepResearch/Fastino Function Calling Datasets.pdf`
 
 ## Related Topics
 

@@ -7,7 +7,7 @@ tags:
 # AF Wiki Index
 
 > Canonical navigation for the current repo state
-> Last updated: 2026-04-26
+> Last updated: 2026-05-18
 
 ## First read
 - [[START-HERE]] — 先理解当前真的在用什么，以及哪些只是目标设计
@@ -40,7 +40,8 @@ tags:
 - `areas/knowledge/` — ongoing technical reading 与 retained knowledge area
 - [[areas/knowledge/index]] — knowledge area 导航
 - [[areas/knowledge/SCHEMA]] — knowledge area 内部结构与归档规则
-- `areas/knowledge/source-documents/baidu-sync/` — BaiduSync 原始文档已复制进 wiki
+- [[areas/knowledge/source-manifests/index]] — local source vault provenance；原文不进 Git
+- [[areas/knowledge/historical-notebooks/index]] — 历史手写/OCR 学习笔记集合
 - [[areas/knowledge/anthonydb-research/index]] — AnthonyDB 历史研究归档
 - [[areas/knowledge/wechat-public-account-articles]] — 微信文章入口页
 - [[areas/knowledge/wechat-articles/2026-03-24-flutter-https-capture]] — 示例文章扩展笔记

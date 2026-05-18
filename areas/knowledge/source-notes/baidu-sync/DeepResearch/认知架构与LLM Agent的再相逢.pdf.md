@@ -4,7 +4,8 @@ type: source-note
 area: knowledge
 status: archived
 source: baidu-sync
-source_file: "areas/knowledge/source-documents/baidu-sync/DeepResearch/认知架构与LLM Agent的再相逢.pdf"
+source_id: "baidu-sync:943e6dba58a4"
+source_vault_path: "raw/baidu-sync/DeepResearch/认知架构与LLM Agent的再相逢.pdf"
 tags:
   - area/knowledge
   - doc/pdf
@@ -17,9 +18,10 @@ tags:
 ---
 # 认知架构与LLM Agent的再相逢.pdf
 
-## Original File
+## Source Reference
 
-- [[areas/knowledge/source-documents/baidu-sync/DeepResearch/认知架构与LLM Agent的再相逢.pdf|认知架构与LLM Agent的再相逢.pdf]]
+- Source ID: `baidu-sync:943e6dba58a4`
+- Source vault path: `raw/baidu-sync/DeepResearch/认知架构与LLM Agent的再相逢.pdf`
 
 ## Related Topics
 

@@ -4,7 +4,8 @@ type: source-note
 area: knowledge
 status: archived
 source: baidu-sync
-source_file: "areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/LLMs/2025/DeepSeek-R1 Incentivizing Reasoning Capability in LLMs via.pdf"
+source_id: "baidu-sync:ec03320bb577"
+source_vault_path: "raw/baidu-sync/Research_Papers_Organized/NLP/LLMs/2025/DeepSeek-R1 Incentivizing Reasoning Capability in LLMs via.pdf"
 tags:
   - area/knowledge
   - doc/pdf
@@ -16,9 +17,10 @@ tags:
 ---
 # DeepSeek-R1 Incentivizing Reasoning Capability in LLMs via.pdf
 
-## Original File
+## Source Reference
 
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/LLMs/2025/DeepSeek-R1 Incentivizing Reasoning Capability in LLMs via.pdf|DeepSeek-R1 Incentivizing Reasoning Capability in LLMs via.pdf]]
+- Source ID: `baidu-sync:ec03320bb577`
+- Source vault path: `raw/baidu-sync/Research_Papers_Organized/NLP/LLMs/2025/DeepSeek-R1 Incentivizing Reasoning Capability in LLMs via.pdf`
 
 ## Related Topics
 

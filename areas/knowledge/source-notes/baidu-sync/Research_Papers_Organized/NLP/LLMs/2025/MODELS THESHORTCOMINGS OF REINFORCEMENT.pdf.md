@@ -4,7 +4,8 @@ type: source-note
 area: knowledge
 status: archived
 source: baidu-sync
-source_file: "areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/LLMs/2025/MODELS THESHORTCOMINGS OF REINFORCEMENT.pdf"
+source_id: "baidu-sync:93b2937feedb"
+source_vault_path: "raw/baidu-sync/Research_Papers_Organized/NLP/LLMs/2025/MODELS THESHORTCOMINGS OF REINFORCEMENT.pdf"
 tags:
   - area/knowledge
   - doc/pdf
@@ -16,9 +17,10 @@ tags:
 ---
 # MODELS THESHORTCOMINGS OF REINFORCEMENT.pdf
 
-## Original File
+## Source Reference
 
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/LLMs/2025/MODELS THESHORTCOMINGS OF REINFORCEMENT.pdf|MODELS THESHORTCOMINGS OF REINFORCEMENT.pdf]]
+- Source ID: `baidu-sync:93b2937feedb`
+- Source vault path: `raw/baidu-sync/Research_Papers_Organized/NLP/LLMs/2025/MODELS THESHORTCOMINGS OF REINFORCEMENT.pdf`
 
 ## Related Topics
 

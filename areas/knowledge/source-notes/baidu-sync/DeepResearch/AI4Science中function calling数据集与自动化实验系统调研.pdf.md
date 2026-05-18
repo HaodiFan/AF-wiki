@@ -4,7 +4,8 @@ type: source-note
 area: knowledge
 status: archived
 source: baidu-sync
-source_file: "areas/knowledge/source-documents/baidu-sync/DeepResearch/AI4Science中function calling数据集与自动化实验系统调研.pdf"
+source_id: "baidu-sync:744336c7ffae"
+source_vault_path: "raw/baidu-sync/DeepResearch/AI4Science中function calling数据集与自动化实验系统调研.pdf"
 tags:
   - area/knowledge
   - doc/pdf
@@ -18,9 +19,10 @@ tags:
 ---
 # AI4Science中function calling数据集与自动化实验系统调研.pdf
 
-## Original File
+## Source Reference
 
-- [[areas/knowledge/source-documents/baidu-sync/DeepResearch/AI4Science中function calling数据集与自动化实验系统调研.pdf|AI4Science中function calling数据集与自动化实验系统调研.pdf]]
+- Source ID: `baidu-sync:744336c7ffae`
+- Source vault path: `raw/baidu-sync/DeepResearch/AI4Science中function calling数据集与自动化实验系统调研.pdf`
 
 ## Related Topics
 

@@ -4,7 +4,8 @@ type: source-note
 area: knowledge
 status: archived
 source: baidu-sync
-source_file: "areas/knowledge/source-documents/baidu-sync/Papers/Important Papers/definition of AGI.pdf"
+source_id: "baidu-sync:4735406ed058"
+source_vault_path: "raw/baidu-sync/Papers/Important Papers/definition of AGI.pdf"
 tags:
   - area/knowledge
   - doc/pdf
@@ -15,9 +16,10 @@ tags:
 ---
 # definition of AGI.pdf
 
-## Original File
+## Source Reference
 
-- [[areas/knowledge/source-documents/baidu-sync/Papers/Important Papers/definition of AGI.pdf|definition of AGI.pdf]]
+- Source ID: `baidu-sync:4735406ed058`
+- Source vault path: `raw/baidu-sync/Papers/Important Papers/definition of AGI.pdf`
 
 ## Related Topics
 

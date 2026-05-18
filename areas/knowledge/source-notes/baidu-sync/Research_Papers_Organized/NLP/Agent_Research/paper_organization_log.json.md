@@ -4,7 +4,8 @@ type: source-note
 area: knowledge
 status: archived
 source: baidu-sync
-source_file: "areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/paper_organization_log.json"
+source_id: "baidu-sync:8bde22f5d3b7"
+source_vault_path: "raw/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/paper_organization_log.json"
 tags:
   - area/knowledge
   - doc/json
@@ -15,9 +16,10 @@ tags:
 ---
 # paper_organization_log.json
 
-## Original File
+## Source Reference
 
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/paper_organization_log.json|paper_organization_log.json]]
+- Source ID: `baidu-sync:8bde22f5d3b7`
+- Source vault path: `raw/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/paper_organization_log.json`
 
 ## Related Topics
 

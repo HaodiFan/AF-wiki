@@ -4,7 +4,8 @@ type: source-note
 area: knowledge
 status: archived
 source: baidu-sync
-source_file: "areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/NonAI/2025/UniTac_Whole_Robot_Touch_Sensing_Without_Tactile_Sensors_2507.07980v1.pdf"
+source_id: "baidu-sync:781773ccb9ed"
+source_vault_path: "raw/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/NonAI/2025/UniTac_Whole_Robot_Touch_Sensing_Without_Tactile_Sensors_2507.07980v1.pdf"
 tags:
   - area/knowledge
   - doc/pdf
@@ -18,9 +19,10 @@ tags:
 ---
 # UniTac_Whole_Robot_Touch_Sensing_Without_Tactile_Sensors_2507.07980v1.pdf
 
-## Original File
+## Source Reference
 
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/NonAI/2025/UniTac_Whole_Robot_Touch_Sensing_Without_Tactile_Sensors_2507.07980v1.pdf|UniTac_Whole_Robot_Touch_Sensing_Without_Tactile_Sensors_2507.07980v1.pdf]]
+- Source ID: `baidu-sync:781773ccb9ed`
+- Source vault path: `raw/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/NonAI/2025/UniTac_Whole_Robot_Touch_Sensing_Without_Tactile_Sensors_2507.07980v1.pdf`
 
 ## Related Topics
 

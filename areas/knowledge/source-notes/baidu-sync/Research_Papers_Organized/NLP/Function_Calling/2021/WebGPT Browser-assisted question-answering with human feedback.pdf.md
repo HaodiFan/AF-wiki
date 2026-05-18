@@ -4,7 +4,8 @@ type: source-note
 area: knowledge
 status: archived
 source: baidu-sync
-source_file: "areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/Function_Calling/2021/WebGPT Browser-assisted question-answering with human feedback.pdf"
+source_id: "baidu-sync:b5dadcc148f7"
+source_vault_path: "raw/baidu-sync/Research_Papers_Organized/NLP/Function_Calling/2021/WebGPT Browser-assisted question-answering with human feedback.pdf"
 tags:
   - area/knowledge
   - doc/pdf
@@ -18,9 +19,10 @@ tags:
 ---
 # WebGPT Browser-assisted question-answering with human feedback.pdf
 
-## Original File
+## Source Reference
 
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/Function_Calling/2021/WebGPT Browser-assisted question-answering with human feedback.pdf|WebGPT Browser-assisted question-answering with human feedback.pdf]]
+- Source ID: `baidu-sync:b5dadcc148f7`
+- Source vault path: `raw/baidu-sync/Research_Papers_Organized/NLP/Function_Calling/2021/WebGPT Browser-assisted question-answering with human feedback.pdf`
 
 ## Related Topics
 

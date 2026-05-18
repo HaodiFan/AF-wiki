@@ -8,11 +8,13 @@ tags:
 # Knowledge Area Index
 
 > Canonical navigation for AF's ongoing knowledge curation area.
-> Last updated: 2026-04-26
+> Last updated: 2026-05-18
 
 ## First read
 - [[SCHEMA]] — knowledge area 的归档边界和 routing
 - [[maps/agent-systems-map]] — 当前知识图谱 v1 入口
+- [[source-manifests/index]] — 本地 source vault 的 source_id / provenance 入口
+- [[historical-notebooks/index]] — 历史手写/OCR 学习笔记集合入口
 - [[wechat-public-account-articles]] — 当前微信文章入口页
 - `wechat-articles/` — per-article retained note 集合
 
@@ -48,8 +50,9 @@ tags:
 - [[../../resources/research/2026-04-26-wire-harness-engineering-comprehensive-review|Harness Engineering 综合评述 / Wire Harness Engineering]]
 
 ## Current collections
-- `source-documents/baidu-sync/` — copied original BaiduSync documents, stored inside this wiki under the knowledge area
-- `source-notes/baidu-sync/` — tagged sidecar notes for BaiduSync source documents, used for Obsidian tags and graph linking
+- [[source-manifests/index]] — local source vault manifest; repo only stores `source_id`, relative vault paths, hashes, and topic routing
+- `source-notes/baidu-sync/` — lightweight tagged sidecar metadata for BaiduSync sources
+- [[historical-notebooks/index]] — 历史手写/OCR 学习笔记集合；repo 保留萃取摘要，原扫描/PDF/OCR 在 local source vault
 - [[anthonydb-research/index]] — AnthonyDB 历史研究归档集合
 - [[wechat-public-account-articles]] — 公众号文章入口页与总索引
 - [[wechat-articles/2026-03-24-flutter-https-capture]] — Flutter HTTPS 抓包主题
@@ -59,6 +62,7 @@ tags:
 ## Working rule
 - weak-signal capture 仍在 `resources/leads/`
 - retained article notes 和长期知识沉淀放在这里
+- PDFs、扫描件、完整 OCR、完整原始报告正文只放 local source vault，不进 Git
 - 临时看到的名词先进入 `resources/leads/`，不要直接创建 topic
 - 调研过程进入 `resources/research/`
 - 只有可复用、可连接多个 notes、或需要进入 map 的概念才晋升到 `topics/`

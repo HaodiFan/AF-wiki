@@ -23,8 +23,9 @@ tags:
 
 - curated notes live directly in this folder
 - 当前文件夹直接存放策展后的研究笔记
-- [[originals/index|Historical Originals Archive / 历史原文归档]] preserves the copied source-note layer inside the current wiki
-- `originals/` 目录保留复制进来的原文层
+- full historical originals now live in the local source vault
+- 完整历史原文已迁移到 local source vault
+- [[../source-manifests/anthonydb-originals|AnthonyDB Originals Source Manifest]] preserves source IDs, hashes, and vault paths
 
 ## Selection Rule / 选录规则
 
@@ -55,10 +56,10 @@ Skipped on purpose / 明确跳过:
 - [[fruit-fly-connectome-to-embodied-simulation-果蝇连接组到具身仿真|Fruit-Fly Connectome to Embodied Simulation / 果蝇连接组到具身仿真]] — connectome-constrained modeling and embodiment / 连接组约束建模与具身验证
 - [[opencode-system-architecture-patterns-Opencode系统架构模式|Opencode System Architecture Patterns / Opencode 系统架构模式]] — architecture progression from source tree to workflow runtime / 从源码树到工作流 runtime 的工程范式演进
 
-## Current Scope / 当前范围
+## Source References / 来源引用
 
-In-wiki originals archive / 当前 wiki 内原文层:
-- `areas/knowledge/anthonydb-research/originals/`
+- Manifest: [[../source-manifests/anthonydb-originals|AnthonyDB Originals Source Manifest]]
+- Source vault root: `/Users/anthonyf/projects/personal/SnapAF/AF-wiki-sources`
 
 ## Second-Pass Decision / 第二轮筛选结论
 

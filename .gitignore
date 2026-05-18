@@ -3,3 +3,10 @@
 
 # Empty/auto-created scratch files
 Untitled.canvas
+
+# Local source-vault material must not be committed.
+# AF-wiki keeps only curated knowledge, source manifests, and provenance in Git.
+areas/knowledge/source-documents/**
+areas/knowledge/source-fulltext/**
+areas/knowledge/anthonydb-research/originals/**
+areas/knowledge/source-notes/historical-notebooks/**

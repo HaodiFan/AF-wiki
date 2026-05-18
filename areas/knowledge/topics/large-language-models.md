@@ -28,15 +28,15 @@ In this wiki, LLMs are treated as the model substrate underneath agent core, run
 - It anchors research on reasoning, pretraining data, evaluation, safety, and domain-specific application.
 - It connects general model progress to practical agent-system architecture.
 
-## Original Files In Wiki
+## Source References
 
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/LLMs/2024/DeepSeek_V3.pdf|DeepSeek_V3.pdf]]
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/LLMs/2025/DeepSeek-R1 Incentivizing Reasoning Capability in LLMs via.pdf|DeepSeek-R1 Incentivizing Reasoning Capability in LLMs via.pdf]]
-- [[areas/knowledge/source-documents/baidu-sync/DeepResearch/PretrainingDatasetsTrend.pdf|PretrainingDatasetsTrend.pdf]]
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/LLMs/2025/Humanitys Last Exam.pdf|Humanitys Last Exam.pdf]]
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/LLMs/2024/LLMs for Spreadsheet and Table Construction - Landscape and Data.pdf|LLMs for Spreadsheet and Table Construction - Landscape and Data.pdf]]
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/LLMs/2024/Cognitive LLMs Towards Integrating Cognitive Architectures and Large.pdf|Cognitive LLMs Towards Integrating Cognitive Architectures and Large.pdf]]
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/LLMs/2024/TELEClass Taxonomy Enrichment and LLM-Enhanced.pdf|TELEClass Taxonomy Enrichment and LLM-Enhanced.pdf]]
+- `baidu-sync:af6f10bceaf5` — DeepSeek_V3.pdf
+- `baidu-sync:ec03320bb577` — DeepSeek-R1 Incentivizing Reasoning Capability in LLMs via.pdf
+- `baidu-sync:f6f877e5a8c6` — PretrainingDatasetsTrend.pdf
+- `baidu-sync:60432948ca7f` — Humanitys Last Exam.pdf
+- `baidu-sync:1516a96b30f6` — LLMs for Spreadsheet and Table Construction - Landscape and Data.pdf
+- `baidu-sync:d56d59d20fc6` — Cognitive LLMs Towards Integrating Cognitive Architectures and Large.pdf
+- `baidu-sync:d46e1aa8510b` — TELEClass Taxonomy Enrichment and LLM-Enhanced.pdf
 
 ## Related topics
 

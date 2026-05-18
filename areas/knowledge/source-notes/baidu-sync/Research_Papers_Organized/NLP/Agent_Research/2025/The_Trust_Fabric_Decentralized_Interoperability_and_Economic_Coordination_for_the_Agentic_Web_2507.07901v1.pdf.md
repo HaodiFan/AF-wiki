@@ -4,7 +4,8 @@ type: source-note
 area: knowledge
 status: archived
 source: baidu-sync
-source_file: "areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/2025/The_Trust_Fabric_Decentralized_Interoperability_and_Economic_Coordination_for_the_Agentic_Web_2507.07901v1.pdf"
+source_id: "baidu-sync:5fc26cdd8675"
+source_vault_path: "raw/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/2025/The_Trust_Fabric_Decentralized_Interoperability_and_Economic_Coordination_for_the_Agentic_Web_2507.07901v1.pdf"
 tags:
   - area/knowledge
   - doc/pdf
@@ -18,9 +19,10 @@ tags:
 ---
 # The_Trust_Fabric_Decentralized_Interoperability_and_Economic_Coordination_for_the_Agentic_Web_2507.07901v1.pdf
 
-## Original File
+## Source Reference
 
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/2025/The_Trust_Fabric_Decentralized_Interoperability_and_Economic_Coordination_for_the_Agentic_Web_2507.07901v1.pdf|The_Trust_Fabric_Decentralized_Interoperability_and_Economic_Coordination_for_the_Agentic_Web_2507.07901v1.pdf]]
+- Source ID: `baidu-sync:5fc26cdd8675`
+- Source vault path: `raw/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/2025/The_Trust_Fabric_Decentralized_Interoperability_and_Economic_Coordination_for_the_Agentic_Web_2507.07901v1.pdf`
 
 ## Related Topics
 

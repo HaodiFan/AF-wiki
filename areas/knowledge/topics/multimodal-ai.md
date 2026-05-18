@@ -28,13 +28,13 @@ In this wiki, the topic is connected to agent systems when perception becomes pa
 - It connects evaluation, grounding, data composition, and tool use.
 - It creates additional safety and traceability requirements for evidence-based agent behavior.
 
-## Original Files In Wiki
+## Source References
 
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/Multimodal/2025/CLIP_Wont_Learn_Object_Attribute_Binding_from_Natural_Data_and_Here_is_Why_2507.07985v1.pdf|CLIP_Wont_Learn_Object_Attribute_Binding_from_Natural_Data_and_Here_is_Why_2507.07985v1.pdf]]
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/Multimodal/2025/Impact_of_Pretraining_Word_Co_occurrence_on_Compositional_Generalization_in_Multimodal_Models_2507.08000v1.pdf|Impact_of_Pretraining_Word_Co_occurrence_on_Compositional_Generalization_in_Multimodal_Models_2507.08000v1.pdf]]
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/2025/PyVision_Agentic_Vision_with_Dynamic_Tooling_2507.07998v1.pdf|PyVision_Agentic_Vision_with_Dynamic_Tooling_2507.07998v1.pdf]]
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/2025/Traceable_Evidence_Enhanced_Visual_Grounded_Reasoning_Evaluation_and_Methodology_2507.07999v1.pdf|Traceable_Evidence_Enhanced_Visual_Grounded_Reasoning_Evaluation_and_Methodology_2507.07999v1.pdf]]
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/LLMs/2025/OST_Bench_Evaluating_the_Capabilities_of_MLLMs_in_Online_Spatio_temporal_Scene_Understanding_2507.07984v1.pdf|OST_Bench_Evaluating_the_Capabilities_of_MLLMs_in_Online_Spatio_temporal_Scene_Understanding_2507.07984v1.pdf]]
+- `baidu-sync:d4be2ee348e4` — CLIP_Wont_Learn_Object_Attribute_Binding_from_Natural_Data_and_Here_is_Why_2507.07985v1.pdf
+- `baidu-sync:98ad2439b37b` — Impact_of_Pretraining_Word_Co_occurrence_on_Compositional_Generalization_in_Multimodal_Models_2507.08000v1.pdf
+- `baidu-sync:ab88db60c7c3` — PyVision_Agentic_Vision_with_Dynamic_Tooling_2507.07998v1.pdf
+- `baidu-sync:ce38b2926bc6` — Traceable_Evidence_Enhanced_Visual_Grounded_Reasoning_Evaluation_and_Methodology_2507.07999v1.pdf
+- `baidu-sync:607725b35dc3` — OST_Bench_Evaluating_the_Capabilities_of_MLLMs_in_Online_Spatio_temporal_Scene_Understanding_2507.07984v1.pdf
 
 ## Related topics
 

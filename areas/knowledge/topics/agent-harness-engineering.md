@@ -36,13 +36,13 @@ It is broader than prompt writing and narrower than the model itself. The useful
 - [[agent-runtime|Agent Runtime / 智能体运行时]] — runtime layer that hosts tools, sessions, memory, observability, and policy.
 - [[workflow-runtime|Workflow Runtime / 工作流运行时]] — durable execution graph and replay/checkpoint layer.
 
-## Original Files In Wiki
+## Source References
 
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/2024/Advanced AI Agent Research Report.pdf|Advanced AI Agent Research Report.pdf]]
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/2024/Agent Trajectory.pdf|Agent Trajectory.pdf]]
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/2022/ReAct Synergizing Reasoning and Acting in Language Models.pdf|ReAct Synergizing Reasoning and Acting in Language Models.pdf]]
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/Function_Calling/2021/WebGPT Browser-assisted question-answering with human feedback.pdf|WebGPT Browser-assisted question-answering with human feedback.pdf]]
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/2025/Traceable_Evidence_Enhanced_Visual_Grounded_Reasoning_Evaluation_and_Methodology_2507.07999v1.pdf|Traceable_Evidence_Enhanced_Visual_Grounded_Reasoning_Evaluation_and_Methodology_2507.07999v1.pdf]]
+- `baidu-sync:e5e86d7fec46` — Advanced AI Agent Research Report.pdf
+- `baidu-sync:7dd943e650e2` — Agent Trajectory.pdf
+- `baidu-sync:f0af1bfe5001` — ReAct Synergizing Reasoning and Acting in Language Models.pdf
+- `baidu-sync:b5dadcc148f7` — WebGPT Browser-assisted question-answering with human feedback.pdf
+- `baidu-sync:ce38b2926bc6` — Traceable_Evidence_Enhanced_Visual_Grounded_Reasoning_Evaluation_and_Methodology_2507.07999v1.pdf
 
 ## Related topics
 

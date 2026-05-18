@@ -4,7 +4,8 @@ type: source-note
 area: knowledge
 status: archived
 source: baidu-sync
-source_file: "areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/NonAI/2024/Knowledge Management in the Companion Cognitive Architecture.pdf"
+source_id: "baidu-sync:31656e895776"
+source_vault_path: "raw/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/NonAI/2024/Knowledge Management in the Companion Cognitive Architecture.pdf"
 tags:
   - area/knowledge
   - doc/pdf
@@ -19,9 +20,10 @@ tags:
 ---
 # Knowledge Management in the Companion Cognitive Architecture.pdf
 
-## Original File
+## Source Reference
 
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/NonAI/2024/Knowledge Management in the Companion Cognitive Architecture.pdf|Knowledge Management in the Companion Cognitive Architecture.pdf]]
+- Source ID: `baidu-sync:31656e895776`
+- Source vault path: `raw/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/NonAI/2024/Knowledge Management in the Companion Cognitive Architecture.pdf`
 
 ## Related Topics
 

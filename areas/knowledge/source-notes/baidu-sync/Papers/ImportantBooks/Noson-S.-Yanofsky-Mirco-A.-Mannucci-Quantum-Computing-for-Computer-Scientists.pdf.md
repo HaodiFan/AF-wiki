@@ -4,7 +4,8 @@ type: source-note
 area: knowledge
 status: archived
 source: baidu-sync
-source_file: "areas/knowledge/source-documents/baidu-sync/Papers/ImportantBooks/Noson-S.-Yanofsky-Mirco-A.-Mannucci-Quantum-Computing-for-Computer-Scientists.pdf"
+source_id: "baidu-sync:9b665b1c824a"
+source_vault_path: "raw/baidu-sync/Papers/ImportantBooks/Noson-S.-Yanofsky-Mirco-A.-Mannucci-Quantum-Computing-for-Computer-Scientists.pdf"
 tags:
   - area/knowledge
   - doc/pdf
@@ -15,9 +16,10 @@ tags:
 ---
 # Noson-S.-Yanofsky-Mirco-A.-Mannucci-Quantum-Computing-for-Computer-Scientists.pdf
 
-## Original File
+## Source Reference
 
-- [[areas/knowledge/source-documents/baidu-sync/Papers/ImportantBooks/Noson-S.-Yanofsky-Mirco-A.-Mannucci-Quantum-Computing-for-Computer-Scientists.pdf|Noson-S.-Yanofsky-Mirco-A.-Mannucci-Quantum-Computing-for-Computer-Scientists.pdf]]
+- Source ID: `baidu-sync:9b665b1c824a`
+- Source vault path: `raw/baidu-sync/Papers/ImportantBooks/Noson-S.-Yanofsky-Mirco-A.-Mannucci-Quantum-Computing-for-Computer-Scientists.pdf`
 
 ## Related Topics
 

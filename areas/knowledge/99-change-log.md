@@ -7,6 +7,19 @@ tags:
 ---
 # Knowledge Area Change Log
 
+## [2026-05-18] refactor | raw sources moved to local source vault
+- Moved PDFs, scans, full OCR, and AnthonyDB raw originals out of the Git-tracked wiki model
+- Added `source-manifests/` with source IDs, local source-vault paths, hashes, sizes, and topic routing
+- Replaced `Original Files In Wiki` references with `Source References`
+- Updated knowledge rules so GitHub keeps curated knowledge, not original source material
+
+## [2026-05-18] ingest | historical handwritten notebooks recorded
+- Added `historical-notebooks/` as a retained collection for historical handwritten/OCR learning notes
+- Moved Notebook 1 and Notebook 2 OCR Markdown into the local source vault
+- Moved `notebook2.pdf` into the local source vault
+- Added a Notebook 1 scan manifest instead of bulk-copying the 1.9 GB raw scan bundle
+- Linked the collection into the knowledge index and routed its clusters to existing topic nodes
+
 ## [2026-04-26] ingest | Ontology research recorded
 - Added the full-text `Ontology在现代AI系统中的演化与应用` research note under `resources/research/`
 - Promoted `Ontology / 本体` as a durable knowledge topic

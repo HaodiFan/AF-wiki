@@ -39,6 +39,7 @@ It connects concept nodes, curated research notes, and future lead/research prom
 
 ## Anchor notes
 
+- [[../historical-notebooks/notebook2-llm-reasoning-agentic-rl-ai4science|Notebook 2 - LLM Reasoning, Agentic RL, OS Agents, and AI4Science]]
 - [[../anthonydb-research/agent-memory-infrastructure-survey-2024-2026-智能体记忆基础设施综述|Agent Memory Infrastructure Survey]]
 - [[../anthonydb-research/cognitive-architecture-agent-core-landscape-认知架构与智能体核心全景|Cognitive Architecture Agent-Core Landscape]]
 - [[../anthonydb-research/openclaw-vs-nanoclaw-architecture-selection-OpenClaw与NanoClaw架构选型|OpenClaw vs NanoClaw Architecture Selection]]

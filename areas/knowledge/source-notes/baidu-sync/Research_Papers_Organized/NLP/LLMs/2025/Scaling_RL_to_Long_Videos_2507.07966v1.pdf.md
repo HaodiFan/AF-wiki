@@ -4,7 +4,8 @@ type: source-note
 area: knowledge
 status: archived
 source: baidu-sync
-source_file: "areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/LLMs/2025/Scaling_RL_to_Long_Videos_2507.07966v1.pdf"
+source_id: "baidu-sync:8e4d30817e71"
+source_vault_path: "raw/baidu-sync/Research_Papers_Organized/NLP/LLMs/2025/Scaling_RL_to_Long_Videos_2507.07966v1.pdf"
 tags:
   - area/knowledge
   - doc/pdf
@@ -17,9 +18,10 @@ tags:
 ---
 # Scaling_RL_to_Long_Videos_2507.07966v1.pdf
 
-## Original File
+## Source Reference
 
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/LLMs/2025/Scaling_RL_to_Long_Videos_2507.07966v1.pdf|Scaling_RL_to_Long_Videos_2507.07966v1.pdf]]
+- Source ID: `baidu-sync:8e4d30817e71`
+- Source vault path: `raw/baidu-sync/Research_Papers_Organized/NLP/LLMs/2025/Scaling_RL_to_Long_Videos_2507.07966v1.pdf`
 
 ## Related Topics
 

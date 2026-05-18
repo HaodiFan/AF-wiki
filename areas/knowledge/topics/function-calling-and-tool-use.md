@@ -30,14 +30,14 @@ This topic sits between model capability and runtime design: the model proposes 
 - It directly affects [[agent-runtime|Agent Runtime]], [[agent-harness-engineering|Agent Harness Engineering]], and [[workflow-runtime|Workflow Runtime]].
 - Data quality and evaluation remain central because tool schemas alone do not guarantee correct tool behavior.
 
-## Original Files In Wiki
+## Source References
 
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/Function_Calling/2023/Toolformer Language Models Can Teach Themselves to Use Tools.pdf|Toolformer Language Models Can Teach Themselves to Use Tools.pdf]]
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/Function_Calling/2023/Gorilla Large Language Model Connected with Massive APIs.pdf|Gorilla Large Language Model Connected with Massive APIs.pdf]]
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/Function_Calling/2023/ToolLLM Large Language Models Can Master 16000+ Real-world APIs.pdf|ToolLLM Large Language Models Can Master 16000+ Real-world APIs.pdf]]
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/Function_Calling/2021/WebGPT Browser-assisted question-answering with human feedback.pdf|WebGPT Browser-assisted question-answering with human feedback.pdf]]
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/AI4Science/Function_Calling/2024/Fastino Function Calling Datasets.pdf|Fastino Function Calling Datasets.pdf]]
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/AI4Science/Function_Calling/2024/AI4Science中function calling数据集与自动化实验系统调研.pdf|AI4Science中function calling数据集与自动化实验系统调研.pdf]]
+- `baidu-sync:afa55696a16f` — Toolformer Language Models Can Teach Themselves to Use Tools.pdf
+- `baidu-sync:69765c615a48` — Gorilla Large Language Model Connected with Massive APIs.pdf
+- `baidu-sync:d573ace33b8f` — ToolLLM Large Language Models Can Master 16000+ Real-world APIs.pdf
+- `baidu-sync:b5dadcc148f7` — WebGPT Browser-assisted question-answering with human feedback.pdf
+- `baidu-sync:c3c85cee356b` — Fastino Function Calling Datasets.pdf
+- `baidu-sync:acddc702990a` — AI4Science中function calling数据集与自动化实验系统调研.pdf
 
 ## Related topics
 

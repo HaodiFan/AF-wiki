@@ -4,7 +4,8 @@ type: source-note
 area: knowledge
 status: archived
 source: baidu-sync
-source_file: "areas/knowledge/source-documents/baidu-sync/DeepResearch/PretrainingDatasetsTrend.pdf"
+source_id: "baidu-sync:f6f877e5a8c6"
+source_vault_path: "raw/baidu-sync/DeepResearch/PretrainingDatasetsTrend.pdf"
 tags:
   - area/knowledge
   - doc/pdf
@@ -16,9 +17,10 @@ tags:
 ---
 # PretrainingDatasetsTrend.pdf
 
-## Original File
+## Source Reference
 
-- [[areas/knowledge/source-documents/baidu-sync/DeepResearch/PretrainingDatasetsTrend.pdf|PretrainingDatasetsTrend.pdf]]
+- Source ID: `baidu-sync:f6f877e5a8c6`
+- Source vault path: `raw/baidu-sync/DeepResearch/PretrainingDatasetsTrend.pdf`
 
 ## Related Topics
 

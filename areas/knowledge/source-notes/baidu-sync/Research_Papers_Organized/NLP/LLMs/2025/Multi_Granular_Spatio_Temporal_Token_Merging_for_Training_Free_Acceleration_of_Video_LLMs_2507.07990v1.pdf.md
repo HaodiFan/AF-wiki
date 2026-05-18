@@ -4,7 +4,8 @@ type: source-note
 area: knowledge
 status: archived
 source: baidu-sync
-source_file: "areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/LLMs/2025/Multi_Granular_Spatio_Temporal_Token_Merging_for_Training_Free_Acceleration_of_Video_LLMs_2507.07990v1.pdf"
+source_id: "baidu-sync:a291ded60208"
+source_vault_path: "raw/baidu-sync/Research_Papers_Organized/NLP/LLMs/2025/Multi_Granular_Spatio_Temporal_Token_Merging_for_Training_Free_Acceleration_of_Video_LLMs_2507.07990v1.pdf"
 tags:
   - area/knowledge
   - doc/pdf
@@ -17,9 +18,10 @@ tags:
 ---
 # Multi_Granular_Spatio_Temporal_Token_Merging_for_Training_Free_Acceleration_of_Video_LLMs_2507.07990v1.pdf
 
-## Original File
+## Source Reference
 
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/LLMs/2025/Multi_Granular_Spatio_Temporal_Token_Merging_for_Training_Free_Acceleration_of_Video_LLMs_2507.07990v1.pdf|Multi_Granular_Spatio_Temporal_Token_Merging_for_Training_Free_Acceleration_of_Video_LLMs_2507.07990v1.pdf]]
+- Source ID: `baidu-sync:a291ded60208`
+- Source vault path: `raw/baidu-sync/Research_Papers_Organized/NLP/LLMs/2025/Multi_Granular_Spatio_Temporal_Token_Merging_for_Training_Free_Acceleration_of_Video_LLMs_2507.07990v1.pdf`
 
 ## Related Topics
 

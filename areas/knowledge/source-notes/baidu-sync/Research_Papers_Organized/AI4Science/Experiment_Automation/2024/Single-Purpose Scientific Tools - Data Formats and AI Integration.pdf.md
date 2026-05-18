@@ -4,7 +4,8 @@ type: source-note
 area: knowledge
 status: archived
 source: baidu-sync
-source_file: "areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/AI4Science/Experiment_Automation/2024/Single-Purpose Scientific Tools - Data Formats and AI Integration.pdf"
+source_id: "baidu-sync:ec2869760ac6"
+source_vault_path: "raw/baidu-sync/Research_Papers_Organized/AI4Science/Experiment_Automation/2024/Single-Purpose Scientific Tools - Data Formats and AI Integration.pdf"
 tags:
   - area/knowledge
   - doc/pdf
@@ -18,9 +19,10 @@ tags:
 ---
 # Single-Purpose Scientific Tools - Data Formats and AI Integration.pdf
 
-## Original File
+## Source Reference
 
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/AI4Science/Experiment_Automation/2024/Single-Purpose Scientific Tools - Data Formats and AI Integration.pdf|Single-Purpose Scientific Tools - Data Formats and AI Integration.pdf]]
+- Source ID: `baidu-sync:ec2869760ac6`
+- Source vault path: `raw/baidu-sync/Research_Papers_Organized/AI4Science/Experiment_Automation/2024/Single-Purpose Scientific Tools - Data Formats and AI Integration.pdf`
 
 ## Related Topics
 

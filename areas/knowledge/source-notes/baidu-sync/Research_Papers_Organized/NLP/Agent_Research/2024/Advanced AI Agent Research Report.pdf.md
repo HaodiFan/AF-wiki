@@ -4,7 +4,8 @@ type: source-note
 area: knowledge
 status: archived
 source: baidu-sync
-source_file: "areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/2024/Advanced AI Agent Research Report.pdf"
+source_id: "baidu-sync:e5e86d7fec46"
+source_vault_path: "raw/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/2024/Advanced AI Agent Research Report.pdf"
 tags:
   - area/knowledge
   - doc/pdf
@@ -18,9 +19,10 @@ tags:
 ---
 # Advanced AI Agent Research Report.pdf
 
-## Original File
+## Source Reference
 
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/2024/Advanced AI Agent Research Report.pdf|Advanced AI Agent Research Report.pdf]]
+- Source ID: `baidu-sync:e5e86d7fec46`
+- Source vault path: `raw/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/2024/Advanced AI Agent Research Report.pdf`
 
 ## Related Topics
 

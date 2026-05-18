@@ -4,7 +4,8 @@ type: source-note
 area: knowledge
 status: archived
 source: baidu-sync
-source_file: "areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/LLMs/2025/OST_Bench_Evaluating_the_Capabilities_of_MLLMs_in_Online_Spatio_temporal_Scene_Understanding_2507.07984v1.pdf"
+source_id: "baidu-sync:607725b35dc3"
+source_vault_path: "raw/baidu-sync/Research_Papers_Organized/NLP/LLMs/2025/OST_Bench_Evaluating_the_Capabilities_of_MLLMs_in_Online_Spatio_temporal_Scene_Understanding_2507.07984v1.pdf"
 tags:
   - area/knowledge
   - doc/pdf
@@ -17,9 +18,10 @@ tags:
 ---
 # OST_Bench_Evaluating_the_Capabilities_of_MLLMs_in_Online_Spatio_temporal_Scene_Understanding_2507.07984v1.pdf
 
-## Original File
+## Source Reference
 
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/LLMs/2025/OST_Bench_Evaluating_the_Capabilities_of_MLLMs_in_Online_Spatio_temporal_Scene_Understanding_2507.07984v1.pdf|OST_Bench_Evaluating_the_Capabilities_of_MLLMs_in_Online_Spatio_temporal_Scene_Understanding_2507.07984v1.pdf]]
+- Source ID: `baidu-sync:607725b35dc3`
+- Source vault path: `raw/baidu-sync/Research_Papers_Organized/NLP/LLMs/2025/OST_Bench_Evaluating_the_Capabilities_of_MLLMs_in_Online_Spatio_temporal_Scene_Understanding_2507.07984v1.pdf`
 
 ## Related Topics
 

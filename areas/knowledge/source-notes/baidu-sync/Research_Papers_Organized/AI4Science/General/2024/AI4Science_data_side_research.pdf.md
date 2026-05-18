@@ -4,7 +4,8 @@ type: source-note
 area: knowledge
 status: archived
 source: baidu-sync
-source_file: "areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/AI4Science/General/2024/AI4Science_data_side_research.pdf"
+source_id: "baidu-sync:6860b3b68803"
+source_vault_path: "raw/baidu-sync/Research_Papers_Organized/AI4Science/General/2024/AI4Science_data_side_research.pdf"
 tags:
   - area/knowledge
   - doc/pdf
@@ -17,9 +18,10 @@ tags:
 ---
 # AI4Science_data_side_research.pdf
 
-## Original File
+## Source Reference
 
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/AI4Science/General/2024/AI4Science_data_side_research.pdf|AI4Science_data_side_research.pdf]]
+- Source ID: `baidu-sync:6860b3b68803`
+- Source vault path: `raw/baidu-sync/Research_Papers_Organized/AI4Science/General/2024/AI4Science_data_side_research.pdf`
 
 ## Related Topics
 

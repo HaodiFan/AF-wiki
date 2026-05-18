@@ -4,7 +4,8 @@ type: source-note
 area: knowledge
 status: archived
 source: baidu-sync
-source_file: "areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/NonAI/2025/Synthesizing_Sun_as_a_star_flare_spectra_from_high_resolution_solar_observations_2507.07967v1.pdf"
+source_id: "baidu-sync:cac02355916c"
+source_vault_path: "raw/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/NonAI/2025/Synthesizing_Sun_as_a_star_flare_spectra_from_high_resolution_solar_observations_2507.07967v1.pdf"
 tags:
   - area/knowledge
   - doc/pdf
@@ -18,9 +19,10 @@ tags:
 ---
 # Synthesizing_Sun_as_a_star_flare_spectra_from_high_resolution_solar_observations_2507.07967v1.pdf
 
-## Original File
+## Source Reference
 
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/NonAI/2025/Synthesizing_Sun_as_a_star_flare_spectra_from_high_resolution_solar_observations_2507.07967v1.pdf|Synthesizing_Sun_as_a_star_flare_spectra_from_high_resolution_solar_observations_2507.07967v1.pdf]]
+- Source ID: `baidu-sync:cac02355916c`
+- Source vault path: `raw/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/NonAI/2025/Synthesizing_Sun_as_a_star_flare_spectra_from_high_resolution_solar_observations_2507.07967v1.pdf`
 
 ## Related Topics
 

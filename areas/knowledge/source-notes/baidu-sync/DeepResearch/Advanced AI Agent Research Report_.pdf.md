@@ -4,7 +4,8 @@ type: source-note
 area: knowledge
 status: archived
 source: baidu-sync
-source_file: "areas/knowledge/source-documents/baidu-sync/DeepResearch/Advanced AI Agent Research Report_.pdf"
+source_id: "baidu-sync:c566cc061ae9"
+source_vault_path: "raw/baidu-sync/DeepResearch/Advanced AI Agent Research Report_.pdf"
 tags:
   - area/knowledge
   - doc/pdf
@@ -17,9 +18,10 @@ tags:
 ---
 # Advanced AI Agent Research Report_.pdf
 
-## Original File
+## Source Reference
 
-- [[areas/knowledge/source-documents/baidu-sync/DeepResearch/Advanced AI Agent Research Report_.pdf|Advanced AI Agent Research Report_.pdf]]
+- Source ID: `baidu-sync:c566cc061ae9`
+- Source vault path: `raw/baidu-sync/DeepResearch/Advanced AI Agent Research Report_.pdf`
 
 ## Related Topics
 

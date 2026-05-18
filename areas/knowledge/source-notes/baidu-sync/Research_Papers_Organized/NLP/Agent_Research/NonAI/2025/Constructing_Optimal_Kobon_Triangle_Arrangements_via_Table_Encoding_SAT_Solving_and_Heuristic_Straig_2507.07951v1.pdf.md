@@ -4,7 +4,8 @@ type: source-note
 area: knowledge
 status: archived
 source: baidu-sync
-source_file: "areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/NonAI/2025/Constructing_Optimal_Kobon_Triangle_Arrangements_via_Table_Encoding_SAT_Solving_and_Heuristic_Straig_2507.07951v1.pdf"
+source_id: "baidu-sync:54eda36c5461"
+source_vault_path: "raw/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/NonAI/2025/Constructing_Optimal_Kobon_Triangle_Arrangements_via_Table_Encoding_SAT_Solving_and_Heuristic_Straig_2507.07951v1.pdf"
 tags:
   - area/knowledge
   - doc/pdf
@@ -18,9 +19,10 @@ tags:
 ---
 # Constructing_Optimal_Kobon_Triangle_Arrangements_via_Table_Encoding_SAT_Solving_and_Heuristic_Straig_2507.07951v1.pdf
 
-## Original File
+## Source Reference
 
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/NonAI/2025/Constructing_Optimal_Kobon_Triangle_Arrangements_via_Table_Encoding_SAT_Solving_and_Heuristic_Straig_2507.07951v1.pdf|Constructing_Optimal_Kobon_Triangle_Arrangements_via_Table_Encoding_SAT_Solving_and_Heuristic_Straig_2507.07951v1.pdf]]
+- Source ID: `baidu-sync:54eda36c5461`
+- Source vault path: `raw/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/NonAI/2025/Constructing_Optimal_Kobon_Triangle_Arrangements_via_Table_Encoding_SAT_Solving_and_Heuristic_Straig_2507.07951v1.pdf`
 
 ## Related Topics
 

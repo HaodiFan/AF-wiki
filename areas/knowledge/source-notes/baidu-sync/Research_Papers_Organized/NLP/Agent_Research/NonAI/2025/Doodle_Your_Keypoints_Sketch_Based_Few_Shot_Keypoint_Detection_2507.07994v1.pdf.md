@@ -4,7 +4,8 @@ type: source-note
 area: knowledge
 status: archived
 source: baidu-sync
-source_file: "areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/NonAI/2025/Doodle_Your_Keypoints_Sketch_Based_Few_Shot_Keypoint_Detection_2507.07994v1.pdf"
+source_id: "baidu-sync:377150b13133"
+source_vault_path: "raw/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/NonAI/2025/Doodle_Your_Keypoints_Sketch_Based_Few_Shot_Keypoint_Detection_2507.07994v1.pdf"
 tags:
   - area/knowledge
   - doc/pdf
@@ -18,9 +19,10 @@ tags:
 ---
 # Doodle_Your_Keypoints_Sketch_Based_Few_Shot_Keypoint_Detection_2507.07994v1.pdf
 
-## Original File
+## Source Reference
 
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/NonAI/2025/Doodle_Your_Keypoints_Sketch_Based_Few_Shot_Keypoint_Detection_2507.07994v1.pdf|Doodle_Your_Keypoints_Sketch_Based_Few_Shot_Keypoint_Detection_2507.07994v1.pdf]]
+- Source ID: `baidu-sync:377150b13133`
+- Source vault path: `raw/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/NonAI/2025/Doodle_Your_Keypoints_Sketch_Based_Few_Shot_Keypoint_Detection_2507.07994v1.pdf`
 
 ## Related Topics
 

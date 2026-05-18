@@ -4,7 +4,8 @@ type: source-note
 area: knowledge
 status: archived
 source: baidu-sync
-source_file: "areas/knowledge/source-documents/baidu-sync/Papers/Important Papers/UI-TARS-2.pdf"
+source_id: "baidu-sync:7ce607afcf73"
+source_vault_path: "raw/baidu-sync/Papers/Important Papers/UI-TARS-2.pdf"
 tags:
   - area/knowledge
   - doc/pdf
@@ -17,9 +18,10 @@ tags:
 ---
 # UI-TARS-2.pdf
 
-## Original File
+## Source Reference
 
-- [[areas/knowledge/source-documents/baidu-sync/Papers/Important Papers/UI-TARS-2.pdf|UI-TARS-2.pdf]]
+- Source ID: `baidu-sync:7ce607afcf73`
+- Source vault path: `raw/baidu-sync/Papers/Important Papers/UI-TARS-2.pdf`
 
 ## Related Topics
 

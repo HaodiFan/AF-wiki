@@ -4,7 +4,8 @@ type: source-note
 area: knowledge
 status: archived
 source: baidu-sync
-source_file: "areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/Business_Reports/Industry_Analysis/2024/Hype Cycle for Data Management 2024.pdf"
+source_id: "baidu-sync:d77c5f792a4e"
+source_vault_path: "raw/baidu-sync/Research_Papers_Organized/Business_Reports/Industry_Analysis/2024/Hype Cycle for Data Management 2024.pdf"
 tags:
   - area/knowledge
   - doc/pdf
@@ -17,9 +18,10 @@ tags:
 ---
 # Hype Cycle for Data Management 2024.pdf
 
-## Original File
+## Source Reference
 
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/Business_Reports/Industry_Analysis/2024/Hype Cycle for Data Management 2024.pdf|Hype Cycle for Data Management 2024.pdf]]
+- Source ID: `baidu-sync:d77c5f792a4e`
+- Source vault path: `raw/baidu-sync/Research_Papers_Organized/Business_Reports/Industry_Analysis/2024/Hype Cycle for Data Management 2024.pdf`
 
 ## Related Topics
 

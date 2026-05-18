@@ -4,7 +4,8 @@ type: source-note
 area: knowledge
 status: archived
 source: baidu-sync
-source_file: "areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/NonAI/2025/Correlations_and_quantum_circuits_with_dynamical_causal_order_2507.07992v1.pdf"
+source_id: "baidu-sync:f97cda198c1f"
+source_vault_path: "raw/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/NonAI/2025/Correlations_and_quantum_circuits_with_dynamical_causal_order_2507.07992v1.pdf"
 tags:
   - area/knowledge
   - doc/pdf
@@ -18,9 +19,10 @@ tags:
 ---
 # Correlations_and_quantum_circuits_with_dynamical_causal_order_2507.07992v1.pdf
 
-## Original File
+## Source Reference
 
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/NonAI/2025/Correlations_and_quantum_circuits_with_dynamical_causal_order_2507.07992v1.pdf|Correlations_and_quantum_circuits_with_dynamical_causal_order_2507.07992v1.pdf]]
+- Source ID: `baidu-sync:f97cda198c1f`
+- Source vault path: `raw/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/NonAI/2025/Correlations_and_quantum_circuits_with_dynamical_causal_order_2507.07992v1.pdf`
 
 ## Related Topics
 

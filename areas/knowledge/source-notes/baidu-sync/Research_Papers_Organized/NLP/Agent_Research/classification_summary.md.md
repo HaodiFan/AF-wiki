@@ -4,7 +4,8 @@ type: source-note
 area: knowledge
 status: archived
 source: baidu-sync
-source_file: "areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/classification_summary.md"
+source_id: "baidu-sync:5444d7732414"
+source_vault_path: "raw/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/classification_summary.md"
 tags:
   - area/knowledge
   - doc/markdown
@@ -15,9 +16,10 @@ tags:
 ---
 # classification_summary.md
 
-## Original File
+## Source Reference
 
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/classification_summary.md|classification_summary.md]]
+- Source ID: `baidu-sync:5444d7732414`
+- Source vault path: `raw/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/classification_summary.md`
 
 ## Related Topics
 

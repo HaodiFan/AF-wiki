@@ -4,7 +4,8 @@ type: source-note
 area: knowledge
 status: archived
 source: baidu-sync
-source_file: "areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/AI4Science/Experiment_Automation/2024/AI4Science实验器材调用调研.pdf"
+source_id: "baidu-sync:40f379bce408"
+source_vault_path: "raw/baidu-sync/Research_Papers_Organized/AI4Science/Experiment_Automation/2024/AI4Science实验器材调用调研.pdf"
 tags:
   - area/knowledge
   - doc/pdf
@@ -16,9 +17,10 @@ tags:
 ---
 # AI4Science实验器材调用调研.pdf
 
-## Original File
+## Source Reference
 
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/AI4Science/Experiment_Automation/2024/AI4Science实验器材调用调研.pdf|AI4Science实验器材调用调研.pdf]]
+- Source ID: `baidu-sync:40f379bce408`
+- Source vault path: `raw/baidu-sync/Research_Papers_Organized/AI4Science/Experiment_Automation/2024/AI4Science实验器材调用调研.pdf`
 
 ## Related Topics
 

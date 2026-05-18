@@ -4,7 +4,8 @@ type: source-note
 area: knowledge
 status: archived
 source: baidu-sync
-source_file: "areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/AI4Science/Self-Evolving_LLMs/2024/Self-Evolving LLM 全景式调研报告 - Gödel Machine 理论指导下的 AI.pdf"
+source_id: "baidu-sync:0605eefa5ee3"
+source_vault_path: "raw/baidu-sync/Research_Papers_Organized/AI4Science/Self-Evolving_LLMs/2024/Self-Evolving LLM 全景式调研报告 - Gödel Machine 理论指导下的 AI.pdf"
 tags:
   - area/knowledge
   - doc/pdf
@@ -18,9 +19,10 @@ tags:
 ---
 # Self-Evolving LLM 全景式调研报告 - Gödel Machine 理论指导下的 AI.pdf
 
-## Original File
+## Source Reference
 
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/AI4Science/Self-Evolving_LLMs/2024/Self-Evolving LLM 全景式调研报告 - Gödel Machine 理论指导下的 AI.pdf|Self-Evolving LLM 全景式调研报告 - Gödel Machine 理论指导下的 AI.pdf]]
+- Source ID: `baidu-sync:0605eefa5ee3`
+- Source vault path: `raw/baidu-sync/Research_Papers_Organized/AI4Science/Self-Evolving_LLMs/2024/Self-Evolving LLM 全景式调研报告 - Gödel Machine 理论指导下的 AI.pdf`
 
 ## Related Topics
 

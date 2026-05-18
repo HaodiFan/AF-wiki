@@ -4,7 +4,8 @@ type: source-note
 area: knowledge
 status: archived
 source: baidu-sync
-source_file: "areas/knowledge/source-documents/baidu-sync/DeepResearch/ASI_Progress_DeepResearch_2025.pdf.pdf"
+source_id: "baidu-sync:9dcb12a7ec24"
+source_vault_path: "raw/baidu-sync/DeepResearch/ASI_Progress_DeepResearch_2025.pdf.pdf"
 tags:
   - area/knowledge
   - doc/pdf
@@ -16,9 +17,10 @@ tags:
 ---
 # ASI_Progress_DeepResearch_2025.pdf.pdf
 
-## Original File
+## Source Reference
 
-- [[areas/knowledge/source-documents/baidu-sync/DeepResearch/ASI_Progress_DeepResearch_2025.pdf.pdf|ASI_Progress_DeepResearch_2025.pdf.pdf]]
+- Source ID: `baidu-sync:9dcb12a7ec24`
+- Source vault path: `raw/baidu-sync/DeepResearch/ASI_Progress_DeepResearch_2025.pdf.pdf`
 
 ## Related Topics
 

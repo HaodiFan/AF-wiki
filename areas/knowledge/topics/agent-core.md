@@ -33,14 +33,14 @@ In this wiki, it is treated as a family of design choices rather than one fixed 
 - [[../anthonydb-research/cognitive-architecture-agent-core-landscape-认知架构与智能体核心全景|Cognitive Architecture Agent-Core Landscape]] — anchor note for agent-core taxonomy.
 - [[../anthonydb-research/openclaw-vs-nanoclaw-architecture-selection-OpenClaw与NanoClaw架构选型|OpenClaw vs NanoClaw Architecture Selection]] — engineering comparison of two agent-core/runtime styles.
 
-## Original Files In Wiki
+## Source References
 
-- [[areas/knowledge/source-documents/baidu-sync/Papers/Important Papers/A Review of 40 Years in Cognitive Architecture Research Core Cognitive Abilities and Practical Applications.pdf|A Review of 40 Years in Cognitive Architecture Research Core Cognitive Abilities and Practical Applications.pdf]]
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/LLMs/2024/Cognitive LLMs Towards Integrating Cognitive Architectures and Large.pdf|Cognitive LLMs Towards Integrating Cognitive Architectures and Large.pdf]]
-- [[areas/knowledge/source-documents/baidu-sync/DeepResearch/认知架构与LLM Agent的再相逢.pdf|认知架构与LLM Agent的再相逢.pdf]]
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/2022/ReAct Synergizing Reasoning and Acting in Language Models.pdf|ReAct Synergizing Reasoning and Acting in Language Models.pdf]]
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/2023/HuggingGPT Solving AI Tasks with ChatGPT and its Friends in Hugging Face.pdf|HuggingGPT Solving AI Tasks with ChatGPT and its Friends in Hugging Face.pdf]]
-- [[areas/knowledge/source-documents/baidu-sync/Papers/Important Papers/definition of AGI.pdf|definition of AGI.pdf]]
+- `baidu-sync:37fc6ef79a66` — A Review of 40 Years in Cognitive Architecture Research Core Cognitive Abilities and Practical Applications.pdf
+- `baidu-sync:d56d59d20fc6` — Cognitive LLMs Towards Integrating Cognitive Architectures and Large.pdf
+- `baidu-sync:943e6dba58a4` — 认知架构与LLM Agent的再相逢.pdf
+- `baidu-sync:f0af1bfe5001` — ReAct Synergizing Reasoning and Acting in Language Models.pdf
+- `baidu-sync:1cfb0dbcc682` — HuggingGPT Solving AI Tasks with ChatGPT and its Friends in Hugging Face.pdf
+- `baidu-sync:4735406ed058` — definition of AGI.pdf
 
 ## Related topics
 

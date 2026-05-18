@@ -35,10 +35,10 @@ In this wiki, the term covers retrieval memory, structured memory, graph memory,
 - [[../anthonydb-research/cognitive-architecture-agent-core-landscape-认知架构与智能体核心全景|Cognitive Architecture Agent-Core Landscape]] — relates memory to classical control-loop architectures.
 - [[../anthonydb-research/fruit-fly-connectome-to-embodied-simulation-果蝇连接组到具身仿真|Fruit-Fly Connectome to Embodied Simulation]] — adjacent reference for structure priors and memory/control continuity.
 
-## Original Files In Wiki
+## Source References
 
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/2025/MIRIX_Multi_Agent_Memory_System_for_LLM_Based_Agents_2507.07957v1.pdf|MIRIX_Multi_Agent_Memory_System_for_LLM_Based_Agents_2507.07957v1.pdf]]
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/NonAI/2024/Knowledge Management in the Companion Cognitive Architecture.pdf|Knowledge Management in the Companion Cognitive Architecture.pdf]]
+- `baidu-sync:39a5ea164a5a` — MIRIX_Multi_Agent_Memory_System_for_LLM_Based_Agents_2507.07957v1.pdf
+- `baidu-sync:31656e895776` — Knowledge Management in the Companion Cognitive Architecture.pdf
 
 ## Related topics
 

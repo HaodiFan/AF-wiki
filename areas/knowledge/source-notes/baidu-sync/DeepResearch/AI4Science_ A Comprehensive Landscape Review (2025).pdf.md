@@ -4,7 +4,8 @@ type: source-note
 area: knowledge
 status: archived
 source: baidu-sync
-source_file: "areas/knowledge/source-documents/baidu-sync/DeepResearch/AI4Science_ A Comprehensive Landscape Review (2025).pdf"
+source_id: "baidu-sync:4dee40f95dba"
+source_vault_path: "raw/baidu-sync/DeepResearch/AI4Science_ A Comprehensive Landscape Review (2025).pdf"
 tags:
   - area/knowledge
   - doc/pdf
@@ -16,9 +17,10 @@ tags:
 ---
 # AI4Science_ A Comprehensive Landscape Review (2025).pdf
 
-## Original File
+## Source Reference
 
-- [[areas/knowledge/source-documents/baidu-sync/DeepResearch/AI4Science_ A Comprehensive Landscape Review (2025).pdf|AI4Science_ A Comprehensive Landscape Review (2025).pdf]]
+- Source ID: `baidu-sync:4dee40f95dba`
+- Source vault path: `raw/baidu-sync/DeepResearch/AI4Science_ A Comprehensive Landscape Review (2025).pdf`
 
 ## Related Topics
 

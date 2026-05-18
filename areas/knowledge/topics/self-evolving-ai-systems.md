@@ -28,13 +28,13 @@ In this wiki, the topic is connected to harness engineering because durable self
 - It forces a clear distinction between self-editing, self-evaluation, self-training, and runtime adaptation.
 - It depends on [[agent-harness-engineering|Agent Harness Engineering]] and [[workflow-runtime|Workflow Runtime]] for guardrails and reproducibility.
 
-## Original Files In Wiki
+## Source References
 
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/AI4Science/Self-Evolving_LLMs/2024/Self-Evolving AI Systems - A Long-Term Research Roadmap.pdf|Self-Evolving AI Systems - A Long-Term Research Roadmap.pdf]]
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/AI4Science/Self-Evolving_LLMs/2024/Self-Evolving LLMs - Paradigms and Progress.pdf|Self-Evolving LLMs - Paradigms and Progress.pdf]]
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/AI4Science/Self-Evolving_LLMs/2024/Self-Evolving LLM 全景式调研报告 - Gödel Machine 理论指导下的 AI.pdf|Self-Evolving LLM 全景式调研报告 - Gödel Machine 理论指导下的 AI.pdf]]
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/AI4Science/Self-Evolving_LLMs/2024/递归自我改进 AI 研究时间线 (2024–2025).pdf|递归自我改进 AI 研究时间线 (2024–2025).pdf]]
-- [[areas/knowledge/source-documents/baidu-sync/DeepResearch/ASI_Progress_DeepResearch_2025.pdf.pdf|ASI_Progress_DeepResearch_2025.pdf.pdf]]
+- `baidu-sync:e3292bb5882c` — Self-Evolving AI Systems - A Long-Term Research Roadmap.pdf
+- `baidu-sync:058c4ef3f527` — Self-Evolving LLMs - Paradigms and Progress.pdf
+- `baidu-sync:0605eefa5ee3` — Self-Evolving LLM 全景式调研报告 - Gödel Machine 理论指导下的 AI.pdf
+- `baidu-sync:c1bdbcda979c` — 递归自我改进 AI 研究时间线 (2024–2025).pdf
+- `baidu-sync:9dcb12a7ec24` — ASI_Progress_DeepResearch_2025.pdf.pdf
 
 ## Related topics
 

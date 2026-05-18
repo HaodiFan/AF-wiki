@@ -4,7 +4,8 @@ type: source-note
 area: knowledge
 status: archived
 source: baidu-sync
-source_file: "areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/Function_Calling/2023/Gorilla Large Language Model Connected with Massive APIs.pdf"
+source_id: "baidu-sync:69765c615a48"
+source_vault_path: "raw/baidu-sync/Research_Papers_Organized/NLP/Function_Calling/2023/Gorilla Large Language Model Connected with Massive APIs.pdf"
 tags:
   - area/knowledge
   - doc/pdf
@@ -18,9 +19,10 @@ tags:
 ---
 # Gorilla Large Language Model Connected with Massive APIs.pdf
 
-## Original File
+## Source Reference
 
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/Function_Calling/2023/Gorilla Large Language Model Connected with Massive APIs.pdf|Gorilla Large Language Model Connected with Massive APIs.pdf]]
+- Source ID: `baidu-sync:69765c615a48`
+- Source vault path: `raw/baidu-sync/Research_Papers_Organized/NLP/Function_Calling/2023/Gorilla Large Language Model Connected with Massive APIs.pdf`
 
 ## Related Topics
 

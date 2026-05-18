@@ -4,7 +4,8 @@ type: source-note
 area: knowledge
 status: archived
 source: baidu-sync
-source_file: "areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/LLMs/2025/Humanitys Last Exam.pdf"
+source_id: "baidu-sync:60432948ca7f"
+source_vault_path: "raw/baidu-sync/Research_Papers_Organized/NLP/LLMs/2025/Humanitys Last Exam.pdf"
 tags:
   - area/knowledge
   - doc/pdf
@@ -16,9 +17,10 @@ tags:
 ---
 # Humanitys Last Exam.pdf
 
-## Original File
+## Source Reference
 
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/LLMs/2025/Humanitys Last Exam.pdf|Humanitys Last Exam.pdf]]
+- Source ID: `baidu-sync:60432948ca7f`
+- Source vault path: `raw/baidu-sync/Research_Papers_Organized/NLP/LLMs/2025/Humanitys Last Exam.pdf`
 
 ## Related Topics
 

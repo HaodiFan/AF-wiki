@@ -4,7 +4,8 @@ type: source-note
 area: knowledge
 status: archived
 source: baidu-sync
-source_file: "areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/2025/s1Simple test-time scaling.pdf"
+source_id: "baidu-sync:0cc5efbdbd82"
+source_vault_path: "raw/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/2025/s1Simple test-time scaling.pdf"
 tags:
   - area/knowledge
   - doc/pdf
@@ -17,9 +18,10 @@ tags:
 ---
 # s1Simple test-time scaling.pdf
 
-## Original File
+## Source Reference
 
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/2025/s1Simple test-time scaling.pdf|s1Simple test-time scaling.pdf]]
+- Source ID: `baidu-sync:0cc5efbdbd82`
+- Source vault path: `raw/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/2025/s1Simple test-time scaling.pdf`
 
 ## Related Topics
 

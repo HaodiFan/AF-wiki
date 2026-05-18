@@ -4,7 +4,8 @@ type: source-note
 area: knowledge
 status: archived
 source: baidu-sync
-source_file: "areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/LLMs/2025/Automating_MD_simulations_for_Proteins_using_Large_language_Models_NAMD_Agent_2507.07887v1.pdf"
+source_id: "baidu-sync:aab42300e946"
+source_vault_path: "raw/baidu-sync/Research_Papers_Organized/NLP/LLMs/2025/Automating_MD_simulations_for_Proteins_using_Large_language_Models_NAMD_Agent_2507.07887v1.pdf"
 tags:
   - area/knowledge
   - doc/pdf
@@ -17,9 +18,10 @@ tags:
 ---
 # Automating_MD_simulations_for_Proteins_using_Large_language_Models_NAMD_Agent_2507.07887v1.pdf
 
-## Original File
+## Source Reference
 
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/LLMs/2025/Automating_MD_simulations_for_Proteins_using_Large_language_Models_NAMD_Agent_2507.07887v1.pdf|Automating_MD_simulations_for_Proteins_using_Large_language_Models_NAMD_Agent_2507.07887v1.pdf]]
+- Source ID: `baidu-sync:aab42300e946`
+- Source vault path: `raw/baidu-sync/Research_Papers_Organized/NLP/LLMs/2025/Automating_MD_simulations_for_Proteins_using_Large_language_Models_NAMD_Agent_2507.07887v1.pdf`
 
 ## Related Topics
 

@@ -4,7 +4,8 @@ type: source-note
 area: knowledge
 status: archived
 source: baidu-sync
-source_file: "areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/2025/Impact of Pretraining Word Co-occurrence on Compositional Generalization in Mult.pdf"
+source_id: "baidu-sync:b7e65bdc1c03"
+source_vault_path: "raw/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/2025/Impact of Pretraining Word Co-occurrence on Compositional Generalization in Mult.pdf"
 tags:
   - area/knowledge
   - doc/pdf
@@ -17,9 +18,10 @@ tags:
 ---
 # Impact of Pretraining Word Co-occurrence on Compositional Generalization in Mult.pdf
 
-## Original File
+## Source Reference
 
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/2025/Impact of Pretraining Word Co-occurrence on Compositional Generalization in Mult.pdf|Impact of Pretraining Word Co-occurrence on Compositional Generalization in Mult.pdf]]
+- Source ID: `baidu-sync:b7e65bdc1c03`
+- Source vault path: `raw/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/2025/Impact of Pretraining Word Co-occurrence on Compositional Generalization in Mult.pdf`
 
 ## Related Topics
 

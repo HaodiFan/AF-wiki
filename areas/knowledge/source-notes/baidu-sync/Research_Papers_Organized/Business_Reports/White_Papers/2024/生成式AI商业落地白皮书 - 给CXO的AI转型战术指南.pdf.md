@@ -4,7 +4,8 @@ type: source-note
 area: knowledge
 status: archived
 source: baidu-sync
-source_file: "areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/Business_Reports/White_Papers/2024/生成式AI商业落地白皮书 - 给CXO的AI转型战术指南.pdf"
+source_id: "baidu-sync:69cda427142c"
+source_vault_path: "raw/baidu-sync/Research_Papers_Organized/Business_Reports/White_Papers/2024/生成式AI商业落地白皮书 - 给CXO的AI转型战术指南.pdf"
 tags:
   - area/knowledge
   - doc/pdf
@@ -16,6 +17,7 @@ tags:
 ---
 # 生成式AI商业落地白皮书 - 给CXO的AI转型战术指南.pdf
 
-## Original File
+## Source Reference
 
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/Business_Reports/White_Papers/2024/生成式AI商业落地白皮书 - 给CXO的AI转型战术指南.pdf|生成式AI商业落地白皮书 - 给CXO的AI转型战术指南.pdf]]
+- Source ID: `baidu-sync:69cda427142c`
+- Source vault path: `raw/baidu-sync/Research_Papers_Organized/Business_Reports/White_Papers/2024/生成式AI商业落地白皮书 - 给CXO的AI转型战术指南.pdf`

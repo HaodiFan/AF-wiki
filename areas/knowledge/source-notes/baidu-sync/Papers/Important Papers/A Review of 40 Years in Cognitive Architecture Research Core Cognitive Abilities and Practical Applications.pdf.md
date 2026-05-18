@@ -4,7 +4,8 @@ type: source-note
 area: knowledge
 status: archived
 source: baidu-sync
-source_file: "areas/knowledge/source-documents/baidu-sync/Papers/Important Papers/A Review of 40 Years in Cognitive Architecture Research Core Cognitive Abilities and Practical Applications.pdf"
+source_id: "baidu-sync:37fc6ef79a66"
+source_vault_path: "raw/baidu-sync/Papers/Important Papers/A Review of 40 Years in Cognitive Architecture Research Core Cognitive Abilities and Practical Applications.pdf"
 tags:
   - area/knowledge
   - doc/pdf
@@ -15,9 +16,10 @@ tags:
 ---
 # A Review of 40 Years in Cognitive Architecture Research Core Cognitive Abilities and Practical Applications.pdf
 
-## Original File
+## Source Reference
 
-- [[areas/knowledge/source-documents/baidu-sync/Papers/Important Papers/A Review of 40 Years in Cognitive Architecture Research Core Cognitive Abilities and Practical Applications.pdf|A Review of 40 Years in Cognitive Architecture Research Core Cognitive Abilities and Practical Applications.pdf]]
+- Source ID: `baidu-sync:37fc6ef79a66`
+- Source vault path: `raw/baidu-sync/Papers/Important Papers/A Review of 40 Years in Cognitive Architecture Research Core Cognitive Abilities and Practical Applications.pdf`
 
 ## Related Topics
 

@@ -4,7 +4,8 @@ type: source-note
 area: knowledge
 status: archived
 source: baidu-sync
-source_file: "areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/LLMs/2025/Automating_Expert_Level_Medical_Reasoning_Evaluation_of_Large_Language_Models_2507.07988v1.pdf"
+source_id: "baidu-sync:7f72536e4dd1"
+source_vault_path: "raw/baidu-sync/Research_Papers_Organized/NLP/LLMs/2025/Automating_Expert_Level_Medical_Reasoning_Evaluation_of_Large_Language_Models_2507.07988v1.pdf"
 tags:
   - area/knowledge
   - doc/pdf
@@ -16,9 +17,10 @@ tags:
 ---
 # Automating_Expert_Level_Medical_Reasoning_Evaluation_of_Large_Language_Models_2507.07988v1.pdf
 
-## Original File
+## Source Reference
 
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/LLMs/2025/Automating_Expert_Level_Medical_Reasoning_Evaluation_of_Large_Language_Models_2507.07988v1.pdf|Automating_Expert_Level_Medical_Reasoning_Evaluation_of_Large_Language_Models_2507.07988v1.pdf]]
+- Source ID: `baidu-sync:7f72536e4dd1`
+- Source vault path: `raw/baidu-sync/Research_Papers_Organized/NLP/LLMs/2025/Automating_Expert_Level_Medical_Reasoning_Evaluation_of_Large_Language_Models_2507.07988v1.pdf`
 
 ## Related Topics
 

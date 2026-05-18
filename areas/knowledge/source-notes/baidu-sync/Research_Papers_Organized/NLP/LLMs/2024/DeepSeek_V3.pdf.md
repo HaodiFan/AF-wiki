@@ -4,7 +4,8 @@ type: source-note
 area: knowledge
 status: archived
 source: baidu-sync
-source_file: "areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/LLMs/2024/DeepSeek_V3.pdf"
+source_id: "baidu-sync:af6f10bceaf5"
+source_vault_path: "raw/baidu-sync/Research_Papers_Organized/NLP/LLMs/2024/DeepSeek_V3.pdf"
 tags:
   - area/knowledge
   - doc/pdf
@@ -16,9 +17,10 @@ tags:
 ---
 # DeepSeek_V3.pdf
 
-## Original File
+## Source Reference
 
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/LLMs/2024/DeepSeek_V3.pdf|DeepSeek_V3.pdf]]
+- Source ID: `baidu-sync:af6f10bceaf5`
+- Source vault path: `raw/baidu-sync/Research_Papers_Organized/NLP/LLMs/2024/DeepSeek_V3.pdf`
 
 ## Related Topics
 

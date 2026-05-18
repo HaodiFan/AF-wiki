@@ -27,14 +27,14 @@ In this wiki, the topic is treated as a bridge between agent systems, tool use, 
 - It connects [[function-calling-and-tool-use|Function Calling and Tool Use]] with experiment automation.
 - It provides a useful testbed for long-horizon agents, self-evolving systems, and data-side research infrastructure.
 
-## Original Files In Wiki
+## Source References
 
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/AI4Science/General/2025/AI4Science - A Comprehensive Landscape Review (2025).pdf|AI4Science - A Comprehensive Landscape Review (2025).pdf]]
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/AI4Science/General/2024/AI4Science_data_side_research.pdf|AI4Science_data_side_research.pdf]]
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/AI4Science/Experiment_Automation/2024/AI4Science实验器材调用调研.pdf|AI4Science实验器材调用调研.pdf]]
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/AI4Science/Experiment_Automation/2024/Single-Purpose Scientific Tools - Data Formats and AI Integration.pdf|Single-Purpose Scientific Tools - Data Formats and AI Integration.pdf]]
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/AI4Science/Function_Calling/2024/AI4Science中function calling数据集与自动化实验系统调研.pdf|AI4Science中function calling数据集与自动化实验系统调研.pdf]]
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/AI4Science/Function_Calling/2024/Fastino Function Calling Datasets.pdf|Fastino Function Calling Datasets.pdf]]
+- `baidu-sync:fc9f4b18a63b` — AI4Science - A Comprehensive Landscape Review (2025).pdf
+- `baidu-sync:6860b3b68803` — AI4Science_data_side_research.pdf
+- `baidu-sync:40f379bce408` — AI4Science实验器材调用调研.pdf
+- `baidu-sync:ec2869760ac6` — Single-Purpose Scientific Tools - Data Formats and AI Integration.pdf
+- `baidu-sync:acddc702990a` — AI4Science中function calling数据集与自动化实验系统调研.pdf
+- `baidu-sync:c3c85cee356b` — Fastino Function Calling Datasets.pdf
 
 ## Related topics
 

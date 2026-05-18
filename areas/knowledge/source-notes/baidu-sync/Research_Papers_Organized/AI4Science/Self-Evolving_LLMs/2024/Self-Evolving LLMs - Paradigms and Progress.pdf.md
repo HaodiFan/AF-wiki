@@ -4,7 +4,8 @@ type: source-note
 area: knowledge
 status: archived
 source: baidu-sync
-source_file: "areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/AI4Science/Self-Evolving_LLMs/2024/Self-Evolving LLMs - Paradigms and Progress.pdf"
+source_id: "baidu-sync:058c4ef3f527"
+source_vault_path: "raw/baidu-sync/Research_Papers_Organized/AI4Science/Self-Evolving_LLMs/2024/Self-Evolving LLMs - Paradigms and Progress.pdf"
 tags:
   - area/knowledge
   - doc/pdf
@@ -18,9 +19,10 @@ tags:
 ---
 # Self-Evolving LLMs - Paradigms and Progress.pdf
 
-## Original File
+## Source Reference
 
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/AI4Science/Self-Evolving_LLMs/2024/Self-Evolving LLMs - Paradigms and Progress.pdf|Self-Evolving LLMs - Paradigms and Progress.pdf]]
+- Source ID: `baidu-sync:058c4ef3f527`
+- Source vault path: `raw/baidu-sync/Research_Papers_Organized/AI4Science/Self-Evolving_LLMs/2024/Self-Evolving LLMs - Paradigms and Progress.pdf`
 
 ## Related Topics
 

@@ -4,7 +4,8 @@ type: source-note
 area: knowledge
 status: archived
 source: baidu-sync
-source_file: "areas/knowledge/source-documents/baidu-sync/DeepResearch/Self-Evolving LLMs_ Paradigms and Progress.pdf"
+source_id: "baidu-sync:07e217b72091"
+source_vault_path: "raw/baidu-sync/DeepResearch/Self-Evolving LLMs_ Paradigms and Progress.pdf"
 tags:
   - area/knowledge
   - doc/pdf
@@ -16,9 +17,10 @@ tags:
 ---
 # Self-Evolving LLMs_ Paradigms and Progress.pdf
 
-## Original File
+## Source Reference
 
-- [[areas/knowledge/source-documents/baidu-sync/DeepResearch/Self-Evolving LLMs_ Paradigms and Progress.pdf|Self-Evolving LLMs_ Paradigms and Progress.pdf]]
+- Source ID: `baidu-sync:07e217b72091`
+- Source vault path: `raw/baidu-sync/DeepResearch/Self-Evolving LLMs_ Paradigms and Progress.pdf`
 
 ## Related Topics
 

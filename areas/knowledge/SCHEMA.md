@@ -9,7 +9,7 @@ tags:
 
 > Purpose: manage ongoing technical reading, retained article notes, and curated knowledge assets that belong to AF's continuous knowledge-development area.
 > Owner: AF
-> Last updated: 2026-04-26
+> Last updated: 2026-05-18
 
 ## Why this is an area
 
@@ -39,9 +39,10 @@ knowledge/
 ├── index.md
 ├── maps/
 ├── topics/
-├── source-documents/
+├── source-manifests/
 ├── source-notes/
 ├── anthonydb-research/
+├── historical-notebooks/
 ├── wechat-public-account-articles.md
 ├── wechat-articles/
 └── 99-change-log.md
@@ -82,15 +83,23 @@ Promotion threshold:
 
 Do not create a topic node for every interesting term.
 
-### Source document intake
+### Source material intake
 
-Use `areas/knowledge/source-documents/` when original files themselves should be preserved inside the wiki.
+Original files do not live in this Git repo.
+
+Use the local source vault for PDFs, scans, full OCR, and full original reports:
+
+```text
+default: /Users/anthonyf/projects/personal/SnapAF/AF-wiki-sources
+env:     AF_WIKI_SOURCES
+```
 
 Rules:
-- copy the original files into the wiki; do not leave the wiki dependent on external filesystem links
-- keep source documents attached to related topic notes through `Original Files In Wiki` sections
-- use `areas/knowledge/source-notes/` for tagged sidecar notes when the original file cannot carry Obsidian frontmatter, especially PDFs
-- do not treat a source-document folder as a finished knowledge note by itself
+- never commit PDFs, scans, full OCR, or full original reports to AF-wiki
+- keep source provenance in `areas/knowledge/source-manifests/`
+- use `Source References` sections with `source_id`, not wikilinks into `source-documents/`
+- use `areas/knowledge/source-notes/` only for lightweight tagged sidecar metadata, not full OCR/fulltext
+- do not treat a source manifest as a finished knowledge note by itself
 - promote concepts into `topics/` only when they become reusable graph nodes
 
 ### 4. Map curation
@@ -106,7 +115,7 @@ A map should connect durable topic nodes and a small set of anchor notes. It sho
 - per-article fallback notes or extracted notes
 - topic-level knowledge collections that are part of continuous knowledge curation
 - curated historical research imports that are dense enough to remain useful after migration
-- copied original source documents that should live inside the wiki rather than remain external links
+- source manifests and provenance references for local source-vault material
 - durable topic nodes in `topics/`
 - curated topic maps in `maps/`
 
@@ -144,7 +153,7 @@ The default graph should emphasize:
 - retained article notes
 
 The default graph should hide:
-- `areas/knowledge/anthonydb-research/originals/`
+- `areas/knowledge/source-manifests/sources.jsonl`
 - unresolved historical `KP - ...` links
 - orphan notes
 - scaffold files such as `index`, `SCHEMA`, and `99-change-log`

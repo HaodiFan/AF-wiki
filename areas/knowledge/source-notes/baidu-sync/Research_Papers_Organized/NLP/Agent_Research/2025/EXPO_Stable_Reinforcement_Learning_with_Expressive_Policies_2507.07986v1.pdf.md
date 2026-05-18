@@ -4,7 +4,8 @@ type: source-note
 area: knowledge
 status: archived
 source: baidu-sync
-source_file: "areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/2025/EXPO_Stable_Reinforcement_Learning_with_Expressive_Policies_2507.07986v1.pdf"
+source_id: "baidu-sync:2792055b347e"
+source_vault_path: "raw/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/2025/EXPO_Stable_Reinforcement_Learning_with_Expressive_Policies_2507.07986v1.pdf"
 tags:
   - area/knowledge
   - doc/pdf
@@ -17,9 +18,10 @@ tags:
 ---
 # EXPO_Stable_Reinforcement_Learning_with_Expressive_Policies_2507.07986v1.pdf
 
-## Original File
+## Source Reference
 
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/2025/EXPO_Stable_Reinforcement_Learning_with_Expressive_Policies_2507.07986v1.pdf|EXPO_Stable_Reinforcement_Learning_with_Expressive_Policies_2507.07986v1.pdf]]
+- Source ID: `baidu-sync:2792055b347e`
+- Source vault path: `raw/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/2025/EXPO_Stable_Reinforcement_Learning_with_Expressive_Policies_2507.07986v1.pdf`
 
 ## Related Topics
 

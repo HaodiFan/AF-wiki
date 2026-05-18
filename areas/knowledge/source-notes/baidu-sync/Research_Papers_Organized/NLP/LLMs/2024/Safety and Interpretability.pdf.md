@@ -4,7 +4,8 @@ type: source-note
 area: knowledge
 status: archived
 source: baidu-sync
-source_file: "areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/LLMs/2024/Safety and Interpretability.pdf"
+source_id: "baidu-sync:2b1c1876d9c9"
+source_vault_path: "raw/baidu-sync/Research_Papers_Organized/NLP/LLMs/2024/Safety and Interpretability.pdf"
 tags:
   - area/knowledge
   - doc/pdf
@@ -17,9 +18,10 @@ tags:
 ---
 # Safety and Interpretability.pdf
 
-## Original File
+## Source Reference
 
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/LLMs/2024/Safety and Interpretability.pdf|Safety and Interpretability.pdf]]
+- Source ID: `baidu-sync:2b1c1876d9c9`
+- Source vault path: `raw/baidu-sync/Research_Papers_Organized/NLP/LLMs/2024/Safety and Interpretability.pdf`
 
 ## Related Topics
 

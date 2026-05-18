@@ -4,7 +4,8 @@ type: source-note
 area: knowledge
 status: archived
 source: baidu-sync
-source_file: "areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/LLMs/2024/LLMs for Spreadsheet and Table Construction - Landscape and Data.pdf"
+source_id: "baidu-sync:1516a96b30f6"
+source_vault_path: "raw/baidu-sync/Research_Papers_Organized/NLP/LLMs/2024/LLMs for Spreadsheet and Table Construction - Landscape and Data.pdf"
 tags:
   - area/knowledge
   - doc/pdf
@@ -17,9 +18,10 @@ tags:
 ---
 # LLMs for Spreadsheet and Table Construction - Landscape and Data.pdf
 
-## Original File
+## Source Reference
 
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/LLMs/2024/LLMs for Spreadsheet and Table Construction - Landscape and Data.pdf|LLMs for Spreadsheet and Table Construction - Landscape and Data.pdf]]
+- Source ID: `baidu-sync:1516a96b30f6`
+- Source vault path: `raw/baidu-sync/Research_Papers_Organized/NLP/LLMs/2024/LLMs for Spreadsheet and Table Construction - Landscape and Data.pdf`
 
 ## Related Topics
 

@@ -35,13 +35,13 @@ It is broader than agent core. The core chooses actions; the runtime makes those
 - [[../anthonydb-research/agent-memory-infrastructure-survey-2024-2026-智能体记忆基础设施综述|Agent Memory Infrastructure Survey]] — memory infrastructure requirements for long-running agents.
 - [[../../../resources/research/2026-04-26-agent-harness-engineering-deep-research|Harness Engineering 深度研究报告]] — harness as the external control layer around agent runtime behavior.
 
-## Original Files In Wiki
+## Source References
 
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/2024/Agent Trajectory.pdf|Agent Trajectory.pdf]]
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/2024/Advanced AI Agent Research Report.pdf|Advanced AI Agent Research Report.pdf]]
-- [[areas/knowledge/source-documents/baidu-sync/Papers/Important Papers/UI-TARS-2.pdf|UI-TARS-2.pdf]]
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/2025/PyVision_Agentic_Vision_with_Dynamic_Tooling_2507.07998v1.pdf|PyVision_Agentic_Vision_with_Dynamic_Tooling_2507.07998v1.pdf]]
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/2025/The_Trust_Fabric_Decentralized_Interoperability_and_Economic_Coordination_for_the_Agentic_Web_2507.07901v1.pdf|The_Trust_Fabric_Decentralized_Interoperability_and_Economic_Coordination_for_the_Agentic_Web_2507.07901v1.pdf]]
+- `baidu-sync:7dd943e650e2` — Agent Trajectory.pdf
+- `baidu-sync:e5e86d7fec46` — Advanced AI Agent Research Report.pdf
+- `baidu-sync:7ce607afcf73` — UI-TARS-2.pdf
+- `baidu-sync:ab88db60c7c3` — PyVision_Agentic_Vision_with_Dynamic_Tooling_2507.07998v1.pdf
+- `baidu-sync:5fc26cdd8675` — The_Trust_Fabric_Decentralized_Interoperability_and_Economic_Coordination_for_the_Agentic_Web_2507.07901v1.pdf
 
 ## Related topics
 

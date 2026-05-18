@@ -4,7 +4,8 @@ type: source-note
 area: knowledge
 status: archived
 source: baidu-sync
-source_file: "areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/2025/Agentic_Retrieval_of_Topics_and_Insights_from_Earnings_Calls_2507.07906v1.pdf"
+source_id: "baidu-sync:caa13c3f7994"
+source_vault_path: "raw/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/2025/Agentic_Retrieval_of_Topics_and_Insights_from_Earnings_Calls_2507.07906v1.pdf"
 tags:
   - area/knowledge
   - doc/pdf
@@ -16,9 +17,10 @@ tags:
 ---
 # Agentic_Retrieval_of_Topics_and_Insights_from_Earnings_Calls_2507.07906v1.pdf
 
-## Original File
+## Source Reference
 
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/2025/Agentic_Retrieval_of_Topics_and_Insights_from_Earnings_Calls_2507.07906v1.pdf|Agentic_Retrieval_of_Topics_and_Insights_from_Earnings_Calls_2507.07906v1.pdf]]
+- Source ID: `baidu-sync:caa13c3f7994`
+- Source vault path: `raw/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/2025/Agentic_Retrieval_of_Topics_and_Insights_from_Earnings_Calls_2507.07906v1.pdf`
 
 ## Related Topics
 

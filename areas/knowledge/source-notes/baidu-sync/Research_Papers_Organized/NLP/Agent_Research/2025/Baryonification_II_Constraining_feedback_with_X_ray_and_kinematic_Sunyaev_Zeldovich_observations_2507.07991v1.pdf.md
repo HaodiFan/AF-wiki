@@ -4,7 +4,8 @@ type: source-note
 area: knowledge
 status: archived
 source: baidu-sync
-source_file: "areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/2025/Baryonification_II_Constraining_feedback_with_X_ray_and_kinematic_Sunyaev_Zeldovich_observations_2507.07991v1.pdf"
+source_id: "baidu-sync:9fb9afffe811"
+source_vault_path: "raw/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/2025/Baryonification_II_Constraining_feedback_with_X_ray_and_kinematic_Sunyaev_Zeldovich_observations_2507.07991v1.pdf"
 tags:
   - area/knowledge
   - doc/pdf
@@ -17,9 +18,10 @@ tags:
 ---
 # Baryonification_II_Constraining_feedback_with_X_ray_and_kinematic_Sunyaev_Zeldovich_observations_2507.07991v1.pdf
 
-## Original File
+## Source Reference
 
-- [[areas/knowledge/source-documents/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/2025/Baryonification_II_Constraining_feedback_with_X_ray_and_kinematic_Sunyaev_Zeldovich_observations_2507.07991v1.pdf|Baryonification_II_Constraining_feedback_with_X_ray_and_kinematic_Sunyaev_Zeldovich_observations_2507.07991v1.pdf]]
+- Source ID: `baidu-sync:9fb9afffe811`
+- Source vault path: `raw/baidu-sync/Research_Papers_Organized/NLP/Agent_Research/2025/Baryonification_II_Constraining_feedback_with_X_ray_and_kinematic_Sunyaev_Zeldovich_observations_2507.07991v1.pdf`
 
 ## Related Topics
 
