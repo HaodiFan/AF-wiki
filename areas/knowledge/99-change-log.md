@@ -20,6 +20,11 @@ tags:
 - Added a Notebook 1 scan manifest instead of bulk-copying the 1.9 GB raw scan bundle
 - Linked the collection into the knowledge index and routed its clusters to existing topic nodes
 
+## [2026-05-18] add | Hermes memory × AF-wiki integration architecture
+- Added `topics/hermes-memory-af-wiki-integration-architecture.md`
+- Documented AF-wiki as canonical memory, Hermes built-in memory as lightweight preference/routing memory, and Holographic memory as a derived retrieval/index layer
+- Recommended a sidecar-style `AF-wiki -> Holographic` sync path under `infra/indexing/`
+
 ## [2026-04-26] ingest | Ontology research recorded
 - Added the full-text `Ontology在现代AI系统中的演化与应用` research note under `resources/research/`
 - Promoted `Ontology / 本体` as a durable knowledge topic

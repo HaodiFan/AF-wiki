@@ -25,6 +25,7 @@ tags:
 ### Current topics
 
 - [[topics/agent-memory|Agent Memory / 智能体记忆]]
+- [[topics/hermes-memory-af-wiki-integration-architecture|Hermes Memory × AF-wiki Integration Architecture / Hermes 记忆与 AF-wiki 集成架构]]
 - [[topics/agent-core|Agent Core / 智能体核心]]
 - [[topics/agent-runtime|Agent Runtime / 智能体运行时]]
 - [[topics/agent-harness-engineering|Agent Harness Engineering / 智能体 Harness Engineering]]
