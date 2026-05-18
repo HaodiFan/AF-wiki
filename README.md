@@ -21,6 +21,11 @@ tags:
 
 可视化入口：[AF-wiki Map](https://haodifan.github.io/AF-wiki/)。
 
+公开入口网络：
+[GitHub Profile](https://github.com/HaodiFan) ·
+[AnthonyHF.Skill](https://haodifan.github.io/AnthonyHF.Skill/) ·
+[ChatGPT Next Web](https://chat-gpt-next-web-haodifan.vercel.app)
+
 这次重构后的核心规则是：
 - `areas/` 承载持续性的 area 模块
 - `resources/` 只承载共享的 lead / research 流水线

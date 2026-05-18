@@ -9,7 +9,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
 README_PATH = ROOT / 'README.md'
-PROFILE_ROOT = Path(os.environ.get('AF_WIKI_PROFILE_ROOT', ROOT.parent / 'HaodiFan-profile'))
+PROFILE_ROOT = Path(os.environ.get('AF_WIKI_PROFILE_ROOT', ROOT.parent / 'HaodiFan'))
 PROFILE_README_PATH = PROFILE_ROOT / 'README.md'
 LOG_PATH = ROOT / 'log.md'
 AUDIT_PATH = ROOT / 'areas' / 'fitness' / '40-data' / 'latest-audit.json'
@@ -339,10 +339,13 @@ def refresh_profile_recent_updates(
             f"- {re.sub(r'<.*?>', '', evaluation[1])}"
         )
     replacement = '\n\n'.join(sections)
-    pattern = re.compile(r'(## Recent updates by area\n\n)(.*?)(\n\n## Featured repo)', re.S)
-    updated, count = pattern.subn(rf'\1{replacement}\3', text, count=1)
+    marker_pattern = re.compile(r'(<!-- WIKI-FEED:START -->)(.*?)(\s*<!-- WIKI-FEED:END -->)', re.S)
+    updated, count = marker_pattern.subn(rf'\1\n{replacement}\3', text, count=1)
     if count != 1:
-        raise ValueError('Profile README recent-updates section not found or ambiguous')
+        pattern = re.compile(r'(## Recent updates by area\n\n)(.*?)(\n\n## Featured repo)', re.S)
+        updated, count = pattern.subn(rf'\1{replacement}\3', text, count=1)
+    if count != 1:
+        raise ValueError('Profile README recent-updates marker or section not found or ambiguous')
     profile_readme_path.write_text(updated, encoding='utf-8')
     return updated
 

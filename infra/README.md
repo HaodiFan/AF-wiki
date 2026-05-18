@@ -15,7 +15,7 @@ Derived runtime / sidecar layer for indexing, maintenance, and briefing.
 - `python3 infra/jobs/af_wiki_briefing.py`
   - prints a lightweight operational briefing from `log.md` + latest fitness audit
 - `python3 infra/jobs/af_wiki_briefing.py --refresh-all-readmes`
-  - refreshes both `/home/AF-wiki/README.md` and `/home/HaodiFan-profile/README.md` recent-update sections from the last 7 days of fitness check-ins
+  - refreshes both `AF-wiki/README.md` and `HaodiFan/README.md` recent-update sections from the last 7 days of fitness check-ins
 - `python3 infra/source_vault.py audit-sources --hash`
   - verifies that source manifest entries exist in the local source vault and match recorded size/hash
 - `python3 infra/source_vault.py scan-for-raw`
