@@ -7,7 +7,7 @@ from dataclasses import dataclass, field
 from pathlib import Path
 from typing import List, Optional, Tuple
 
-ROOT = Path('/home/AF-wiki')
+ROOT = Path(__file__).resolve().parents[3]
 FITNESS_DIR = ROOT / 'areas' / 'fitness'
 DB_PATH = ROOT / 'data' / 'fitness.db'
 CHECKINS_PATH = FITNESS_DIR / '10-checkins' / '2026-04.md'

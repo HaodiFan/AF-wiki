@@ -3,7 +3,7 @@ import sqlite3
 import subprocess
 from pathlib import Path
 
-ROOT = Path('/home/AF-wiki')
+ROOT = Path(__file__).resolve().parents[1]
 SYNC_CMD = ['python3', 'infra/indexing/af_wiki_sync.py']
 DOCTOR_CMD = ['python3', 'infra/jobs/af_wiki_doctor.py', '--skip-refresh']
 DB_PATH = ROOT / 'data' / 'fitness.db'

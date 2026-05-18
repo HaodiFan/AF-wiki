@@ -5,7 +5,7 @@ import subprocess
 import sys
 from pathlib import Path
 
-ROOT = Path('/home/AF-wiki')
+ROOT = Path(__file__).resolve().parents[2]
 AUDIT_SCRIPT = ROOT / 'areas' / 'fitness' / '40-data' / 'audit_fitness_completeness.py'
 OUTPUT_PATH = ROOT / 'areas' / 'fitness' / '40-data' / 'latest-audit.json'
 

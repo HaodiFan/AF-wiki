@@ -5,7 +5,7 @@ import json
 import sqlite3
 from pathlib import Path
 
-ROOT = Path('/home/AF-wiki')
+ROOT = Path(__file__).resolve().parents[3]
 DB_PATH = ROOT / 'data' / 'fitness.db'
 OUTPUT_PATH = ROOT / 'areas' / 'fitness' / '40-data' / 'latest-audit.json'
 

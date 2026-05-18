@@ -19,6 +19,8 @@ tags:
 
 如果你是第一次打开这个仓库，先看 [START-HERE.md](START-HERE.md)。
 
+可视化入口：[AF-wiki Map](https://haodifan.github.io/AF-wiki/)。
+
 这次重构后的核心规则是：
 - `areas/` 承载持续性的 area 模块
 - `resources/` 只承载共享的 lead / research 流水线

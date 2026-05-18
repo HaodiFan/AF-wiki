@@ -4,7 +4,7 @@ import subprocess
 import sys
 from pathlib import Path
 
-ROOT = Path('/home/AF-wiki')
+ROOT = Path(__file__).resolve().parents[3]
 SYNC_SCRIPT = ROOT / 'areas' / 'fitness' / '40-data' / 'sync_markdown_to_sqlite.py'
 AUDIT_SCRIPT = ROOT / 'areas' / 'fitness' / '40-data' / 'audit_fitness_completeness.py'
 

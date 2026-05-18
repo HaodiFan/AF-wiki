@@ -1,0 +1,189 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="AF-wiki public knowledge and fitness map: training records, strength references, knowledge graph, and source boundaries."
+    />
+    <title>AF-wiki Map</title>
+    <link rel="stylesheet" href="./assets/af-wiki-map.css" />
+  </head>
+  <body>
+    <header class="topbar" aria-label="AF-wiki dashboard header">
+      <a class="brand" href="https://github.com/HaodiFan/AF-wiki">AF-wiki</a>
+      <nav class="nav" aria-label="Page sections">
+        <a href="#fitness">Fitness</a>
+        <a href="#knowledge">Knowledge</a>
+        <a href="#sources">Sources</a>
+      </nav>
+    </header>
+
+    <main>
+      <section class="overview" aria-labelledby="page-title">
+        <div class="overview-copy">
+          <p class="eyebrow">Public map · updated 2026-05-18</p>
+          <h1 id="page-title">AF-wiki 健身与<span class="nowrap">知识地图</span></h1>
+          <p>
+            这个页面把 AF-wiki 中已经公开沉淀的两条主线压缩成一个可浏览面板：
+            fitness 关注训练、营养、力量参考和审计闭环；knowledge 关注 lead、research、
+            topic、map 的晋升链路和智能体系统图谱。
+          </p>
+        </div>
+        <div class="overview-grid" aria-label="AF-wiki current area map">
+          <article class="area-node fitness-node">
+            <span class="node-kicker">Area</span>
+            <h2>Fitness</h2>
+            <p>训练日志、饮食记录、计划版本、力量参考</p>
+            <a href="#fitness">查看训练面板</a>
+          </article>
+          <article class="area-node knowledge-node">
+            <span class="node-kicker">Area</span>
+            <h2>Knowledge</h2>
+            <p>技术阅读、主题节点、研究归档、来源 provenance</p>
+            <a href="#knowledge">查看知识图谱</a>
+          </article>
+          <article class="area-node boundary-node">
+            <span class="node-kicker">Boundary</span>
+            <h2>Public Layer</h2>
+            <p>Git 只保留萃取后的索引、摘要、topic 和 source_id</p>
+            <a href="#sources">查看边界</a>
+          </article>
+        </div>
+      </section>
+
+      <section id="fitness" class="section-band" aria-labelledby="fitness-title">
+        <div class="section-heading">
+          <p class="eyebrow">Fitness memory</p>
+          <h2 id="fitness-title">从日志到决策的训练面板</h2>
+          <p>
+            当前可视化基于 `areas/fitness/` 的公开 markdown 和 SQLite 派生索引，
+            展示 2026-04-18 到 2026-04-28 的记录窗口。
+          </p>
+        </div>
+
+        <div class="metric-grid" id="fitnessMetrics" aria-label="Fitness summary metrics"></div>
+
+        <div class="split-layout">
+          <article class="panel" aria-labelledby="session-title">
+            <div class="panel-header">
+              <h3 id="session-title">训练密度</h3>
+              <a href="https://github.com/HaodiFan/AF-wiki/blob/main/areas/fitness/10-checkins/2026-04.md">check-ins</a>
+            </div>
+            <div id="sessionBars" class="bar-stack" aria-label="Training type totals"></div>
+            <div id="sessionTimeline" class="timeline" aria-label="Logged training sessions"></div>
+          </article>
+
+          <article class="panel" aria-labelledby="strength-title">
+            <div class="panel-header">
+              <h3 id="strength-title">力量参考</h3>
+              <a href="https://github.com/HaodiFan/AF-wiki/blob/main/areas/fitness/30-strategy/historical-strength-reference.md">source</a>
+            </div>
+            <div id="strengthChart" class="strength-chart" aria-label="Selected historical strength references"></div>
+          </article>
+        </div>
+
+        <div class="principle-grid" aria-label="Fitness operating model">
+          <article>
+            <h3>计划层</h3>
+            <p>markdown 是真相源，计划变化归档到 `plan-versions/`，当前计划只保留最新有效版本。</p>
+          </article>
+          <article>
+            <h3>执行层</h3>
+            <p>日度记录按训练、餐次、恢复三层合并；同一天多轮更新必须回填到同一日期块。</p>
+          </article>
+          <article>
+            <h3>决策层</h3>
+            <p>下次练什么优先看近期肌群覆盖、恢复状态、器械偏好和历史可用重量。</p>
+          </article>
+        </div>
+      </section>
+
+      <section id="knowledge" class="section-band knowledge-band" aria-labelledby="knowledge-title">
+        <div class="section-heading">
+          <p class="eyebrow">Knowledge graph</p>
+          <h2 id="knowledge-title">从弱信号到主题地图的知识流</h2>
+          <p>
+            knowledge area 不是资料桶，而是持续把可复用知识从 lead 推进到 research、
+            topic 和 map 的责任层。
+          </p>
+        </div>
+
+        <div class="metric-grid" id="knowledgeMetrics" aria-label="Knowledge summary metrics"></div>
+
+        <article class="panel wide-panel" aria-labelledby="pipeline-title">
+          <div class="panel-header">
+            <h3 id="pipeline-title">知识生命周期</h3>
+            <a href="https://github.com/HaodiFan/AF-wiki/blob/main/areas/knowledge/SCHEMA.md">schema</a>
+          </div>
+          <div class="pipeline" id="knowledgePipeline" aria-label="Knowledge lifecycle pipeline"></div>
+        </article>
+
+        <article class="panel wide-panel graph-panel" aria-labelledby="graph-title">
+          <div class="panel-header">
+            <h3 id="graph-title">Agent Systems Map</h3>
+            <a href="https://github.com/HaodiFan/AF-wiki/blob/main/areas/knowledge/maps/agent-systems-map.md">map source</a>
+          </div>
+          <div id="agentGraph" class="agent-graph" aria-label="Agent systems topic graph"></div>
+        </article>
+
+        <article class="panel wide-panel" aria-labelledby="topics-title">
+          <div class="panel-header topic-header">
+            <h3 id="topics-title">Topic inventory</h3>
+            <div class="segmented" id="topicFilters" aria-label="Topic filters"></div>
+          </div>
+          <div id="topicGrid" class="topic-grid" aria-label="Knowledge topics"></div>
+        </article>
+      </section>
+
+      <section id="sources" class="section-band source-band" aria-labelledby="source-title">
+        <div class="section-heading">
+          <p class="eyebrow">Public boundary</p>
+          <h2 id="source-title">公开页面只呈现可发布的抽象层</h2>
+          <p>
+            AF-wiki 公开仓库保存 curated notes、topic maps、source manifests 和派生索引。
+            PDF、扫描件、完整 OCR、原始报告正文和私密材料不进入 GitHub Pages。
+          </p>
+        </div>
+
+        <div class="source-layout">
+          <article class="panel">
+            <h3>GitHub public</h3>
+            <ul class="check-list">
+              <li>Area index and schemas</li>
+              <li>Fitness summaries and public records</li>
+              <li>Curated knowledge notes and topic maps</li>
+              <li>Source IDs, relative paths, hashes, and routing metadata</li>
+            </ul>
+          </article>
+          <article class="panel">
+            <h3>Local source vault</h3>
+            <ul class="check-list muted-list">
+              <li>Original PDFs and scans</li>
+              <li>Full OCR outputs</li>
+              <li>Raw source documents</li>
+              <li>Private or non-public material</li>
+            </ul>
+          </article>
+          <article class="panel">
+            <h3>Canonical links</h3>
+            <ul class="link-list">
+              <li><a href="https://github.com/HaodiFan/AF-wiki/blob/main/START-HERE.md">START-HERE</a></li>
+              <li><a href="https://github.com/HaodiFan/AF-wiki/blob/main/areas/fitness/index.md">Fitness area</a></li>
+              <li><a href="https://github.com/HaodiFan/AF-wiki/blob/main/areas/knowledge/index.md">Knowledge area</a></li>
+              <li><a href="https://github.com/HaodiFan/AF-wiki/blob/main/areas/knowledge/source-manifests/index.md">Source manifests</a></li>
+            </ul>
+          </article>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <span>AF-wiki Pages</span>
+      <a href="https://github.com/HaodiFan/AF-wiki">GitHub repository</a>
+    </footer>
+
+    <script src="./assets/af-wiki-map.js"></script>
+  </body>
+</html>

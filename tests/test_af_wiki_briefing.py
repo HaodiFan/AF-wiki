@@ -4,7 +4,8 @@ import unittest
 from pathlib import Path
 
 
-MODULE_PATH = Path('/home/AF-wiki/infra/jobs/af_wiki_briefing.py')
+ROOT = Path(__file__).resolve().parents[1]
+MODULE_PATH = ROOT / 'infra/jobs/af_wiki_briefing.py'
 spec = importlib.util.spec_from_file_location('af_wiki_briefing', MODULE_PATH)
 module = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(module)

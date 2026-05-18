@@ -1,14 +1,15 @@
 #!/usr/bin/env python3
 import argparse
 import json
+import os
 import re
 from datetime import date, timedelta
 from html import escape
 from pathlib import Path
 
-ROOT = Path('/home/AF-wiki')
+ROOT = Path(__file__).resolve().parents[2]
 README_PATH = ROOT / 'README.md'
-PROFILE_ROOT = Path('/home/HaodiFan-profile')
+PROFILE_ROOT = Path(os.environ.get('AF_WIKI_PROFILE_ROOT', ROOT.parent / 'HaodiFan-profile'))
 PROFILE_README_PATH = PROFILE_ROOT / 'README.md'
 LOG_PATH = ROOT / 'log.md'
 AUDIT_PATH = ROOT / 'areas' / 'fitness' / '40-data' / 'latest-audit.json'

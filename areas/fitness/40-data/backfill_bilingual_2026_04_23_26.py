@@ -2,7 +2,8 @@
 import sqlite3
 from pathlib import Path
 
-DB_PATH = Path('/home/AF-wiki/data/fitness.db')
+ROOT = Path(__file__).resolve().parents[3]
+DB_PATH = ROOT / 'data' / 'fitness.db'
 TARGET_DATES = ['2026-04-23', '2026-04-24', '2026-04-25', '2026-04-26']
 
 DAY_UPDATES = {

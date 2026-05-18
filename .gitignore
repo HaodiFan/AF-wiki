@@ -3,6 +3,8 @@
 
 # Empty/auto-created scratch files
 Untitled.canvas
+__pycache__/
+*.pyc
 
 # Local source-vault material must not be committed.
 # AF-wiki keeps only curated knowledge, source manifests, and provenance in Git.
