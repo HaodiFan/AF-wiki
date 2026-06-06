@@ -46,6 +46,7 @@ This topic sits between model capability and runtime design: the model proposes 
 - [[agent-harness-engineering|Agent Harness Engineering]]
 - [[ontology|Ontology]]
 - [[ai4science|AI4Science]]
+- [[hermes-agent-self-evolution|Hermes Agent Self-Evolution / Hermes Agent 自演化]]
 
 ## Open questions
 

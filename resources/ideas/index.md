@@ -12,7 +12,10 @@ tags:
 
 ## Current status
 - Ideas layer scaffold created
-- No stable idea notes are stored here yet
+- Added `[[2026-06-02-publication-ideas-avatar-work-dingtalk-capture|2026-06-02 publication ideas on avatar x work x dingtalk capture]]`
+
+## Idea notes
+- [[2026-06-02-publication-ideas-avatar-work-dingtalk-capture|2026-06-02 publication ideas on avatar x work x dingtalk capture]]
 
 ## Rule
 - If an idea becomes an ongoing responsibility, move it into the appropriate `areas/` module

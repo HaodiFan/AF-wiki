@@ -52,6 +52,7 @@ It is broader than prompt writing and narrower than the model itself. The useful
 - [[workflow-runtime|Workflow Runtime]]
 - [[llm-safety-interpretability|LLM Safety and Interpretability]]
 - [[opencode-architecture|Opencode Architecture]]
+- [[hermes-agent-self-evolution|Hermes Agent Self-Evolution / Hermes Agent 自演化]]
 
 ## Open questions
 

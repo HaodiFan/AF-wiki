@@ -55,6 +55,7 @@ It is broader than agent core. The core chooses actions; the runtime makes those
 - [[nanoclaw|NanoClaw]]
 - [[opencode-architecture|Opencode Architecture]]
 - [[workflow-runtime|Workflow Runtime]]
+- [[hermes-agent-self-evolution|Hermes Agent Self-Evolution / Hermes Agent 自演化]]
 
 ## Open questions
 

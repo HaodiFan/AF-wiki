@@ -10,7 +10,8 @@ from typing import List, Optional, Tuple
 ROOT = Path(__file__).resolve().parents[3]
 FITNESS_DIR = ROOT / 'areas' / 'fitness'
 DB_PATH = ROOT / 'data' / 'fitness.db'
-CHECKINS_PATH = FITNESS_DIR / '10-checkins' / '2026-04.md'
+CHECKINS_DIR = FITNESS_DIR / '10-checkins'
+CHECKINS_PATH = CHECKINS_DIR / '2026-04.md'
 CURRENT_PLAN_PATH = FITNESS_DIR / '02-current-plan.md'
 PLAN_VERSION_DIR = FITNESS_DIR / 'plan-versions'
 
@@ -708,25 +709,38 @@ def sync_plans(conn: sqlite3.Connection) -> List[dict]:
 
 def main() -> None:
     parser = argparse.ArgumentParser()
-    parser.add_argument('--checkins', default=str(CHECKINS_PATH))
+    parser.add_argument('--checkins', nargs='*', default=None)
     parser.add_argument('--db', default=str(DB_PATH))
     args = parser.parse_args()
 
-    checkins_path = Path(args.checkins)
+    if args.checkins:
+        checkin_paths = [Path(p) for p in args.checkins]
+    else:
+        checkin_paths = sorted(CHECKINS_DIR.glob('*.md'))
+        if not checkin_paths and CHECKINS_PATH.exists():
+            checkin_paths = [CHECKINS_PATH]
+
     db_path = Path(args.db)
     db_path.parent.mkdir(parents=True, exist_ok=True)
 
     conn = sqlite3.connect(db_path)
     init_db(conn)
 
-    checkin_records = parse_checkins(checkins_path)
-    checkin_results = [upsert_day_record(conn, r, str(checkins_path.relative_to(ROOT))) for r in checkin_records]
+    all_checkin_results = []
+    synced_sources = []
+    for checkins_path in checkin_paths:
+        checkin_records = parse_checkins(checkins_path)
+        checkin_results = [upsert_day_record(conn, r, str(checkins_path.relative_to(ROOT))) for r in checkin_records]
+        all_checkin_results.extend(checkin_results)
+        synced_sources.append(str(checkins_path.relative_to(ROOT)))
+
     plan_results = sync_plans(conn)
 
     summary = {
-        'checkin_records': len(checkin_results),
-        'daily_records': sum(1 for r in checkin_results if r['event_type'] == 'daily'),
-        'event_records': sum(1 for r in checkin_results if r['event_type'] != 'daily'),
+        'checkin_files': synced_sources,
+        'checkin_records': len(all_checkin_results),
+        'daily_records': sum(1 for r in all_checkin_results if r['event_type'] == 'daily'),
+        'event_records': sum(1 for r in all_checkin_results if r['event_type'] != 'daily'),
         'training_sessions': conn.execute('SELECT COUNT(*) FROM training_sessions').fetchone()[0],
         'exercises': conn.execute('SELECT COUNT(*) FROM exercises').fetchone()[0],
         'meals': conn.execute('SELECT COUNT(*) FROM meals').fetchone()[0],
@@ -734,7 +748,7 @@ def main() -> None:
         'plan_slots': conn.execute('SELECT COUNT(*) FROM plan_slots').fetchone()[0],
         'plan_sources_synced': plan_results,
     }
-    conn.execute('INSERT INTO sync_runs(source_note, summary_json) VALUES (?, ?)', (str(checkins_path.relative_to(ROOT)), json.dumps(summary, ensure_ascii=False)))
+    conn.execute('INSERT INTO sync_runs(source_note, summary_json) VALUES (?, ?)', (', '.join(synced_sources), json.dumps(summary, ensure_ascii=False)))
     conn.commit()
     print(json.dumps(summary, ensure_ascii=False, indent=2))
 

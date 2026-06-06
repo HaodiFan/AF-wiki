@@ -48,6 +48,8 @@ For agent systems, ontology is best treated as an external, explicit world model
 ## Connected notes
 
 - [[../../../resources/research/2026-04-26-ontology-modern-ai-systems-deep-research|Ontology在现代AI系统中的演化与应用]] — full-text deep research report.
+- [[../source-notes/2026-06-01-ontology-digital-human-minutes|2026-06-01 本体论与数字人构建 听记]] — a DingTalk minutes note connecting classical ontology to digital-human and self-evolving-agent architecture.
+- [[../source-notes/2026-06-03-philosophy-essence-cognitive-boundary-minutes|2026-06-03 哲学本质与认知边界 听记]] — a DingTalk minutes note on classical ontology, epistemology, mathematics, and the boundary between philosophy and science.
 - [[data-management|Data Management / 数据管理]] — data governance, provenance, compliance, and platform layer beneath ontology.
 - [[agent-runtime|Agent Runtime / 智能体运行时]] — runtime layer that consumes ontology objects, actions, state, permissions, and traces.
 - [[function-calling-and-tool-use|Function Calling and Tool Use / 函数调用与工具使用]] — narrower tool interface that ontology can subsume or coordinate.

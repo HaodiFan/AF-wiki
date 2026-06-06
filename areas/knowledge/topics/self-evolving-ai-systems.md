@@ -42,6 +42,7 @@ In this wiki, the topic is connected to harness engineering because durable self
 - [[agent-runtime|Agent Runtime]]
 - [[workflow-runtime|Workflow Runtime]]
 - [[llm-safety-interpretability|LLM Safety and Interpretability]]
+- [[hermes-agent-self-evolution|Hermes Agent Self-Evolution / Hermes Agent 自演化]]
 
 ## Open questions
 

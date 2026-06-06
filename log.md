@@ -120,3 +120,23 @@ tags:
 - Attempted extraction for 7 微信公众号 links and stored available正文 excerpts
 - Updated `resources/knowledge/wechat-public-account-articles.md` with article-note links
 ---
+
+## [2026-06-02] capture | Added publication idea note for avatar and DingTalk workflows
+- Added `resources/ideas/2026-06-02-publication-ideas-avatar-work-dingtalk-capture.md`
+- Captured four publication ideas: avatar training, avatar MBTI, avatar overnight work collaboration, and DingTalk Minutes -> CLI -> AF-wiki knowledge loop
+---
+## [2026-06-02] ingest | Added DingTalk minutes notes for ontology and project SOW topics
+- Added `areas/knowledge/source-notes/2026-06-01-ontology-digital-human-minutes.md` from DingTalk Minutes, capturing classical ontology -> digital human / self-evolving agent mappings
+- Added `areas/work/source-notes/2026-03-19-project-sow-tool-readiness-risk-minutes.md` from DingTalk Minutes, capturing SOW ambiguity, tool-readiness mismatch, and delivery-risk lessons
+- Linked the ontology minutes note from `areas/knowledge/topics/ontology.md`
+---
+
+## [2026-06-04] ingest | Added DingTalk minutes notes for Aristotle and Greek philosophy timeline
+- Added `areas/knowledge/source-notes/2026-06-03-aristotle-metaphysics-first-mover-minutes.md` from DingTalk Minutes, capturing Aristotle's metaphysics, first mover logic, internal tension around pure form, and modern critiques of teleology
+- Added `areas/knowledge/source-notes/2026-06-04-greek-philosophy-timeline-platonic-idealism-aristotle-elements-minutes.md` from DingTalk Minutes, capturing Platonic idealism, Aristotle's elements / geocentrism / aether, Eudoxus, and the shift from Homeric myth to essence-based philosophy
+---
+
+## [2026-06-03] ingest | Added DingTalk minutes note for philosophy, ontology, and epistemology
+- Added `areas/knowledge/source-notes/2026-06-03-philosophy-essence-cognitive-boundary-minutes.md` from DingTalk Minutes, capturing classical ontology, forms vs matter, mathematics as a challenge case, and philosophy vs science boundary questions
+- Linked the new minutes note from `areas/knowledge/topics/ontology.md`
+---
